@@ -1,0 +1,1 @@
+#REDIRECT [[mathml/elements/math]]
