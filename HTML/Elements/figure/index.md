@@ -1,0 +1,1 @@
+#REDIRECT [[html/elements/figure]]
