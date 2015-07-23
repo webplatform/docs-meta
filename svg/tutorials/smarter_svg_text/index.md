@@ -1,0 +1,1 @@
+#REDIRECT [[svg/tutorials/smarter_svg_text]]
