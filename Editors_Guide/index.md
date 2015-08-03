@@ -73,24 +73,13 @@ title: Meta:Editors Guide
 </p>
 <h2><span class="mw-headline" id="Subpage_structure">Subpage structure</span></h2>
 <p>Just an outline.  Will be removed once the guide is improved some more.
-&lt;subpages /&gt;
 </p>
-<!-- 
-NewPP limit report
-CPU time usage: 0.035 seconds
-Real time usage: 0.037 seconds
-Preprocessor visited node count: 62/1000000
-Preprocessor generated node count: 68/1000000
-Post‐expand include size: 0/2097152 bytes
-Template argument size: 0/2097152 bytes
-Highest expansion depth: 2/40
-Expensive parser function count: 0/100
--->
+<div class="subpagelist">
+<ul><li> <a href="/wiki/Meta:Editors_Guide/Topic_Hierarchy" title="Meta:Editors Guide/Topic Hierarchy">Topic Hierarchy</a>
+<ul><li> <a href="/wiki/Meta:Editors_Guide/Topic_Hierarchy/Topic_Clusters" title="Meta:Editors Guide/Topic Hierarchy/Topic Clusters">Topic Clusters</a>
+<ul><li> <a href="/wiki/Meta:Editors_Guide/Topic_Hierarchy/Topic_Clusters/Examples" title="Meta:Editors Guide/Topic Hierarchy/Topic Clusters/Examples">Examples</a></li></ul></li></ul></li>
+<li> <a href="/wiki/Meta:Editors_Guide/content" title="Meta:Editors Guide/content">content</a>
+<ul><li> <a href="/wiki/Meta:Editors_Guide/content/types" title="Meta:Editors Guide/content/types">types</a></div></li></ul></li></ul>
 
-<!-- 
-Transclusion expansion time report (%,ms,calls,template)
-100.00%    0.000      1 - -total
--->
-
-<!-- Saved in parser cache with key wpwiki:pcache:idhash:6306-0!*!0!!*!*!*!esi=1 and timestamp 20150731042644 and revision id 101021
+<!-- Saved in parser cache with key wpwiki:pcache:idhash:6306-0!*!0!!*!*!*!esi=1 and timestamp 20150803225528 and revision id 101749
  -->

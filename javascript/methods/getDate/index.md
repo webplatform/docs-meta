@@ -35,5 +35,5 @@ Method of: <a href="/w/index.php?title=javascript/objects/Date&amp;action=edit&a
 <p><a href="/w/index.php?title=javascript/methods/getUTCDate&amp;action=edit&amp;redlink=1" class="new" title="javascript/methods/getUTCDate (page does not exist)">getUTCDate</a>, <a href="/w/index.php?title=javascript/methods/getUTCDay&amp;action=edit&amp;redlink=1" class="new" title="javascript/methods/getUTCDay (page does not exist)">getUTCDay</a>, <a href="/w/index.php?title=javascript/methods/setDate&amp;action=edit&amp;redlink=1" class="new" title="javascript/methods/setDate (page does not exist)">setDate</a>
 </p><p><b>test</b>
 </p>
-<!-- Saved in parser cache with key wpwiki:pcache:idhash:121-0!*!0!!*!*!*!esi=1 and timestamp 20150731181356 and revision id 45442
+<!-- Saved in parser cache with key wpwiki:pcache:idhash:121-0!*!0!!*!*!*!esi=1 and timestamp 20150803224842 and revision id 45442
  -->
