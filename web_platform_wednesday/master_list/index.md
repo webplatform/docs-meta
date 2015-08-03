@@ -1,2283 +1,4243 @@
-This is the master list of CSS properties that we are using to coordinate participation in [[Meta:web_platform_wednesday|our drive to Beta status]].
+---
+title: Meta:web platform wednesday/master list
+---
+<p>This is the master list of CSS properties that we are using to coordinate participation in <a href="/wiki/Meta:web_platform_wednesday" title="Meta:web platform wednesday">our drive to Beta status</a>.
+</p><p>If you are looking for a task to work on, we ask that you first consider working on an article listed on the current  <a href="/wiki/Meta:web_platform_wednesday" title="Meta:web platform wednesday">Web Platform Wednesdays</a> page. This way, we can be systematic and ensure completeness, quality, and review. If you can't find anything there that interests you, then feel free to pick a task from this list, and contact one of the <b>coordinators</b> listed on <a href="/wiki/Meta:web_platform_wednesday" title="Meta:web platform wednesday">Web Platform Wednesdays</a>, so they can add it to the list of work for this week. That way, we can make sure that all the tasks for that article get finished, and that you are properly credited.
+</p><p>If you are not a coordinator, please <b>do not edit this page</b>. If you have suggestions for improvements, please make a suggestion on the community mailing list, <a rel="nofollow" class="external text" href="mailto:public-webplatform@w3.org?subject=(Masterlist)">public-webplatform@w3.org</a>.
+</p>
+<h2><span class="mw-headline" id="Weekly_Themes">Weekly Themes</span></h2>
+<table class="wikitable sortable">
+<tr>
+<th> Theme Group
+</th>
+<th> Theme Topics
+</th></tr>
+<tr>
+<td> A
+</td>
+<td> Text
+</td></tr>
+<tr>
+<td> B
+</td>
+<td> Flex box, shape &amp; remainder of text
+</td></tr>
+<tr>
+<td> C
+</td>
+<td> Grid &amp; column layout
+</td></tr>
+<tr>
+<td> D
+</td>
+<td> Background, borders, transforms &amp; overflow
+</td></tr>
+<tr>
+<td> E
+</td>
+<td> Padding, size, layout &amp; page
+</td></tr>
+<tr>
+<td> F
+</td>
+<td> Animation, transitions &amp; masking
+</td></tr>
+<tr>
+<td> G
+</td>
+<td> Text properties
+</td></tr>
+<tr>
+<td> H
+</td>
+<td> More text properties
+</td></tr>
+<tr>
+<td> I
+</td>
+<td> Picking up grid &amp; layout properties
+</td></tr>
+<tr>
+<td> J
+</td>
+<td> Misc properties
+</td></tr>
+<tr>
+<td> W
+</td>
+<td> Properties not in the original master list. Doc?
+</td></tr>
+<tr>
+<td> X
+</td>
+<td> Not implemented, we won't doc for now.
+</td></tr></table>
+<h2><span class="mw-headline" id="Master_List">Master List</span></h2>
+<p>This is the list of all CSS properties that are not yet done.
+</p>
+<table class="wikitable sortable">
+<tr>
+<th> Article Name
+</th>
+<th> Topic Cluster
+</th>
+<th> Spec URL
+</th>
+<th> Standards
+</th>
+<th> Priority
+</th>
+<th> Week
+</th></tr>
+<tr>
+<td> alignment-adjust
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td> ED
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> all-space-treatment
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> binding
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/becss/">http://www.w3.org/TR/becss/</a>
+</td>
+<td> WD
+</td>
+<td> P4
+</td>
+<td>
+</td></tr>
+<tr>
+<td> block-progression
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> box-decoration-break
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/">http://www.w3.org/TR/css3-background/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> J
+</td></tr>
+<tr>
+<td> background-position-x
+</td>
+<td>
+</td>
+<td> none
+</td>
+<td>
+</td>
+<td> P4
+</td>
+<td>
+</td></tr>
+<tr>
+<td> background-position-y
+</td>
+<td>
+</td>
+<td> none
+</td>
+<td>
+</td>
+<td> P4
+</td>
+<td>
+</td></tr>
+<tr>
+<td> box-snap
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-line-grid/">http://dev.w3.org/csswg/css-line-grid/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> clip
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> CSS2
+</td>
+<td> P2
+</td>
+<td> J
+</td></tr>
+<tr>
+<td> clip-path
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="https://dvcs.w3.org/hg/FXTF/raw-file/tip/masking/index.html">https://dvcs.w3.org/hg/FXTF/raw-file/tip/masking/index.html</a>
+</td>
+<td> ED
+</td>
+<td> P2
+</td>
+<td> J
+</td></tr>
+<tr>
+<td> clip-rule
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="https://dvcs.w3.org/hg/FXTF/raw-file/tip/masking/index.html">https://dvcs.w3.org/hg/FXTF/raw-file/tip/masking/index.html</a>
+</td>
+<td> ED
+</td>
+<td> P2
+</td>
+<td> J
+</td></tr>
+<tr>
+<td> color-correction
+</td>
+<td> color properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-color-correction/">http://dev.w3.org/csswg/css-color-correction/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> color-interpolation
+</td>
+<td> color properties
+</td>
+<td>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> color-interpolation-filters
+</td>
+<td> filter properties
+</td>
+<td> <a rel="nofollow" class="external free" href="https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html">https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> color-rendering
+</td>
+<td> color properties
+</td>
+<td>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> column-fill
+</td>
+<td> multi-column layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-multicol/">http://www.w3.org/TR/css3-multicol/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> C
+</td></tr>
+<tr>
+<td> columns
+</td>
+<td> multi-column layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-multicol/">http://www.w3.org/TR/css3-multicol/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> C
+</td></tr>
+<tr>
+<td> cue
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> cue-after
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> cue-before
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> dominant-baseline
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> drop-initial-after-adjust
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> drop-initial-after-align
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> drop-initial-before-adjust
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> drop-initial-before-align
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> drop-initial-size
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> drop-initial-value
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> fill
+</td>
+<td> SVG color properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/SVG/painting.html">http://www.w3.org/TR/SVG/painting.html</a>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> fill-opacity
+</td>
+<td> SVG fill properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/SVG/painting.html">http://www.w3.org/TR/SVG/painting.html</a>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> fill-rule
+</td>
+<td> SVG fill properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/SVG/painting.html">http://www.w3.org/TR/SVG/painting.html</a>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> flood-color
+</td>
+<td> SVG filter properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> flood-opacity
+</td>
+<td> SVG filter properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> font-kerning
+</td>
+<td> font properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-fonts/">http://dev.w3.org/csswg/css3-fonts/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> font-language-override
+</td>
+<td> font properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-fonts/">http://dev.w3.org/csswg/css3-fonts/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> font-synthesis
+</td>
+<td> font properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-fonts/">http://dev.w3.org/csswg/css3-fonts/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> font-variant-alternates
+</td>
+<td> font properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-fonts/">http://dev.w3.org/csswg/css3-fonts/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> font-variant-caps
+</td>
+<td> font properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-fonts/">http://dev.w3.org/csswg/css3-fonts/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> font-variant-east-asian
+</td>
+<td> font properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-fonts/">http://dev.w3.org/csswg/css3-fonts/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> font-variant-ligatures
+</td>
+<td> font properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-fonts/">http://dev.w3.org/csswg/css3-fonts/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> font-variant-numeric
+</td>
+<td> font properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-fonts/">http://dev.w3.org/csswg/css3-fonts/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> font-variant-position
+</td>
+<td> font properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-fonts/">http://dev.w3.org/csswg/css3-fonts/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> glyph-orientation-horizontal
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> glyph-orientation-vertical
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> grid-auto-columns
+</td>
+<td> grid layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-grid-layout/">http://www.w3.org/TR/css3-grid-layout/</a>
+</td>
+<td> WD
+</td>
+<td> P1
+</td>
+<td> C
+</td></tr>
+<tr>
+<td> grid-auto-flow
+</td>
+<td> grid layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-grid-layout/">http://www.w3.org/TR/css3-grid-layout/</a>
+</td>
+<td> WD
+</td>
+<td> P1
+</td>
+<td> C
+</td></tr>
+<tr>
+<td> grid-auto-rows
+</td>
+<td> grid layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-grid-layout/">http://www.w3.org/TR/css3-grid-layout/</a>
+</td>
+<td> WD
+</td>
+<td> P1
+</td>
+<td> C
+</td></tr>
+<tr>
+<td> grid-definition-columns
+</td>
+<td> grid layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-grid-layout/">http://www.w3.org/TR/css3-grid-layout/</a>
+</td>
+<td> WD
+</td>
+<td> P1
+</td>
+<td> C
+</td></tr>
+<tr>
+<td> grid-definition-rows
+</td>
+<td> grid layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-grid-layout/">http://www.w3.org/TR/css3-grid-layout/</a>
+</td>
+<td> WD
+</td>
+<td> P1
+</td>
+<td> C
+</td></tr>
+<tr>
+<td> grid-position
+</td>
+<td> grid layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-grid-layout/">http://www.w3.org/TR/css3-grid-layout/</a>
+</td>
+<td> WD
+</td>
+<td> P1
+</td>
+<td> C
+</td></tr>
+<tr>
+<td> grid-row-span
+</td>
+<td> grid layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-grid-layout/">http://www.w3.org/TR/css3-grid-layout/</a>
+</td>
+<td> WD
+</td>
+<td> P1
+</td>
+<td> C
+</td></tr>
+<tr>
+<td> grid-span
+</td>
+<td> grid layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-grid-layout/">http://www.w3.org/TR/css3-grid-layout/</a>
+</td>
+<td> WD
+</td>
+<td> P1
+</td>
+<td> C
+</td></tr>
+<tr>
+<td> grid-template
+</td>
+<td> grid layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-grid-layout/">http://www.w3.org/TR/css3-grid-layout/</a>
+</td>
+<td> WD
+</td>
+<td> P1
+</td>
+<td> C
+</td></tr>
+<tr>
+<td> icon
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-ui/">http://dev.w3.org/csswg/css3-ui/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> image-orientation
+</td>
+<td> image properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-images/">http://dev.w3.org/csswg/css3-images/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> image-rendering
+</td>
+<td> image properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css4-images/">http://dev.w3.org/csswg/css4-images/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> image-resolution
+</td>
+<td> image properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-images/">http://dev.w3.org/csswg/css3-images/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> ime-mode
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-ui/">http://dev.w3.org/csswg/css3-ui/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> inline-box-align
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> interpret-as
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> WD
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> isolation
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html">https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> kerning-mode
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> kerning-pair-threshold
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> knock-out
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html">https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html</a>
+</td>
+<td> ED
+</td>
+<td> P2
+</td>
+<td> J
+</td></tr>
+<tr>
+<td> layout-flow
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> WD
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> lighting-color
+</td>
+<td> SVG filter properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> line-box-contain
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> line-feed-treatment
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> line-grid
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> line-grid-mode
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> line-grid-progression
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> line-slack
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-line-grid/">http://dev.w3.org/csswg/css-line-grid/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> line-snap
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-line-grid/">http://dev.w3.org/csswg/css-line-grid/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> link
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> CSS2.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> marker
+</td>
+<td> marker properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/SVG2/painting.html">http://www.w3.org/TR/SVG2/painting.html</a>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> marker-end
+</td>
+<td> marker properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/SVG2/painting.html">http://www.w3.org/TR/SVG2/painting.html</a>
+</td>
+<td> SVG2
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> marker-mid
+</td>
+<td> marker properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/SVG2/painting.html">http://www.w3.org/TR/SVG2/painting.html</a>
+</td>
+<td> SVG2
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> marker-start
+</td>
+<td> marker properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/SVG2/painting.html">http://www.w3.org/TR/SVG2/painting.html</a>
+</td>
+<td> SVG2
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> marquee-direction
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2008/WD-css3-marquee-20080801/">http://www.w3.org/TR/2008/WD-css3-marquee-20080801/</a>
+</td>
+<td> WD
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> max-font-size
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> min-font-size
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> mix-blend-mode
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html">https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> mix-composite
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html">https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> nav-down
+</td>
+<td> navigation properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-ui/">http://dev.w3.org/csswg/css3-ui/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> nav-index
+</td>
+<td> navigation properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-ui/">http://dev.w3.org/csswg/css3-ui/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> nav-left
+</td>
+<td> navigation properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-ui/">http://dev.w3.org/csswg/css3-ui/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> nav-right
+</td>
+<td> navigation properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-ui/">http://dev.w3.org/csswg/css3-ui/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> nav-up
+</td>
+<td> navigation properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-ui/">http://dev.w3.org/csswg/css3-ui/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> object-fit
+</td>
+<td> image properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-images/">http://dev.w3.org/csswg/css3-images/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> object-position
+</td>
+<td> image properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-images/">http://dev.w3.org/csswg/css3-images/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> pause
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> pause-after
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> pause-before
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> phonemes
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>&#160;?
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> punctuation-trim
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> resize
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-ui/">http://dev.w3.org/csswg/css3-ui/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> rest
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> rest-after
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> rest-before
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> ruby-align
+</td>
+<td> ruby properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-ruby/">http://www.w3.org/TR/css3-ruby/</a>
+</td>
+<td> WD
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> ruby-overhang
+</td>
+<td> ruby properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-ruby/">http://www.w3.org/TR/css3-ruby/</a>
+</td>
+<td> WD
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> ruby-position
+</td>
+<td> ruby properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-ruby/">http://www.w3.org/TR/css3-ruby/</a>
+</td>
+<td> WD
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> ruby-span
+</td>
+<td> ruby properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-ruby/">http://www.w3.org/TR/css3-ruby/</a>
+</td>
+<td> WD
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> shape-image-threshold
+</td>
+<td> text-wrapping properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-exclusions/">http://dev.w3.org/csswg/css3-exclusions/</a>
+</td>
+<td> ED
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> shape-inside
+</td>
+<td> text-wrapping properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-exclusions/">http://dev.w3.org/csswg/css3-exclusions/</a>
+</td>
+<td> ED
+</td>
+<td> P2
+</td>
+<td> X - due to it not yet being implemented
+</td></tr>
+<tr>
+<td> shape-outside
+</td>
+<td> text-wrapping properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-exclusions/">http://dev.w3.org/csswg/css3-exclusions/</a>
+</td>
+<td> ED
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> shape-rendering
+</td>
+<td> SVG rendering properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> speak
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> speak-as
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> stop-color
+</td>
+<td> SVG gradient properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> stop-opacity
+</td>
+<td> SVG gradient properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> stroke
+</td>
+<td> SVG paint properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> stroke-dasharray
+</td>
+<td> SVG stroke properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> stroke-dashoffset
+</td>
+<td> SVG stroke properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> stroke-linecap
+</td>
+<td> SVG stroke properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> stroke-linejoin
+</td>
+<td> SVG stroke properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> stroke-miterlimit
+</td>
+<td> SVG stroke properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> stroke-opacity
+</td>
+<td> SVG stroke properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> stroke-width
+</td>
+<td> SVG stroke properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> table-baseline
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> text-anchor
+</td>
+<td> SVG text properties
+</td>
+<td>
+</td>
+<td> SVG 1.1
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> text-blink
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> text-combine
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> text-combine-horizontal
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-writing-modes/">http://dev.w3.org/csswg/css3-writing-modes/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> text-height
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td> ED
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-justify-trim
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-kashida-space
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> text-line-through
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-line-through-color
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-line-through-mode
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-line-through-style
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-line-through-width
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-orientation
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-writing-modes/">http://dev.w3.org/csswg/css3-writing-modes/</a>
+</td>
+<td> ED
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> text-overline
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-overline-color
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-overline-mode
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-overline-style
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-overline-width
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-script
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> A
+</td></tr>
+<tr>
+<td> text-underline
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P4
+</td>
+<td> X - due to property not having been implemented
+</td></tr>
+<tr>
+<td> text-underline-color
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P4
+</td>
+<td> X - due to property not having been implemented
+</td></tr>
+<tr>
+<td> text-underline-mode
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P4
+</td>
+<td> X - due to property not having been implemented
+</td></tr>
+<tr>
+<td> text-underline-style
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P4
+</td>
+<td> X - due to property not having been implemented
+</td></tr>
+<tr>
+<td> text-underline-width
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P4
+</td>
+<td> X -  due to property not having been implemented
+</td></tr>
+<tr>
+<td> unicode-range
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-fonts/">http://dev.w3.org/csswg/css3-fonts/</a>
+</td>
+<td> ED
+</td>
+<td> P2
+</td>
+<td> J
+</td></tr>
+<tr>
+<td> user-focus
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> N
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> user-input
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> N
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> user-modify
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> N
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> user-select
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> N
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> vector-effect
+</td>
+<td> SVG vector properties
+</td>
+<td>
+</td>
+<td> SVG2
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> visibility
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> CSS2.1
+</td>
+<td> P2
+</td>
+<td> J
+</td></tr>
+<tr>
+<td> voice-balance
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> voice-duration
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> voice-family
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> voice-pitch
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> voice-pitch-range
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> voice-rate
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> voice-volume
+</td>
+<td> speech properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-speech/">http://www.w3.org/TR/css3-speech/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> white-space-treatment
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> word-break-cjk
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P3
+</td>
+<td>
+</td></tr>
+<tr>
+<td> wrap-margin
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> N
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> wrap-option
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> CR
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> wrap-through
+</td>
+<td> text-wrapping properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-exclusions/">http://dev.w3.org/csswg/css3-exclusions/</a>
+</td>
+<td> ED
+</td>
+<td> P2
+</td>
+<td> B
+</td></tr>
+<tr>
+<td> z-index
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> CSS2
+</td>
+<td> P2
+</td>
+<td> J
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> alignment-adjust
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> alignment-baseline
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> all-space-treatment
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> baseline-shift
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> binding
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> block-progression
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> box-decoration-break
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> box-snap
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> clip-rule
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> color-correction
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> color-interpolation-filters
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> color-interpolation
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> color-rendering
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> cue-after
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> cue-before
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> cue
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> dominant-baseline
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> drop-initial-after-adjust
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> drop-initial-after-align
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> drop-initial-before-adjust
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> drop-initial-before-align
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> drop-initial-size
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> drop-initial-value
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> fill-opacity
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> fill-rule
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> fill
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> flood-color
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> flood-opacity
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> font-kerning
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> font-language-override
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> font-synthesis
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> font-variant-alternates
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> font-variant-caps
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> font-variant-east-asian
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> font-variant-ligatures
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> font-variant-numeric
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> font-variant-position
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> glyph-orientation-horizontal
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> glyph-orientation-vertical
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-area
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-auto-columns
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-auto-flow
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-auto-rows
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-column-position
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-column-span
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-column
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-definition-columns
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-definition-rows
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-position
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-row-position
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-row-span
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-row
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-span
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> grid-template
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> icon
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> image-orientation
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> image-rendering
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> image-resolution
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> inline-box-align
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> interpret-as
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> isolation
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> kerning-mode
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> kerning-pair-threshold
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> knock-out
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> lighting-color
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> line-box-contain
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> line-feed-treatment
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> line-grid-mode
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> line-grid-progression
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> line-grid
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> line-slack
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> line-snap
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> link
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> marker-end
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> marker-mid
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> marker-start
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> marker
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> marquee-direction
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> marquee-speed
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> marquee-style
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> marquee
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> mask-type
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> max-font-size
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> min-font-size
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> mix-blend-mode
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> mix-composite
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> name
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> nav-down
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> nav-index
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> nav-left
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> nav-right
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> nav-up
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> object-position
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> pause-after
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> pause-before
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> pause
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> phonemes
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> punctuation-trim
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> resize
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> rest-after
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> rest-before
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> rest
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> ruby-span
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> shape-padding
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> shape-rendering
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> speak-as
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> speak
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> stop-color
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> stop-opacity
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> stroke-dasharray
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> stroke-dashoffset
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> stroke-linecap
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> stroke-linejoin
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> stroke-miterlimit
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> stroke-opacity
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> stroke-width
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> stroke
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> table-baseline
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-anchor
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-blink
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-combine-horizontal
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-combine
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-height
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-justify-trim
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-line-through-color
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-line-through-mode
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-line-through-style
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-line-through-width
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-line-through
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-orientation
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-overline-color
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-overline-mode
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-overline-style
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-overline-width
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-overline
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-script
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-underline-color
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> text-underline-mode
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> unicode-range
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> user-focus
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> user-input
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> user-modify
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> vector-effect
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> voice-balance
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> voice-duration
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> voice-family
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> voice-pitch-range
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> voice-pitch
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> voice-rate
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> voice-stress
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> voice-volume
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> white-space-treatment
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> word-break-cjk
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr>
+<tr>
+<td> word-break-inside
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> W - was missing from original list. Should we add it?
+</td></tr></table>
 
-If you are looking for a task to work on, we ask that you first consider working on an article listed on the current  [[Meta:web_platform_wednesday|Web Platform Wednesdays]] page. This way, we can be systematic and ensure completeness, quality, and review. If you can't find anything there that interests you, then feel free to pick a task from this list, and contact one of the '''coordinators''' listed on [[Meta:web_platform_wednesday|Web Platform Wednesdays]], so they can add it to the list of work for this week. That way, we can make sure that all the tasks for that article get finished, and that you are properly credited.
+<!-- 
+NewPP limit report
+CPU time usage: 0.259 seconds
+Real time usage: 0.261 seconds
+Preprocessor visited node count: 7/1000000
+Preprocessor generated node count: 12/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
 
-If you are not a coordinator, please '''do not edit this page'''. If you have suggestions for improvements, please make a suggestion on the community mailing list, [mailto:public-webplatform@w3.org?subject=(Masterlist) public-webplatform@w3.org].
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 - -total
+-->
 
-==Weekly Themes==
-{| class="wikitable sortable"
-! Theme Group
-! Theme Topics
-|-
-| A
-| Text
-|-
-| B
-| Flex box, shape & remainder of text
-|-
-| C
-| Grid & column layout
-|-
-| D
-| Background, borders, transforms & overflow
-|-
-| E
-| Padding, size, layout & page
-|-
-| F
-| Animation, transitions & masking
-|-
-| G
-| Text properties
-|-
-| H
-| More text properties
-|-
-| I
-| Picking up grid & layout properties
-|-
-| J
-| Misc properties
-|-
-| W
-| Properties not in the original master list. Doc?
-|-
-| X
-| Not implemented, we won't doc for now.
-|}
-
-==Master List==
-This is the list of all CSS properties that are not yet done.
-{| class="wikitable sortable"
-! Article Name
-! Topic Cluster
-! Spec URL
-! Standards
-! Priority
-! Week 
-|-
-| alignment-adjust
-| text-line properties
-| http://dev.w3.org/csswg/css3-linebox/
-| ED
-| P2
-| B
-|-
-| all-space-treatment
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| B
-|-
-| binding
-| 
-| http://www.w3.org/TR/becss/
-| WD
-| P4
-| 
-|-
-| block-progression
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| B
-|-
-| box-decoration-break
-| 
-| http://www.w3.org/TR/css3-background/
-| CR
-| P2
-| J
-|-
-| background-position-x
-| 
-| none
-|
-| P4
-| 
-|-
-| background-position-y
-| 
-| none
-|
-| P4
-| 
-|-
-| box-snap
-| 
-| http://dev.w3.org/csswg/css-line-grid/
-| ED
-| P3
-| 
-|-
-| clip
-| 
-| 
-| CSS2
-| P2
-| J
-|-
-| clip-path
-| 
-| https://dvcs.w3.org/hg/FXTF/raw-file/tip/masking/index.html
-| ED
-| P2
-| J
-|-
-| clip-rule
-| 
-| https://dvcs.w3.org/hg/FXTF/raw-file/tip/masking/index.html
-| ED
-| P2
-| J
-|-
-| color-correction
-| color properties
-| http://dev.w3.org/csswg/css-color-correction/
-| ED
-| P3
-| 
-|-
-| color-interpolation
-| color properties
-| 
-| ED
-| P3
-| 
-|-
-| color-interpolation-filters
-| filter properties
-| https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/index.html
-| ED
-| P3
-| 
-|-
-| color-rendering
-| color properties
-| 
-| ED
-| P3
-| 
-|-
-| column-fill
-| multi-column layout properties
-| http://www.w3.org/TR/css3-multicol/
-| CR
-| P2
-| C
-|-
-| columns
-| multi-column layout properties
-| http://www.w3.org/TR/css3-multicol/
-| CR
-| P2
-| C
-|-
-| cue
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| cue-after
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| cue-before
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| dominant-baseline
-| text-line properties
-| http://dev.w3.org/csswg/css3-linebox/
-| ED
-| P3
-| 
-|-
-| drop-initial-after-adjust
-| text-line properties
-| http://dev.w3.org/csswg/css3-linebox/
-| ED
-| P3
-| 
-|-
-| drop-initial-after-align
-| text-line properties
-| http://dev.w3.org/csswg/css3-linebox/
-| ED
-| P3
-| 
-|-
-| drop-initial-before-adjust
-| text-line properties
-| http://dev.w3.org/csswg/css3-linebox/
-| ED
-| P3
-| 
-|-
-| drop-initial-before-align
-| text-line properties
-| http://dev.w3.org/csswg/css3-linebox/
-| ED
-| P3
-| 
-|-
-| drop-initial-size
-| text-line properties
-| http://dev.w3.org/csswg/css3-linebox/
-| ED
-| P3
-| 
-|-
-| drop-initial-value
-| text-line properties
-| http://dev.w3.org/csswg/css3-linebox/
-| ED
-| P3
-| 
-|-
-| fill
-| SVG color properties
-| http://www.w3.org/TR/SVG/painting.html
-| SVG 1.1
-| P3
-| 
-|-
-| fill-opacity
-| SVG fill properties
-| http://www.w3.org/TR/SVG/painting.html
-| SVG 1.1
-| P3
-| 
-|-
-| fill-rule
-| SVG fill properties
-| http://www.w3.org/TR/SVG/painting.html
-| SVG 1.1
-| P3
-| 
-|-
-| flood-color
-| SVG filter properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| flood-opacity
-| SVG filter properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| font-kerning
-| font properties
-| http://dev.w3.org/csswg/css3-fonts/
-| ED
-| P3
-| 
-|-
-| font-language-override
-| font properties
-| http://dev.w3.org/csswg/css3-fonts/
-| ED
-| P3
-| 
-|-
-| font-synthesis
-| font properties
-| http://dev.w3.org/csswg/css3-fonts/
-| ED
-| P3
-| 
-|-
-| font-variant-alternates
-| font properties
-| http://dev.w3.org/csswg/css3-fonts/
-| ED
-| P3
-| 
-|-
-| font-variant-caps
-| font properties
-| http://dev.w3.org/csswg/css3-fonts/
-| ED
-| P3
-| 
-|-
-| font-variant-east-asian
-| font properties
-| http://dev.w3.org/csswg/css3-fonts/
-| ED
-| P3
-| 
-|-
-| font-variant-ligatures
-| font properties
-| http://dev.w3.org/csswg/css3-fonts/
-| ED
-| P3
-| 
-|-
-| font-variant-numeric
-| font properties
-| http://dev.w3.org/csswg/css3-fonts/
-| ED
-| P3
-| 
-|-
-| font-variant-position
-| font properties
-| http://dev.w3.org/csswg/css3-fonts/
-| ED
-| P3
-| 
-|-
-| glyph-orientation-horizontal
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P3
-| 
-|-
-| glyph-orientation-vertical
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P3
-| 
-|-
-| grid-auto-columns
-| grid layout properties
-| http://www.w3.org/TR/css3-grid-layout/
-| WD
-| P1
-| C
-|-
-| grid-auto-flow
-| grid layout properties
-| http://www.w3.org/TR/css3-grid-layout/
-| WD
-| P1
-| C
-|-
-| grid-auto-rows
-| grid layout properties
-| http://www.w3.org/TR/css3-grid-layout/
-| WD
-| P1
-| C
-|-
-| grid-definition-columns
-| grid layout properties
-| http://www.w3.org/TR/css3-grid-layout/
-| WD
-| P1
-| C
-|-
-| grid-definition-rows
-| grid layout properties
-| http://www.w3.org/TR/css3-grid-layout/
-| WD
-| P1
-| C
-|-
-| grid-position
-| grid layout properties
-| http://www.w3.org/TR/css3-grid-layout/
-| WD
-| P1
-| C
-|-
-| grid-row-span
-| grid layout properties
-| http://www.w3.org/TR/css3-grid-layout/
-| WD
-| P1
-| C
-|-
-| grid-span
-| grid layout properties
-| http://www.w3.org/TR/css3-grid-layout/
-| WD
-| P1
-| C
-|-
-| grid-template
-| grid layout properties
-| http://www.w3.org/TR/css3-grid-layout/
-| WD
-| P1
-| C
-|-
-| icon
-| 
-| http://dev.w3.org/csswg/css3-ui/
-| ED
-| P3
-| 
-|-
-| image-orientation
-| image properties
-| http://dev.w3.org/csswg/css3-images/
-| ED
-| P3
-| 
-|-
-| image-rendering
-| image properties
-| http://dev.w3.org/csswg/css4-images/
-| ED
-| P3
-| 
-|-
-| image-resolution
-| image properties
-| http://dev.w3.org/csswg/css3-images/
-| ED
-| P3
-| 
-|-
-| ime-mode
-| 
-| http://dev.w3.org/csswg/css3-ui/
-| ED
-| P3
-| 
-|-
-| inline-box-align
-| text-line properties
-| http://dev.w3.org/csswg/css3-linebox/
-| ED
-| P3
-| 
-|-
-| interpret-as
-| 
-| 
-| WD
-| P3
-| 
-|-
-| isolation
-| 
-| https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html
-| ED
-| P3
-| 
-|-
-| kerning-mode
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| B
-|-
-| kerning-pair-threshold
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| B
-|-
-| knock-out
-| 
-| https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html
-| ED
-| P2
-| J
-|-
-| layout-flow
-| 
-| 
-| WD
-| P3
-| 
-|-
-| lighting-color
-| SVG filter properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| line-box-contain
-| text-line properties
-| http://dev.w3.org/csswg/css3-linebox/
-| ED
-| P3
-| 
-|-
-| line-feed-treatment
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P3
-| 
-|-
-| line-grid
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P3
-| 
-|-
-| line-grid-mode
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P3
-| 
-|-
-| line-grid-progression
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P3
-| 
-|-
-| line-slack
-| 
-| http://dev.w3.org/csswg/css-line-grid/
-| ED
-| P3
-| 
-|-
-| line-snap
-| 
-| http://dev.w3.org/csswg/css-line-grid/
-| ED
-| P3
-| 
-|-
-| link
-| 
-| 
-| CSS2.1
-| P3
-| 
-|-
-| marker
-| marker properties
-| http://www.w3.org/TR/SVG2/painting.html
-| SVG 1.1
-| P3
-| 
-|-
-| marker-end
-| marker properties
-| http://www.w3.org/TR/SVG2/painting.html
-| SVG2
-| P3
-| 
-|-
-| marker-mid
-| marker properties
-| http://www.w3.org/TR/SVG2/painting.html
-| SVG2
-| P3
-| 
-|-
-| marker-start
-| marker properties
-| http://www.w3.org/TR/SVG2/painting.html
-| SVG2
-| P3
-| 
-|-
-| marquee-direction
-| 
-| http://www.w3.org/TR/2008/WD-css3-marquee-20080801/
-| WD
-| P3
-| 
-|-
-| max-font-size
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| B
-|-
-| min-font-size
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| B
-|-
-| mix-blend-mode
-| 
-| https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html
-| ED
-| P3
-| 
-|-
-| mix-composite
-| 
-| https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html
-| ED
-| P3
-| 
-|-
-| nav-down
-| navigation properties
-| http://dev.w3.org/csswg/css3-ui/
-| ED
-| P3
-| 
-|-
-| nav-index
-| navigation properties
-| http://dev.w3.org/csswg/css3-ui/
-| ED
-| P3
-| 
-|-
-| nav-left
-| navigation properties
-| http://dev.w3.org/csswg/css3-ui/
-| ED
-| P3
-| 
-|-
-| nav-right
-| navigation properties
-| http://dev.w3.org/csswg/css3-ui/
-| ED
-| P3
-| 
-|-
-| nav-up
-| navigation properties
-| http://dev.w3.org/csswg/css3-ui/
-| ED
-| P3
-| 
-|-
-| object-fit
-| image properties
-| http://dev.w3.org/csswg/css3-images/
-| ED
-| P3
-| 
-|-
-| object-position
-| image properties
-| http://dev.w3.org/csswg/css3-images/
-| ED
-| P3
-| 
-|-
-| pause
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| pause-after
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| pause-before
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| phonemes
-| 
-| 
-| ?
-| P3
-| 
-|-
-| punctuation-trim
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| B
-|-
-| resize
-| 
-| http://dev.w3.org/csswg/css3-ui/
-| ED
-| P3
-| 
-|-
-| rest
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| rest-after
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| rest-before
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| ruby-align
-| ruby properties
-| http://www.w3.org/TR/css3-ruby/
-| WD
-| P3
-| 
-|-
-| ruby-overhang
-| ruby properties
-| http://www.w3.org/TR/css3-ruby/
-| WD
-| P3
-| 
-|-
-| ruby-position
-| ruby properties
-| http://www.w3.org/TR/css3-ruby/
-| WD
-| P3
-| 
-|-
-| ruby-span
-| ruby properties
-| http://www.w3.org/TR/css3-ruby/
-| WD
-| P3
-| 
-|-
-| shape-image-threshold
-| text-wrapping properties
-| http://dev.w3.org/csswg/css3-exclusions/
-| ED
-| P2
-| B
-|-
-| shape-inside
-| text-wrapping properties
-| http://dev.w3.org/csswg/css3-exclusions/
-| ED
-| P2
-| X - due to it not yet being implemented
-|-
-| shape-outside
-| text-wrapping properties
-| http://dev.w3.org/csswg/css3-exclusions/
-| ED
-| P2
-| B
-|-
-| shape-rendering
-| SVG rendering properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| speak
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| speak-as
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| stop-color
-| SVG gradient properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| stop-opacity
-| SVG gradient properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| stroke
-| SVG paint properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| stroke-dasharray
-| SVG stroke properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| stroke-dashoffset
-| SVG stroke properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| stroke-linecap
-| SVG stroke properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| stroke-linejoin
-| SVG stroke properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| stroke-miterlimit
-| SVG stroke properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| stroke-opacity
-| SVG stroke properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| stroke-width
-| SVG stroke properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| table-baseline
-| 
-| 
-| 
-| P3
-| 
-|-
-| text-anchor
-| SVG text properties
-| 
-| SVG 1.1
-| P3
-| 
-|-
-| text-blink
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P3
-| 
-|-
-| text-combine
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P3
-| 
-|-
-| text-combine-horizontal
-| text properties
-| http://dev.w3.org/csswg/css3-writing-modes/
-| ED
-| P3
-| 
-|-
-| text-height
-| text-line properties
-| http://dev.w3.org/csswg/css3-linebox/
-| ED
-| P2
-| A
-|-
-| text-justify-trim
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| A
-|-
-| text-kashida-space
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P3
-| 
-|-
-| text-line-through
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| A
-|-
-| text-line-through-color
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| A
-|-
-| text-line-through-mode
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| A
-|-
-| text-line-through-style
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| A
-|-
-| text-line-through-width
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| A
-|-
-| text-orientation
-| text properties
-| http://dev.w3.org/csswg/css3-writing-modes/
-| ED
-| P3
-| 
-|-
-| text-overline
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| A
-|-
-| text-overline-color
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| A
-|-
-| text-overline-mode
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| A
-|-
-| text-overline-style
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| A
-|-
-| text-overline-width
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| A
-|-
-| text-script
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| A
-|-
-| text-underline
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P4
-| X - due to property not having been implemented
-|-
-| text-underline-color
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P4
-| X - due to property not having been implemented
-|-
-| text-underline-mode
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P4
-| X - due to property not having been implemented
-|-
-| text-underline-style
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P4
-| X - due to property not having been implemented
-|-
-| text-underline-width
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P4
-| X -  due to property not having been implemented
-|-
-| unicode-range
-| 
-| http://dev.w3.org/csswg/css3-fonts/
-| ED
-| P2
-| J
-|-
-| user-focus
-| 
-| 
-| N
-| P3
-| 
-|-
-| user-input
-| 
-| 
-| N
-| P3
-| 
-|-
-| user-modify
-| 
-| 
-| N
-| P3
-| 
-|-
-| user-select
-| 
-| 
-| N
-| P3
-| 
-|-
-| vector-effect
-| SVG vector properties
-| 
-| SVG2
-| P3
-| 
-|-
-| visibility
-| 
-| 
-| CSS2.1
-| P2
-| J
-|-
-| voice-balance
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| voice-duration
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| voice-family
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| voice-pitch
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| voice-pitch-range
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| voice-rate
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| voice-volume
-| speech properties
-| http://www.w3.org/TR/css3-speech/
-| CR
-| P3
-| 
-|-
-| white-space-treatment
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| B
-|-
-| word-break-cjk
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P3
-| 
-|-
-| wrap-margin
-| 
-| 
-| N
-| P2
-| B
-|-
-| wrap-option
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| CR
-| P2
-| B
-|-
-| wrap-through
-| text-wrapping properties
-| http://dev.w3.org/csswg/css3-exclusions/
-| ED
-| P2
-| B
-|-
-| z-index
-| 
-| 
-| CSS2
-| P2
-| J
-|-
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| alignment-adjust
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| alignment-baseline
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| all-space-treatment
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| baseline-shift
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| binding
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| block-progression
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| box-decoration-break
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| box-snap
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| clip-rule
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| color-correction
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| color-interpolation-filters
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| color-interpolation
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| color-rendering
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| cue-after
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| cue-before
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| cue
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| dominant-baseline
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| drop-initial-after-adjust
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| drop-initial-after-align
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| drop-initial-before-adjust
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| drop-initial-before-align
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| drop-initial-size
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| drop-initial-value
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| fill-opacity
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| fill-rule
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| fill
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| flood-color
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| flood-opacity
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| font-kerning
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| font-language-override
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| font-synthesis
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| font-variant-alternates
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| font-variant-caps
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| font-variant-east-asian
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| font-variant-ligatures
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| font-variant-numeric
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| font-variant-position
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| glyph-orientation-horizontal
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| glyph-orientation-vertical
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-area
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-auto-columns
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-auto-flow
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-auto-rows
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-column-position
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-column-span
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-column
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-definition-columns
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-definition-rows
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-position
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-row-position
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-row-span
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-row
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-span
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| grid-template
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| icon
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| image-orientation
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| image-rendering
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| image-resolution
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| inline-box-align
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| interpret-as
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| isolation
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| kerning-mode
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| kerning-pair-threshold
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| knock-out
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| lighting-color
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| line-box-contain
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| line-feed-treatment
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| line-grid-mode
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| line-grid-progression
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| line-grid
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| line-slack
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| line-snap
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| link
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| marker-end
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| marker-mid
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| marker-start
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| marker
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| marquee-direction
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| marquee-speed
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| marquee-style
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| marquee
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| mask-type
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| max-font-size
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| min-font-size
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| mix-blend-mode
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| mix-composite
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| name
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| nav-down
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| nav-index
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| nav-left
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| nav-right
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| nav-up
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| object-position
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| pause-after
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| pause-before
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| pause
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| phonemes
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| punctuation-trim
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| resize
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| rest-after
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| rest-before
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| rest
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| ruby-span
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| shape-padding
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| shape-rendering
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| speak-as
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| speak
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| stop-color
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| stop-opacity
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| stroke-dasharray
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| stroke-dashoffset
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| stroke-linecap
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| stroke-linejoin
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| stroke-miterlimit
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| stroke-opacity
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| stroke-width
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| stroke
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| table-baseline
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-anchor
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-blink
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-combine-horizontal
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-combine
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-height
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-justify-trim
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-line-through-color
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-line-through-mode
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-line-through-style
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-line-through-width
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-line-through
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-orientation
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-overline-color
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-overline-mode
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-overline-style
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-overline-width
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-overline
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-script
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-underline-color
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| text-underline-mode
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| unicode-range
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| user-focus
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| user-input
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| user-modify
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| vector-effect
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| voice-balance
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| voice-duration
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| voice-family
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| voice-pitch-range
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| voice-pitch
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| voice-rate
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| voice-stress
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| voice-volume
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| white-space-treatment
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| word-break-cjk
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|-
-| word-break-inside
-| 
-| 
-| 
-| 
-| W - was missing from original list. Should we add it? 
-|}
+<!-- Saved in parser cache with key wpwiki:pcache:idhash:8310-0!*!0!!*!*!*!esi=1 and timestamp 20150731112456 and revision id 35165
+ -->

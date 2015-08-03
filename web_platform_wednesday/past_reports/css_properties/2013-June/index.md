@@ -1,1549 +1,2926 @@
-===28 June 2013===
+---
+title: Meta:web platform wednesday/past reports/css properties/2013-June
+---
+<h3><span class="mw-headline" id="28_June_2013">28 June 2013</span></h3>
+<p>This is really a set of properties that were done throughout this project, but somehow did not get updated. I've reviewed all pages for cleared flags, examples, and so on, and found the pages to be sufficient.
+</p>
+<table class="wikitable sortable">
+<tr>
+<th> Article Name
+</th>
+<th> Coordinator
+</th>
+<th> Topic Cluster
+</th>
+<th> Spec URL
+</th>
+<th> Basic facts
+</th>
+<th> Explanatory text
+</th>
+<th> Examplesf
+</th>
+<th> Links
+</th>
+<th> Review
+</th>
+<th> Notes
+</th></tr>
+<tr>
+<td> align-content
+</td>
+<td> [[]User:Julee|Julee]
+</td>
+<td> flexbox layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-flexbox/">http://www.w3.org/TR/css3-flexbox/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> color
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> color properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-color/">http://www.w3.org/TR/css3-color/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> column-gap
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> multi-column layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-multicol/">http://www.w3.org/TR/css3-multicol/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> column-rule
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> multi-column layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-multicol/">http://www.w3.org/TR/css3-multicol/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> column-rule-color
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> multi-column layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-multicol/">http://www.w3.org/TR/css3-multicol/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> column-rule-style
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> multi-column layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-multicol/">http://www.w3.org/TR/css3-multicol/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> column-rule-width
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> multi-column layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-multicol/">http://www.w3.org/TR/css3-multicol/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> column-span
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> multi-column layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-multicol/">http://www.w3.org/TR/css3-multicol/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> column-width
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> multi-column layout properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-multicol/">http://www.w3.org/TR/css3-multicol/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> pointer-events
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> region-fragment
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> region properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-regions/">http://dev.w3.org/csswg/css3-regions/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> shape-margin
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> text-wrapping properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-exclusions/">http://dev.w3.org/csswg/css3-exclusions/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> text-autospace
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> text-overflow
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> text-overflow-ellipsis
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> text-overflow-mode
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> text-rendering
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> text properties
+</td>
+<td>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> unicode-bidi
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-writing-modes/">http://dev.w3.org/csswg/css3-writing-modes/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> wrap-flow
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> text-wrapping properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-exclusions/">http://dev.w3.org/csswg/css3-exclusions/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr>
+<tr>
+<td> writing-mode
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-writing-modes/">http://dev.w3.org/csswg/css3-writing-modes/</a>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <b>DONE!</b>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /> <b>DONE!</b>
+</td>
+<td> Sufficiently worked on to report as Done.
+</td></tr></table>
+<h3><span class="mw-headline" id="21_June_2013_Seattle_Doc_Sprint">21 June 2013  Seattle Doc Sprint</span></h3>
+<p>All topics edited should be reviewed as a buddy-check to ensure completeness.
+</p>
+<table class="wikitable sortable">
+<tr>
+<th> Property name
+</th>
+<th> Coordinator
+</th>
+<th> Topic cluster
+</th>
+<th> Spec
+</th>
+<th> Basic Facts
+</th>
+<th> Explanatory Text
+</th>
+<th> Examples
+</th>
+<th> Links
+</th>
+<th> Review
+</th>
+<th> Notes
+</th></tr>
+<tr>
+<td> align-items
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> flexbox layout properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-flexbox/">CSS 3 Flexbox</a>
+</p>
+</td>
+<td> js Done
+</td>
+<td> js Done
+</td>
+<td> js Done
+</td>
+<td> js Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> align-self
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> flexbox layout properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-flexbox/">CSS 3 Flexbox</a>
+</p>
+</td>
+<td> js Done
+</td>
+<td> js Done
+</td>
+<td> js Done
+</td>
+<td> js Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> alignment-baseline
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> text-line properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css3-linebox/">CSS 3 Linebox</a>
+</p>
+</td>
+<td> Not started
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> animation-delay
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> animation properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-animations/">CSS3 Animations</a>
+</p>
+</td>
+<td> sylvaing Done
+</td>
+<td> sylvaing Done
+</td>
+<td> sylvaing Done
+</td>
+<td> sylvaing Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> animation-duration
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> animation properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-animations/">CSS3 Animations</a>
+</p>
+</td>
+<td> sylvaing Done
+</td>
+<td> sylvaing Done
+</td>
+<td> sylvaing Done
+</td>
+<td> sylvaing Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> animation-name
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> animation properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-animations/">CSS3 Animations</a>
+</p>
+</td>
+<td> sylvaing Done
+</td>
+<td> sylvaing Done
+</td>
+<td> sylvaing Done
+</td>
+<td> sylvaing Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> animation-timing-function
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> animation properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-animations/">CSS3 Animations</a>
+</p>
+</td>
+<td> sylvaing Done
+</td>
+<td> sylvaing Done
+</td>
+<td> sylvaing Done
+</td>
+<td> sylvaing Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> background-origin
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> background properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-background/">CSS3 Background</a>
+</p>
+</td>
+<td> trevor bortins Done
+</td>
+<td> trevor bortins Done
+</td>
+<td> trevor bortins Done
+</td>
+<td> trevor bortins Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> baseline-shift
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> text-line properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css3-linebox/">CSS 3 Linebox</a>
+</p>
+</td>
+<td> Not started
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> box-shadow
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-background/">CSS3 Background</a>
+</p>
+</td>
+<td> trevor bortins Done
+</td>
+<td> trevor bortins Done
+</td>
+<td> trevor bortins Done
+</td>
+<td> trevor bortins Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> box-sizing
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css3-ui/">CSS3 UI</a>
+</p>
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> break-after
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> PRIOR Done
+</td>
+<td> PRIOR Done
+</td>
+<td> PRIOR Done
+</td>
+<td> PRIOR Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> break-before
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> PRIOR Done
+</td>
+<td> PRIOR Done
+</td>
+<td> PRIOR Done
+</td>
+<td> PRIOR Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> break-inside
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> PRIOR Done
+</td>
+<td> PRIOR Done
+</td>
+<td> PRIOR Done
+</td>
+<td> PRIOR Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> caption-side
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> CDRAKEAU Done
+</td>
+<td> CDRAKEAU Done
+</td>
+<td> CDRAKEAU Done
+</td>
+<td> CDRAKEAU Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> column-count
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> multi-column layout properties
+</td>
+<td> CSS 3 Multicolumn
+</td>
+<td> arronei Done
+</td>
+<td> arronei Done
+</td>
+<td> arronei Done
+</td>
+<td> arronei Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> counter-increment
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> counter properties
+</td>
+<td>
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> counter-reset
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> counter properties
+</td>
+<td>
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> cursor
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css3-ui/">CSS3 UI</a>
+</p>
+</td>
+<td> Needs examples
+</td>
+<td> arronei Done
+</td>
+<td> arronei Done
+</td>
+<td> arronei Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> empty-cells
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> filter
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> filter properties
+</td>
+<td> Filter Effects
+</td>
+<td> trevor bortins Done
+</td>
+<td> trevor bortins Done
+</td>
+<td> trevor bortins Done
+</td>
+<td> trevor bortins Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> font-stretch
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> font properties
+</td>
+<td> CSS3 Fonts
+</td>
+<td> JS Done
+</td>
+<td> JS Done
+</td>
+<td> JS Done
+</td>
+<td> JS Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> grid-area
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> grid layout properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">CSS3 Grid Layout</a>
+</p>
+</td>
+<td> Maro Done
+</td>
+<td> Maro Done
+</td>
+<td> Maro Done
+</td>
+<td> Maro Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> grid-column
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> grid layout properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">CSS3 Grid Layout</a>
+</p>
+</td>
+<td> jaymunro Done
+</td>
+<td> jaymunro Done
+</td>
+<td> jaymunro Done
+</td>
+<td> jaymunro Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> grid-column-position
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> grid layout properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">CSS3 Grid Layout</a>
+</p>
+</td>
+<td> jaymunro Done
+</td>
+<td> jaymunro Done
+</td>
+<td> jaymunro Done
+</td>
+<td> jaymunro Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> grid-column-span
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> grid layout properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">CSS3 Grid Layout</a>
+</p>
+</td>
+<td> Monica Caraway Done
+</td>
+<td> Monica Caraway Done
+</td>
+<td> Monica Caraway Done
+</td>
+<td> Monica Caraway Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> grid-row
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> grid layout properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">CSS3 Grid Layout</a>
+</p>
+</td>
+<td> Ryan Lewis Done
+</td>
+<td> Ryan Lewis Done
+</td>
+<td> Ryan Lewis Done
+</td>
+<td> Ryan Lewis Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> grid-row-position
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> grid layout properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">CSS3 Grid Layout</a>
+</p>
+</td>
+<td> Ryan Lewis Done
+</td>
+<td> Ryan Lewis Done
+</td>
+<td> Ryan Lewis Done
+</td>
+<td> Ryan Lewis Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> justify-content
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> flexbox layout properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-flexbox/">CSS 3 Flexbox</a>
+</p>
+</td>
+<td> Greg Bulmash Done
+</td>
+<td> Greg Bulmash Done
+</td>
+<td> Greg Bulmash Done
+</td>
+<td> Greg Bulmash Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> line-height
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> text-line properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css3-linebox/">CSS 3 Linebox</a>
+</p>
+</td>
+<td> Herman Forrest Done
+</td>
+<td> Herman Forrest Done
+</td>
+<td> Herman Forrest Done
+</td>
+<td> Herman Forrest Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> marquee
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> text properties
+</td>
+<td> SVG2 Painting
+</td>
+<td> Not started
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> marquee-speed
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> text properties
+</td>
+<td> CSS3 Marquee
+</td>
+<td> Not started
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> marquee-style
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> text properties
+</td>
+<td> CSS3 Marquee
+</td>
+<td> jwalsh Done
+</td>
+<td> jwalsh Done
+</td>
+<td> jwalsh Done
+</td>
+<td> jwalsh Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> mask-origin
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> mask properties
+</td>
+<td> CSS Masking L1
+</td>
+<td> delong Done
+</td>
+<td> delong Done
+</td>
+<td> delong Done
+</td>
+<td> delong Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> mask-position
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> mask properties
+</td>
+<td> CSS Masking L2
+</td>
+<td> KW Done
+</td>
+<td> KW Done
+</td>
+<td> KW Done
+</td>
+<td> KW Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> mask-repeat
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> mask properties
+</td>
+<td> CSS Masking L3
+</td>
+<td> KW Done
+</td>
+<td> KW Done
+</td>
+<td> KW Done
+</td>
+<td> KW Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> mask-size
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> mask properties
+</td>
+<td> CSS Masking L4
+</td>
+<td> Jessie Done
+</td>
+<td> Jessie Done
+</td>
+<td> Jessie Done
+</td>
+<td> Jessie Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> mask-type
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> mask properties
+</td>
+<td> CSS Masking L5
+</td>
+<td> KW Done
+</td>
+<td> KW Done
+</td>
+<td> KW Done
+</td>
+<td> KW Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> max-height
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> size properties
+</td>
+<td>
+</td>
+<td> JM Done
+</td>
+<td> JM Done
+</td>
+<td> JM Done
+</td>
+<td> JM Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> max-width
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> size properties
+</td>
+<td>
+</td>
+<td> JM Done
+</td>
+<td> JM Done
+</td>
+<td> JM Done
+</td>
+<td> JM Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> min-height
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> size properties
+</td>
+<td>
+</td>
+<td> JM Done
+</td>
+<td> JM Done
+</td>
+<td> JM Done
+</td>
+<td> JM Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> min-width
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> size properties
+</td>
+<td>
+</td>
+<td> JM Done
+</td>
+<td> JM Done
+</td>
+<td> JM Done
+</td>
+<td> JM Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> opacity
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td> CSS3 Color
+</td>
+<td> trevor bortins Done
+</td>
+<td> trevor bortins Done
+</td>
+<td> trevor bortins Done
+</td>
+<td> trevor bortins Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> order
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> flexbox layout properties
+</td>
+<td>
+<p><a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-flexbox/">CSS 3 Flexbox</a>
+</p>
+</td>
+<td> Alan Stearns Done
+</td>
+<td> Alan Stearns Done
+</td>
+<td> Alan Stearns Done
+</td>
+<td> Alan Stearns Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> orphans
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> Millo Done
+</td>
+<td> Millo Done
+</td>
+<td> Millo Done
+</td>
+<td> Millo Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> quotes
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> adrianba Done
+</td>
+<td> adrianba Done
+</td>
+<td> adrianba Done
+</td>
+<td> adrianba Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> shape-padding
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> text-wrapping properties
+</td>
+<td> CSS3 Exclusions
+</td>
+<td> astearns
+</td>
+<td> astearns
+</td>
+<td> astearns
+</td>
+<td> astearns
+</td>
+<td>
+</td>
+<td> Obsolete; no spec
+</td></tr>
+<tr>
+<td> table-layout
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> Not started
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> transition
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> transition properties
+</td>
+<td> CSS3 Transitions
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> transition-delay
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> transition properties
+</td>
+<td> CSS3 Transitions
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> transition-duration
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> transition properties
+</td>
+<td> CSS3 Transitions
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> transition-property
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> transition properties
+</td>
+<td> CSS3 Transitions
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> transition-timing-function
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> transition properties
+</td>
+<td> CSS3 Transitions
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td> Kendall Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> vertical-align
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> text-line properties
+</td>
+<td> CSS3 Linebox
+</td>
+<td> Not started
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> voice-stress
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> speech properties
+</td>
+<td> CSS3 Speech
+</td>
+<td> Not started
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> widows
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> AK47 Done
+</td>
+<td> AK47 Done
+</td>
+<td> AK47 Done
+</td>
+<td> AK47 Done
+</td>
+<td>
+</td>
+<td>
+</td></tr></table>
+<h3><span class="mw-headline" id="19_June_2013">19 June 2013</span></h3>
+<p>Text, shapes, and exclusions (text shapes)
+</p>
+<table class="wikitable sortable">
+<tr>
+<th> Article Name
+</th>
+<th> Topic Cluster
+</th>
+<th> Spec URL
+</th>
+<th> Basic facts
+</th>
+<th> Explanatory text
+</th>
+<th> Examples
+</th>
+<th> Links
+</th>
+<th> Review
+</th>
+<th> Notes
+</th></tr>
+<tr>
+<td> <a href="/wiki/css/properties/alignment-adjust" title="css/properties/alignment-adjust">alignment-adjust</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/all-space-treatment" title="css/properties/all-space-treatment">all-space-treatment</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/block-progression" title="css/properties/block-progression">block-progression</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/kerning-mode" title="css/properties/kerning-mode">kerning-mode</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/kerning-pair-threshold" title="css/properties/kerning-pair-threshold">kerning-pair-threshold</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/max-font-size" title="css/properties/max-font-size">max-font-size</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>  Kendall
+</td>
+<td>  Needs example
+</td>
+<td>  Kendall
+</td>
+<td>  Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/min-font-size" title="css/properties/min-font-size">min-font-size</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>  Kendall
+</td>
+<td>  Needs example
+</td>
+<td>  Kendall
+</td>
+<td>  Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/punctuation-trim" title="css/properties/punctuation-trim">punctuation-trim</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>  Not started
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/shape-image-threshold" title="css/properties/shape-image-threshold">shape-image-threshold</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> shapes properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-shapes/">http://dev.w3.org/csswg/css-shapes/</a>
+</td>
+<td>  <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a> Done
+</td>
+<td>  astearns<br />Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/shape-inside" title="css/properties/shape-inside">shape-inside</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> shapes properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-shapes/">http://dev.w3.org/csswg/css-shapes/</a>
+</td>
+<td>  <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a> Done
+</td>
+<td>  astearns<br />Seattle Doc Sprint
+</td>
+<td> Obsolete; no spec
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/shape-margin" title="css/properties/shape-margin">shape-margin</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> shapes properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-shapes/">http://dev.w3.org/csswg/css-shapes/</a>
+</td>
+<td>  <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a> Done
+</td>
+<td>  astearns<br />Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/shape-outside" title="css/properties/shape-outside">shape-outside</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> shapes properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-shapes/">http://dev.w3.org/csswg/css-shapes/</a>
+</td>
+<td>  <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a> Done
+</td>
+<td>  Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/shape-padding" title="css/properties/shape-padding">shape-padding</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> shapes properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-shapes/">http://dev.w3.org/csswg/css-shapes/</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td> Obsolete; no spec
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/white-space-treatment" title="css/properties/white-space-treatment">white-space-treatment</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> Not started
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/word-break-inside" title="css/properties/word-break-inside">word-break-inside</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> Not started
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/wrap-flow" title="css/properties/wrap-flow">wrap-flow</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text-wrapping properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-exclusions/">http://dev.w3.org/csswg/css3-exclusions/</a>
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  Updated with image by astearns at Seattle doc sprint
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/wrap-margin" title="css/properties/wrap-margin">wrap-margin</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  renamed shape-margin
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/wrap-option" title="css/properties/wrap-option">wrap-option</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  Obsolete; no spec
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/wrap-through" title="css/properties/wrap-through">wrap-through</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text-wrapping properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-exclusions/">http://dev.w3.org/csswg/css3-exclusions/</a>
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  <a href="/w/index.php?title=User:Andreio&amp;action=edit&amp;redlink=1" class="new" title="User:Andreio (page does not exist)">andreio</a> Done
+</td>
+<td>  Reviewed by astearns at Seattle Doc Sprint
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/writing-mode" title="css/properties/writing-mode">writing-mode</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td>
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-writing-modes/">http://dev.w3.org/csswg/css3-writing-modes/</a>
+</td>
+<td>  David Storey Done
+</td>
+<td>  David Storey Done
+</td>
+<td>  David Storey Done
+</td>
+<td>  David Storey Done
+</td>
+<td>  Seattle Doc Sprint
+</td></tr></table>
+<h3><span class="mw-headline" id="05_June_2013">05 June 2013</span></h3>
+<div class="note">
+<p><b>Note</b>: Examples flash! This week, we're going to ask contributors to go back over the properties we've done thus far. Work up some examples, get your twitter followers to scour the web for the best tuts, and add those examples and links to those tuts to the property page.
+</p>
+</div>
+<p><br />
+</p>
+<h4><span class="mw-headline" id="Examples_flash">Examples flash</span></h4>
+<p>Let's get the best examples for each property!
+</p><p>1. Go to <a href="#Past_Reports">Past Reports</a>, below, and pick your favorite property.
+</p><p>2. Let us know what you're working on @webplatform on Twitter or email public-webplatform@w3.org -- and get your followers to help:
+</p><p>On Twitter, tweet something like: "Working on #CSS Flex examples @webplatform for #WPW Web Platform Wednesdays. Need links to the best advice. Know of any great tutorials?"
+</p><p>3. Add your examples and links to the page.
+</p><p>4. Let us know you're done @webplatform on Twitter or email public-webplatform@w3.org.
+</p>
+<h4><span class="mw-headline" id="Catch_up.21">Catch up!</span></h4>
+<p>Also, it's time to play catch-up. Here are some of the properties from previous weeks that we'll make sure are completed:
+</p>
+<table class="wikitable sortable">
+<tr>
+<th> Article Name
+</th>
+<th> Coordinator
+</th>
+<th> Topic Cluster
+</th>
+<th> Spec URL
+</th>
+<th> Basic facts
+</th>
+<th> Explanatory text
+</th>
+<th> Examples
+</th>
+<th> Links
+</th>
+<th> Review
+</th>
+<th> Notes
+</th></tr>
+<tr>
+<td> <a href="/wiki/css/properties/margin" title="css/properties/margin">margin</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a>
+</td>
+<td> layout properties, box model properties, margin properties
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/box.html#propdef-margin">CSS 2.1</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/margin-bottom" title="css/properties/margin-bottom">margin-bottom</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a>
+</td>
+<td> layout properties, box model properties, margin properties
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/box.html#propdef-margin-bottom">CSS 2.1</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/margin-left" title="css/properties/margin-left">margin-left</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a>
+</td>
+<td> layout properties, box model properties, margin properties
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/box.html#propdef-margin-left">CSS 2.1</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/margin-right" title="css/properties/margin-right">margin-right</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a>
+</td>
+<td> layout properties, box model properties, margin properties
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/box.html#propdef-margin-right">CSS 2.1</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/margin-top" title="css/properties/margin-top">margin-top</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a>
+</td>
+<td> layout properties, box model properties, margin properties
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/box.html#propdef-margin-top">CSS 2.1</a>
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris</a> Done
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/height" title="css/properties/height">height</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> layout properties, box model properties
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/visudet.html#propdef-height">CSS 2.1</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/position" title="css/properties/position">position</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> layout properties, box model properties, position properties
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/visuren.html#propdef-position">CSS 2.1</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/float" title="css/properties/float">float</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> layout properties, box model properties, position properties
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/visuren.html#propdef-float">CSS 2.1</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/display" title="css/properties/display">display</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> layout properties, box model properties
+</td>
+<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/visuren.html#propdef-display">CSS 2.1</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/break-after" title="css/properties/break-after">break-after</a>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> Break and flow properties
+</td>
+<td>
+<ul><li> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/page.html">CSS 2.1</a></li>
+<li> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-multicol/">CSS Multi-column Layout</a></li>
+<li> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-regions/">CSS Regions L1</a></li></ul>
+</td>
+<td> <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a> Done
+</td>
+<td> <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a> Done
+</td>
+<td> <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a> Done
+</td>
+<td> <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a> Done
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/break-before" title="css/properties/break-before">break-before</a>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> Break and flow properties
+</td>
+<td>
+<ul><li> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/page.html">CSS 2.1</a></li>
+<li> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-multicol/">CSS Multi-column Layout</a></li>
+<li> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-regions/">CSS Regions L1</a></li></ul>
+</td>
+<td> <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a> Done
+</td>
+<td> <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a> Done
+</td>
+<td> <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a> Done
+</td>
+<td> <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a> Done
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/break-inside" title="css/properties/break-inside">break-inside</a>
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td> Break and flow properties
+</td>
+<td>
+<ul><li> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/page.html">CSS 2.1</a></li>
+<li> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-multicol/">CSS Multi-column Layout</a></li>
+<li> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-regions/">CSS Regions L1</a></li></ul>
+</td>
+<td> <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a> Done
+</td>
+<td> <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a> Done
+</td>
+<td> <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a> Done
+</td>
+<td> <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a> Done
+</td>
+<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
+</td>
+<td>
+</td></tr></table>
+<h3><span class="mw-headline" id="12_June_2013">12 June 2013</span></h3>
+<p>Text properties
+</p>
+<table class="wikitable sortable">
+<tr>
+<th> Article Name
+</th>
+<th> Coordinator
+</th>
+<th> Topic Cluster
+</th>
+<th> Spec URL
+</th>
+<th> Basic facts
+</th>
+<th> Explanatory text
+</th>
+<th> Examples
+</th>
+<th> Links
+</th>
+<th> Review
+</th>
+<th> Notes
+</th></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-autospace" title="css/properties/text-autospace">text-autospace</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-height" title="css/properties/text-height">text-height</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text-line properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css3-linebox/">http://dev.w3.org/csswg/css3-linebox/</a>
+</td>
+<td> AK Done
+</td>
+<td> Needs example
+</td>
+<td> AK Done
+</td>
+<td> AK Done
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-justify-trim" title="css/properties/text-justify-trim">text-justify-trim</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>
+</td>
+<td> Not started
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-line-through" title="css/properties/text-line-through">text-line-through</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>  Done
+</td>
+<td>  Done
+</td>
+<td>  Done
+</td>
+<td>  Done
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> Deprecated
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-line-through-color" title="css/properties/text-line-through-color">text-line-through-color</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> Done
+</td>
+<td>  Done
+</td>
+<td>  Done
+</td>
+<td>  Done
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> Deprecated
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-line-through-mode" title="css/properties/text-line-through-mode">text-line-through-mode</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>  Done
+</td>
+<td>  Done
+</td>
+<td>  Done
+</td>
+<td>  Done
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> Deprecated
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-line-through-style" title="css/properties/text-line-through-style">text-line-through-style</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>  Done
+</td>
+<td>  Done
+</td>
+<td>  Done
+</td>
+<td>  Done
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> Deprecated
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-line-through-width" title="css/properties/text-line-through-width">text-line-through-width</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> Deprecated
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-overflow" title="css/properties/text-overflow">text-overflow</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> JS Done
+</td>
+<td> JS Done
+</td>
+<td> JS Done
+</td>
+<td> JS Done
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-overflow-ellipsis" title="css/properties/text-overflow-ellipsis">text-overflow-ellipsis</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>  no implementations
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-overflow-mode" title="css/properties/text-overflow-mode">text-overflow-mode</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Justin Duke Done
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-overline" title="css/properties/text-overline">text-overline</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-overline-color" title="css/properties/text-overline-color">text-overline-color</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-overline-mode" title="css/properties/text-overline-mode">text-overline-mode</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-overline-style" title="css/properties/text-overline-style">text-overline-style</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-overline-width" title="css/properties/text-overline-width">text-overline-width</a>
+</td>
+<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-rendering" title="css/properties/text-rendering">text-rendering</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td>
+</td>
+<td> Trever Santora Done
+</td>
+<td> Trever Santora Done
+</td>
+<td> Trever Santora Done
+</td>
+<td> Trever Santora Done
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-script" title="css/properties/text-script">text-script</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td>
+</td>
+<td> Not started
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-underline" title="css/properties/text-underline">text-underline</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> Done
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a>  Done
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a>  Done
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a>  Done
+</td>
+<td> Seattle Doc Sprint
+</td>
+<td> Obsolete; no implementations
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=css/properties/text-underline-color&amp;action=edit&amp;redlink=1" class="new" title="css/properties/text-underline-color (page does not exist)">text-underline-color</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/wiki/User:Phistuck" title="User:Phistuck">Phistuck</a> <b>DONE</b>
+</td>
+<td> DO NOT CREATE PAGE: THIS PROP IS NOT SPEC'D OR IMPLEMENTED
+</td></tr>
+<tr>
+<td> <a href="/w/index.php?title=css/properties/text-underline-mode&amp;action=edit&amp;redlink=1" class="new" title="css/properties/text-underline-mode (page does not exist)">text-underline-mode</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/wiki/User:Phistuck" title="User:Phistuck">Phistuck</a> <b>DONE</b>
+</td>
+<td> DO NOT CREATE PAGE: THIS PROP IS NOT SPEC'D OR IMPLEMENTED
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-underline-style" title="css/properties/text-underline-style">text-underline-style</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/wiki/User:Phistuck" title="User:Phistuck">Phistuck</a> <b>DONE</b>
+</td>
+<td> DO NOT CREATE PAGE: THIS PROP IS NOT SPEC'D OR IMPLEMENTED
+</td></tr>
+<tr>
+<td> <a href="/wiki/css/properties/text-underline-width" title="css/properties/text-underline-width">text-underline-width</a>
+</td>
+<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug</a>
+</td>
+<td> text properties
+</td>
+<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/w/index.php?title=User:WooCaSh&amp;action=edit&amp;redlink=1" class="new" title="User:WooCaSh (page does not exist)">WooCaSh</a> <b>DONE</b>
+</td>
+<td> <a href="/wiki/User:Phistuck" title="User:Phistuck">Phistuck</a> <b>DONE</b>
+</td>
+<td> DO NOT CREATE PAGE: THIS PROP IS NOT SPEC'D OR IMPLEMENTED
+</td></tr></table>
 
-This is really a set of properties that were done throughout this project, but somehow did not get updated. I've reviewed all pages for cleared flags, examples, and so on, and found the pages to be sufficient.
+<!-- 
+NewPP limit report
+CPU time usage: 0.498 seconds
+Real time usage: 0.675 seconds
+Preprocessor visited node count: 34/1000000
+Preprocessor generated node count: 73/1000000
+Post‐expand include size: 306/2097152 bytes
+Template argument size: 265/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+-->
 
-{| class="wikitable sortable"
-! Article Name
-! Coordinator
-! Topic Cluster
-! Spec URL
-! Basic facts
-! Explanatory text
-! Examplesf
-! Links 
-! Review 
-! Notes
-|- 
-| align-content
-| [[]User:Julee|Julee]
-| flexbox layout properties
-| http://www.w3.org/TR/css3-flexbox/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| color
-| [[User:Julee|Julee]]
-| color properties
-| http://www.w3.org/TR/css3-color/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| column-gap
-| [[User:Julee|Julee]]
-| multi-column layout properties
-| http://www.w3.org/TR/css3-multicol/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| column-rule
-| [[User:Julee|Julee]]
-| multi-column layout properties
-| http://www.w3.org/TR/css3-multicol/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| column-rule-color
-| [[User:Julee|Julee]]
-| multi-column layout properties
-| http://www.w3.org/TR/css3-multicol/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| column-rule-style
-| [[User:Julee|Julee]]
-| multi-column layout properties
-| http://www.w3.org/TR/css3-multicol/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| column-rule-width
-| [[User:Julee|Julee]]
-| multi-column layout properties
-| http://www.w3.org/TR/css3-multicol/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| column-span
-| [[User:Julee|Julee]]
-| multi-column layout properties
-| http://www.w3.org/TR/css3-multicol/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| column-width
-| [[User:Julee|Julee]]
-| multi-column layout properties
-| http://www.w3.org/TR/css3-multicol/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| pointer-events
-| [[User:Julee|Julee]]
-| 
-| 
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| region-fragment
-| [[User:Julee|Julee]]
-| region properties
-| http://dev.w3.org/csswg/css3-regions/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| shape-margin
-| [[User:Julee|Julee]]
-| text-wrapping properties
-| http://dev.w3.org/csswg/css3-exclusions/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| text-autospace
-| [[User:Julee|Julee]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| text-overflow
-| [[User:Julee|Julee]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| text-overflow-ellipsis
-| [[User:Julee|Julee]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| text-overflow-mode
-| [[User:Julee|Julee]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| text-rendering
-| [[User:Julee|Julee]]
-| text properties
-| 
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| unicode-bidi
-| [[User:Julee|Julee]]
-| 
-| http://dev.w3.org/csswg/css3-writing-modes/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| wrap-flow
-| [[User:Julee|Julee]]
-| text-wrapping properties
-| http://dev.w3.org/csswg/css3-exclusions/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|-
-| writing-mode
-| [[User:Julee|Julee]]
-| 
-| http://dev.w3.org/csswg/css3-writing-modes/
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| '''DONE!'''
-| [[User:Julee|Julee]]<br> '''DONE!'''
-| Sufficiently worked on to report as Done.
-|}
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    4.878      1 - -total
+100.00%    4.878      1 - Template:Note
+-->
 
-===21 June 2013  Seattle Doc Sprint===
-All topics edited should be reviewed as a buddy-check to ensure completeness.
-
-{| class="wikitable sortable"
-! Property name
-! Coordinator
-! Topic cluster
-! Spec
-!| Basic Facts
-! Explanatory Text
-! Examples
-! Links
-! Review
-! Notes
-|-
-| align-items
-| Seattle Doc Sprint
-| flexbox layout properties
-|
-[http://www.w3.org/TR/css3-flexbox/ CSS 3 Flexbox]
-| js Done
-| js Done
-| js Done
-| js Done
-|
-|
-|-
-| align-self
-| Seattle Doc Sprint
-| flexbox layout properties
-|
-[http://www.w3.org/TR/css3-flexbox/ CSS 3 Flexbox]
-| js Done
-| js Done
-| js Done
-| js Done
-|
-|
-|-
-| alignment-baseline
-| Seattle Doc Sprint
-| text-line properties
-|
-[http://dev.w3.org/csswg/css3-linebox/ CSS 3 Linebox]
-| Not started
-| 
-| 
-| 
-|
-|
-|-
-| animation-delay
-| Seattle Doc Sprint
-| animation properties
-|
-[http://www.w3.org/TR/css3-animations/ CSS3 Animations]
-| sylvaing Done
-| sylvaing Done
-| sylvaing Done
-| sylvaing Done
-|
-|
-|-
-| animation-duration
-| Seattle Doc Sprint
-| animation properties
-|
-[http://www.w3.org/TR/css3-animations/ CSS3 Animations]
-| sylvaing Done
-| sylvaing Done
-| sylvaing Done
-| sylvaing Done
-|
-|
-|-
-| animation-name
-| Seattle Doc Sprint
-| animation properties
-|
-[http://www.w3.org/TR/css3-animations/ CSS3 Animations]
-| sylvaing Done
-| sylvaing Done
-| sylvaing Done
-| sylvaing Done
-|
-|
-|-
-| animation-timing-function
-| Seattle Doc Sprint
-| animation properties
-|
-[http://www.w3.org/TR/css3-animations/ CSS3 Animations]
-| sylvaing Done
-| sylvaing Done
-| sylvaing Done
-| sylvaing Done
-|
-|
-|-
-| background-origin
-| Seattle Doc Sprint
-| background properties
-|
-[http://www.w3.org/TR/css3-background/ CSS3 Background]
-| trevor bortins Done
-| trevor bortins Done
-| trevor bortins Done
-| trevor bortins Done
-|
-| 
-|-
-| baseline-shift
-| Seattle Doc Sprint
-| text-line properties
-|
-[http://dev.w3.org/csswg/css3-linebox/ CSS 3 Linebox]
-| Not started
-|
-|
-|
-|
-|
-|-
-| box-shadow
-| Seattle Doc Sprint
-|
-|
-[http://www.w3.org/TR/css3-background/ CSS3 Background]
-| trevor bortins Done
-| trevor bortins Done
-| trevor bortins Done
-| trevor bortins Done
-|
-|
-|-
-| box-sizing
-| Seattle Doc Sprint
-|
-|
-[http://dev.w3.org/csswg/css3-ui/ CSS3 UI]
-| Justin Duke Done
-| Justin Duke Done
-| Justin Duke Done
-| Justin Duke Done
-|
-|
-|-
-| break-after
-| Seattle Doc Sprint
-|
-|
-| PRIOR Done
-| PRIOR Done
-| PRIOR Done
-| PRIOR Done
-|
-|
-|-
-| break-before
-| Seattle Doc Sprint
-|
-|
-| PRIOR Done
-| PRIOR Done
-| PRIOR Done
-| PRIOR Done
-|
-|
-|-
-| break-inside
-| Seattle Doc Sprint
-|
-|
-| PRIOR Done
-| PRIOR Done
-| PRIOR Done
-| PRIOR Done
-|
-|
-|-
-| caption-side
-| Seattle Doc Sprint
-|
-|
-| CDRAKEAU Done
-| CDRAKEAU Done
-| CDRAKEAU Done
-| CDRAKEAU Done
-|
-|
-|-
-| column-count
-| Seattle Doc Sprint
-| multi-column layout properties
-| CSS 3 Multicolumn
-| arronei Done
-| arronei Done
-| arronei Done
-| arronei Done
-|
-|
-|-
-| counter-increment
-| Seattle Doc Sprint
-| counter properties
-|
-| Justin Duke Done
-| Justin Duke Done
-| Justin Duke Done
-| Justin Duke Done
-|
-|
-|-
-| counter-reset
-| Seattle Doc Sprint
-| counter properties
-|
-| Justin Duke Done
-| Justin Duke Done
-| Justin Duke Done
-| Justin Duke Done
-|
-|
-|-
-| cursor
-| Seattle Doc Sprint
-|
-|
-[http://dev.w3.org/csswg/css3-ui/ CSS3 UI]
-| Needs examples
-| arronei Done
-| arronei Done
-| arronei Done
-|
-|
-|-
-| empty-cells
-| Seattle Doc Sprint
-|
-|
-| Kendall Done
-| Kendall Done
-| Kendall Done
-| Kendall Done
-|
-|
-|-
-| filter
-| Seattle Doc Sprint
-| filter properties
-| Filter Effects
-| trevor bortins Done
-| trevor bortins Done
-| trevor bortins Done
-| trevor bortins Done
-|
-|
-|-
-| font-stretch
-| Seattle Doc Sprint
-| font properties
-| CSS3 Fonts
-| JS Done
-| JS Done
-| JS Done
-| JS Done
-|
-|
-|-
-| grid-area
-| Seattle Doc Sprint
-| grid layout properties
-|
-[http://www.w3.org/TR/css3-grid-layout/ CSS3 Grid Layout]
-| Maro Done
-| Maro Done
-| Maro Done
-| Maro Done
-|
-| 
-|-
-| grid-column
-| Seattle Doc Sprint
-| grid layout properties
-|
-[http://www.w3.org/TR/css3-grid-layout/ CSS3 Grid Layout]
-| jaymunro Done
-| jaymunro Done
-| jaymunro Done
-| jaymunro Done
-|
-| 
-|-
-| grid-column-position
-| Seattle Doc Sprint
-| grid layout properties
-|
-[http://www.w3.org/TR/css3-grid-layout/ CSS3 Grid Layout]
-| jaymunro Done
-| jaymunro Done
-| jaymunro Done
-| jaymunro Done
-|
-|
-|-
-| grid-column-span
-| Seattle Doc Sprint
-| grid layout properties
-|
-[http://www.w3.org/TR/css3-grid-layout/ CSS3 Grid Layout]
-| Monica Caraway Done
-| Monica Caraway Done
-| Monica Caraway Done
-| Monica Caraway Done
-|
-|
-|-
-| grid-row
-| Seattle Doc Sprint
-| grid layout properties
-|
-[http://www.w3.org/TR/css3-grid-layout/ CSS3 Grid Layout]
-| Ryan Lewis Done
-| Ryan Lewis Done
-| Ryan Lewis Done
-| Ryan Lewis Done
-|
-|
-|-
-| grid-row-position
-| Seattle Doc Sprint
-| grid layout properties
-|
-[http://www.w3.org/TR/css3-grid-layout/ CSS3 Grid Layout]
-| Ryan Lewis Done
-| Ryan Lewis Done
-| Ryan Lewis Done
-| Ryan Lewis Done
-|
-|
-|-
-| justify-content
-| Seattle Doc Sprint
-| flexbox layout properties
-|
-[http://www.w3.org/TR/css3-flexbox/ CSS 3 Flexbox]
-| Greg Bulmash Done
-| Greg Bulmash Done
-| Greg Bulmash Done
-| Greg Bulmash Done
-|
-|
-|-
-| line-height
-| Seattle Doc Sprint
-| text-line properties
-|
-[http://dev.w3.org/csswg/css3-linebox/ CSS 3 Linebox]
-| Herman Forrest Done
-| Herman Forrest Done
-| Herman Forrest Done
-| Herman Forrest Done
-|
-|
-|-
-| marquee
-| Seattle Doc Sprint
-| text properties
-| SVG2 Painting
-| Not started
-| 
-|
-| 
-|
-|
-|-
-| marquee-speed
-| Seattle Doc Sprint
-| text properties
-| CSS3 Marquee
-| Not started
-| 
-| 
-|
-|
-|
-|-
-| marquee-style
-| Seattle Doc Sprint
-| text properties
-| CSS3 Marquee
-| jwalsh Done
-| jwalsh Done
-| jwalsh Done
-| jwalsh Done
-|
-|
-|-
-| mask-origin
-| Seattle Doc Sprint
-| mask properties
-| CSS Masking L1
-| delong Done
-| delong Done
-| delong Done
-| delong Done
-|
-|
-|-
-| mask-position
-| Seattle Doc Sprint
-| mask properties
-| CSS Masking L2
-| KW Done
-| KW Done
-| KW Done
-| KW Done
-|
-|
-|-
-| mask-repeat
-| Seattle Doc Sprint
-| mask properties
-| CSS Masking L3
-| KW Done
-| KW Done
-| KW Done
-| KW Done
-|
-|
-|-
-| mask-size
-| Seattle Doc Sprint
-| mask properties
-| CSS Masking L4
-| Jessie Done
-| Jessie Done
-| Jessie Done
-| Jessie Done
-|
-|
-|-
-| mask-type
-| Seattle Doc Sprint
-| mask properties
-| CSS Masking L5
-| KW Done
-| KW Done
-| KW Done
-| KW Done
-|
-|
-|-
-| max-height
-| Seattle Doc Sprint
-| size properties
-|
-| JM Done
-| JM Done
-| JM Done
-| JM Done
-|
-|
-|-
-| max-width
-| Seattle Doc Sprint
-| size properties
-|
-| JM Done
-| JM Done
-| JM Done
-| JM Done
-|
-|
-|-
-| min-height
-| Seattle Doc Sprint
-| size properties
-|
-| JM Done
-| JM Done
-| JM Done
-| JM Done
-|
-|
-|-
-| min-width
-| Seattle Doc Sprint
-| size properties
-|
-| JM Done
-| JM Done
-| JM Done
-| JM Done
-|
-|
-|-
-| opacity
-| Seattle Doc Sprint
-|
-| CSS3 Color
-| trevor bortins Done
-| trevor bortins Done
-| trevor bortins Done
-| trevor bortins Done
-|
-|
-|-
-| order
-| Seattle Doc Sprint
-| flexbox layout properties
-|
-[http://www.w3.org/TR/css3-flexbox/ CSS 3 Flexbox]
-| Alan Stearns Done
-| Alan Stearns Done
-| Alan Stearns Done
-| Alan Stearns Done
-|
-|
-|-
-| orphans
-| Seattle Doc Sprint
-|
-|
-| Millo Done
-| Millo Done
-| Millo Done
-| Millo Done
-|
-| 
-|-
-| quotes
-| Seattle Doc Sprint
-|
-|
-| adrianba Done
-| adrianba Done
-| adrianba Done
-| adrianba Done
-|
-|
-|-
-| shape-padding
-| Seattle Doc Sprint
-| text-wrapping properties
-| CSS3 Exclusions
-| astearns
-| astearns
-| astearns
-| astearns
-|
-| Obsolete; no spec
-|-
-| table-layout
-| Seattle Doc Sprint
-|
-|
-| Not started
-| 
-| 
-| 
-|
-|
-|-
-| transition
-| Seattle Doc Sprint
-| transition properties
-| CSS3 Transitions
-| Kendall Done
-| Kendall Done
-| Kendall Done
-| Kendall Done
-|
-|
-|-
-| transition-delay
-| Seattle Doc Sprint
-| transition properties
-| CSS3 Transitions
-| Kendall Done
-| Kendall Done
-| Kendall Done
-| Kendall Done
-|
-|
-|-
-| transition-duration
-| Seattle Doc Sprint
-| transition properties
-| CSS3 Transitions
-| Kendall Done
-| Kendall Done
-| Kendall Done
-| Kendall Done
-|
-|
-|-
-| transition-property
-| Seattle Doc Sprint
-| transition properties
-| CSS3 Transitions
-| Kendall Done
-| Kendall Done
-| Kendall Done
-| Kendall Done
-|
-|
-|-
-| transition-timing-function
-| Seattle Doc Sprint
-| transition properties
-| CSS3 Transitions
-| Kendall Done
-| Kendall Done
-| Kendall Done
-| Kendall Done
-|
-|
-|-
-| vertical-align
-| Seattle Doc Sprint
-| text-line properties
-| CSS3 Linebox
-| Not started
-| 
-| 
-| 
-|
-|
-|-
-| voice-stress
-| Seattle Doc Sprint
-| speech properties
-| CSS3 Speech
-| Not started
-| 
-| 
-| 
-|
-|
-|-
-| widows
-| Seattle Doc Sprint
-|
-|
-| AK47 Done
-| AK47 Done
-| AK47 Done
-| AK47 Done
-|
-|
-|}
-
-===19 June 2013===
-Text, shapes, and exclusions (text shapes)
-
-{| class="wikitable sortable"
-! Article Name
-! Topic Cluster
-! Spec URL
-! Basic facts
-! Explanatory text
-! Examples
-! Links 
-! Review 
-! Notes
-|- 
-| [[css/properties/alignment-adjust|alignment-adjust]] 
-| [[User:Cmills|Chris Mills]] 
-| text-line properties 
-| http://dev.w3.org/csswg/css3-linebox/ 
-|  
-|  
-|  
-|  
-|  
-| 
-|- 
-| [[css/properties/all-space-treatment|all-space-treatment]] 
-| [[User:Cmills|Chris Mills]] 
-| text properties 
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/ 
-|  
-|  
-|  
-|  
-|  
-|- 
-| [[css/properties/block-progression|block-progression]] 
-| [[User:Cmills|Chris Mills]] 
-| text properties 
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/ 
-|  
-|  
-|  
-|  
-|  
-|- 
-| [[css/properties/kerning-mode|kerning-mode]] 
-| [[User:Cmills|Chris Mills]] 
-| text properties 
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/ 
-|  
-|  
-|  
-|  
-|  
-|- 
-| [[css/properties/kerning-pair-threshold|kerning-pair-threshold]] 
-| [[User:Cmills|Chris Mills]] 
-| text properties 
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/ 
-|  
-|  
-|  
-|  
-|  
-|- 
-| [[css/properties/max-font-size|max-font-size]] 
-| [[User:Cmills|Chris Mills]] 
-| text properties 
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/ 
-|  Kendall
-|  Needs example
-|  Kendall
-|  Seattle Doc Sprint
-|
-|- 
-| [[css/properties/min-font-size|min-font-size]] 
-| [[User:Cmills|Chris Mills]] 
-| text properties 
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/ 
-|  Kendall
-|  Needs example
-|  Kendall
-|  Seattle Doc Sprint
-|
-|- 
-| [[css/properties/punctuation-trim|punctuation-trim]] 
-| [[User:Shepazu|Doug]] 
-| text properties 
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/ 
-|  Not started
-|  
-|  
-|  
-|  
-|- 
-| [[css/properties/shape-image-threshold|shape-image-threshold]] 
-| [[User:Shepazu|Doug]] 
-| shapes properties 
-| | http://dev.w3.org/csswg/css-shapes/
-|  [[User:Clayball|Clayball]] Done
-|  [[User:Clayball|Clayball]] Done
-|  [[User:Clayball|Clayball]] Done
-|  astearns<br>Seattle Doc Sprint
-|
-|- 
-| [[css/properties/shape-inside|shape-inside]] 
-| [[User:Shepazu|Doug]] 
-| shapes properties 
-| http://dev.w3.org/csswg/css-shapes/
-|  [[User:Clayball|Clayball]] Done
-|  [[User:Clayball|Clayball]] Done
-|  [[User:Clayball|Clayball]] Done
-|  astearns<br>Seattle Doc Sprint
-| Obsolete; no spec
-|- 
-| [[css/properties/shape-margin|shape-margin]] 
-| [[User:Shepazu|Doug]] 
-| shapes properties 
-| http://dev.w3.org/csswg/css-shapes/
-|  [[User:Clayball|Clayball]] Done
-|  [[User:Clayball|Clayball]] Done
-|  [[User:Clayball|Clayball]] Done
-|  astearns<br>Seattle Doc Sprint
-|
-|- 
-| [[css/properties/shape-outside|shape-outside]] 
-| [[User:Shepazu|Doug]] 
-| shapes properties 
-| http://dev.w3.org/csswg/css-shapes/
-|  [[User:Clayball|Clayball]] Done
-|  [[User:Clayball|Clayball]] Done
-|  [[User:Clayball|Clayball]] Done
-|  Seattle Doc Sprint
-|
-|- 
-| [[css/properties/shape-padding|shape-padding]] 
-| [[User:Shepazu|Doug]] 
-| shapes properties 
-| http://dev.w3.org/csswg/css-shapes/
-|  
-|  
-|  
-|  
-| Obsolete; no spec
-|- 
-| [[css/properties/white-space-treatment|white-space-treatment]] 
-| [[User:Shepazu|Doug]] 
-| text properties 
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/ 
-| Not started
-|  
-|  
-|  
-| 
-|- 
-| [[css/properties/word-break-inside|word-break-inside]] 
-| [[User:Shepazu|Doug]] 
-| text properties 
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/ 
-| Not started
-|  
-|  
-|  
-|  
-|- 
-| [[css/properties/wrap-flow|wrap-flow]] 
-| [[User:Shepazu|Doug]] 
-| text-wrapping properties 
-| http://dev.w3.org/csswg/css3-exclusions/ 
-|  [[User:andreio|andreio]] Done
-|  [[User:andreio|andreio]] Done
-|  [[User:andreio|andreio]] Done
-|  [[User:andreio|andreio]] Done
-|  Updated with image by astearns at Seattle doc sprint
-|- 
-| [[css/properties/wrap-margin|wrap-margin]] 
-| [[User:Shepazu|Doug]] 
-| 
-| 
-|  [[User:andreio|andreio]] Done
-|  [[User:andreio|andreio]] Done
-|  [[User:andreio|andreio]] Done
-|  [[User:andreio|andreio]] Done
-|  renamed shape-margin
-|- 
-| [[css/properties/wrap-option|wrap-option]] 
-| [[User:Shepazu|Doug]] 
-| text properties 
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/ 
-|  [[User:andreio|andreio]] Done
-|  [[User:andreio|andreio]] Done
-|  [[User:andreio|andreio]] Done
-|  [[User:andreio|andreio]] Done
-|  Obsolete; no spec
-|- 
-| [[css/properties/wrap-through|wrap-through]] 
-| [[User:Shepazu|Doug]] 
-| text-wrapping properties 
-| http://dev.w3.org/csswg/css3-exclusions/ 
-|  [[User:andreio|andreio]] Done
-|  [[User:andreio|andreio]] Done
-|  [[User:andreio|andreio]] Done
-|  [[User:andreio|andreio]] Done
-|  Reviewed by astearns at Seattle Doc Sprint
-|- 
-| [[css/properties/writing-mode|writing-mode]] 
-| [[User:Shepazu|Doug]] 
-|  
-| http://dev.w3.org/csswg/css3-writing-modes/ 
-|  David Storey Done
-|  David Storey Done
-|  David Storey Done
-|  David Storey Done
-|  Seattle Doc Sprint
-|}
-
-===05 June 2013===
-
-{{Note|Examples flash! This week, we're going to ask contributors to go back over the properties we've done thus far. Work up some examples, get your twitter followers to scour the web for the best tuts, and add those examples and links to those tuts to the property page.}}
-
-====Examples flash====
-
-Let's get the best examples for each property!
-
-1. Go to [[#Past_Reports|Past Reports]], below, and pick your favorite property.
-
-2. Let us know what you're working on @webplatform on Twitter or email public-webplatform@w3.org -- and get your followers to help:
-
-On Twitter, tweet something like: "Working on #CSS Flex examples @webplatform for #WPW Web Platform Wednesdays. Need links to the best advice. Know of any great tutorials?"
-
-3. Add your examples and links to the page.
-
-4. Let us know you're done @webplatform on Twitter or email public-webplatform@w3.org.
-
-====Catch up!====
-
-Also, it's time to play catch-up. Here are some of the properties from previous weeks that we'll make sure are completed:
-
-{| class="wikitable sortable"
-! Article Name
-! Coordinator
-! Topic Cluster
-! Spec URL
-! Basic facts
-! Explanatory text
-! Examples
-! Links 
-! Review 
-! Notes
-|-
-| [[css/properties/margin|margin]]
-| [[User:Cmills|Chris]]
-| layout properties, box model properties, margin properties
-| [http://www.w3.org/TR/CSS21/box.html#propdef-margin CSS 2.1]
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| 
-| 
-|-
-| [[css/properties/margin-bottom|margin-bottom]]
-| [[User:Cmills|Chris]]
-| layout properties, box model properties, margin properties
-| [http://www.w3.org/TR/CSS21/box.html#propdef-margin-bottom CSS 2.1]
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| 
-| 
-|-
-| [[css/properties/margin-left|margin-left]]
-| [[User:Cmills|Chris]]
-| layout properties, box model properties, margin properties
-| [http://www.w3.org/TR/CSS21/box.html#propdef-margin-left CSS 2.1]
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| 
-| 
-|-
-| [[css/properties/margin-right|margin-right]]
-| [[User:Cmills|Chris]]
-| layout properties, box model properties, margin properties
-| [http://www.w3.org/TR/CSS21/box.html#propdef-margin-right CSS 2.1]
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| 
-| 
-|-
-| [[css/properties/margin-top|margin-top]]
-| [[User:Cmills|Chris]]
-| layout properties, box model properties, margin properties
-| [http://www.w3.org/TR/CSS21/box.html#propdef-margin-top CSS 2.1]
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| [[User:Cmills|Chris]] Done
-| 
-| 
-|-
-| [[css/properties/height|height]]
-| [[User:Scottrowe|Scott]]
-| layout properties, box model properties
-| [http://www.w3.org/TR/CSS21/visudet.html#propdef-height CSS 2.1]
-|
-|
-|
-|
-|
-| 
-|-
-| [[css/properties/position|position]]
-| [[User:Scottrowe|Scott]]
-| layout properties, box model properties, position properties
-| [http://www.w3.org/TR/CSS21/visuren.html#propdef-position CSS 2.1]
-|
-|
-|
-|
-|
-| 
-|-
-| [[css/properties/float|float]]
-| [[User:Scottrowe|Scott]]
-| layout properties, box model properties, position properties
-| [http://www.w3.org/TR/CSS21/visuren.html#propdef-float CSS 2.1]
-|
-|
-|
-|
-|
-| 
-|-
-| [[css/properties/display|display]]
-| [[User:Scottrowe|Scott]]
-| layout properties, box model properties
-| [http://www.w3.org/TR/CSS21/visuren.html#propdef-display CSS 2.1]
-| [[User:Scottrowe|Scott]]
-| [[User:Scottrowe|Scott]]
-| [[User:Scottrowe|Scott]]
-| [[User:Scottrowe|Scott]]
-|
-| 
-|-
-| [[css/properties/break-after|break-after]]
-| [[User:Julee|Julee]]
-| Break and flow properties
-| 
-* [http://www.w3.org/TR/CSS21/page.html CSS 2.1]
-* [http://www.w3.org/TR/css3-multicol/ CSS Multi-column Layout]
-* [http://dev.w3.org/csswg/css-regions/ CSS Regions L1]
-| [[User:Gregwhitworth|Greg]] Done
-| [[User:Gregwhitworth|Greg]] Done
-| [[User:Gregwhitworth|Greg]] Done
-| [[User:Gregwhitworth|Greg]] Done
-| [[User:Julee|Julee]]
-|
-|-
-| [[css/properties/break-before|break-before]]
-| [[User:Julee|Julee]]
-| Break and flow properties
-| 
-* [http://www.w3.org/TR/CSS21/page.html CSS 2.1]
-* [http://www.w3.org/TR/css3-multicol/ CSS Multi-column Layout]
-* [http://dev.w3.org/csswg/css-regions/ CSS Regions L1]
-| [[User:Gregwhitworth|Greg]] Done
-| [[User:Gregwhitworth|Greg]] Done
-| [[User:Gregwhitworth|Greg]] Done
-| [[User:Gregwhitworth|Greg]] Done
-| [[User:Julee|Julee]]
-|
-|-
-| [[css/properties/break-inside|break-inside]]
-| [[User:Julee|Julee]]
-| Break and flow properties
-| 
-* [http://www.w3.org/TR/CSS21/page.html CSS 2.1]
-* [http://www.w3.org/TR/css3-multicol/ CSS Multi-column Layout]
-* [http://dev.w3.org/csswg/css-regions/ CSS Regions L1]
-| [[User:Gregwhitworth|Greg]] Done
-| [[User:Gregwhitworth|Greg]] Done
-| [[User:Gregwhitworth|Greg]] Done
-| [[User:Gregwhitworth|Greg]] Done
-| [[User:Julee|Julee]]
-|
-|}
-
-===12 June 2013===
-Text properties
-{| class="wikitable sortable"
-! Article Name
-! Coordinator
-! Topic Cluster
-! Spec URL
-! Basic facts
-! Explanatory text
-! Examples
-! Links 
-! Review 
-! Notes
-|-
-| [[css/properties/text-autospace|text-autospace]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| Justin Duke Done
-| Justin Duke Done
-| Justin Duke Done
-| Justin Duke Done
-| Seattle Doc Sprint
-| 
-|-
-| [[css/properties/text-height|text-height]]
-| [[User:Shepazu|Doug]]
-| text-line properties
-| http://dev.w3.org/csswg/css3-linebox/
-| AK Done
-| Needs example
-| AK Done
-| AK Done
-| Seattle Doc Sprint
-| 
-|-
-| [[css/properties/text-justify-trim|text-justify-trim]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| 
-| Not started
-| 
-| 
-| 
-| 
-|-
-| [[css/properties/text-line-through|text-line-through]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-|  Done
-|  Done
-|  Done
-|  Done
-| Seattle Doc Sprint
-| Deprecated
-|-
-| [[css/properties/text-line-through-color|text-line-through-color]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| Done 
-|  Done
-|  Done
-|  Done
-| Seattle Doc Sprint
-| Deprecated
-|-
-| [[css/properties/text-line-through-mode|text-line-through-mode]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-|  Done
-|  Done
-|  Done
-|  Done
-| Seattle Doc Sprint
-| Deprecated
-|-
-| [[css/properties/text-line-through-style|text-line-through-style]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-|  Done
-|  Done
-|  Done
-|  Done
-| Seattle Doc Sprint
-| Deprecated
-|-
-| [[css/properties/text-line-through-width|text-line-through-width]]
-| [[User:Scottrowe|Scott]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| Seattle Doc Sprint
-| Deprecated
-|-
-| [[css/properties/text-overflow|text-overflow]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| JS Done
-| JS Done
-| JS Done
-| JS Done
-| Seattle Doc Sprint
-| 
-|-
-| [[css/properties/text-overflow-ellipsis|text-overflow-ellipsis]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| Justin Duke Done
-| Justin Duke Done
-| Justin Duke Done
-| Justin Duke Done
-| Seattle Doc Sprint
-|  no implementations
-|-
-| [[css/properties/text-overflow-mode|text-overflow-mode]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| Justin Duke Done
-| Justin Duke Done
-| Justin Duke Done
-| Justin Duke Done
-| Seattle Doc Sprint
-|
-|-
-| [[css/properties/text-overline|text-overline]]
-| [[User:Scottrowe|Scott]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| Seattle Doc Sprint
-| 
-|-
-| [[css/properties/text-overline-color|text-overline-color]]
-| [[User:Scottrowe|Scott]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| Seattle Doc Sprint
-| 
-|-
-| [[css/properties/text-overline-mode|text-overline-mode]]
-| [[User:Scottrowe|Scott]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| Seattle Doc Sprint
-| 
-|-
-| [[css/properties/text-overline-style|text-overline-style]]
-| [[User:Scottrowe|Scott]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| Seattle Doc Sprint
-| 
-|-
-| [[css/properties/text-overline-width|text-overline-width]]
-| [[User:Scottrowe|Scott]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| [[User:Lleonard|Lance]]
-| Seattle Doc Sprint
-|
-|-
-| [[css/properties/text-rendering|text-rendering]]
-| [[User:Shepazu|Doug]]
-| text properties
-| 
-| Trever Santora Done
-| Trever Santora Done
-| Trever Santora Done
-| Trever Santora Done
-| Seattle Doc Sprint
-| 
-|-
-| [[css/properties/text-script|text-script]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| 
-| Not started
-| 
-| 
-| 
-| 
-|-
-| [[css/properties/text-underline|text-underline]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| [[User:WooCaSh|WooCaSh]] Done
-| [[User:WooCaSh|WooCaSh]]  Done
-| [[User:WooCaSh|WooCaSh]]  Done
-| [[User:WooCaSh|WooCaSh]]  Done
-| Seattle Doc Sprint
-| Obsolete; no implementations
-|-
-| [[css/properties/text-underline-color|text-underline-color]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:Phistuck|Phistuck]] '''DONE'''
-| DO NOT CREATE PAGE: THIS PROP IS NOT SPEC'D OR IMPLEMENTED
-|-
-| [[css/properties/text-underline-mode|text-underline-mode]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:Phistuck|Phistuck]] '''DONE'''
-| DO NOT CREATE PAGE: THIS PROP IS NOT SPEC'D OR IMPLEMENTED
-|-
-| [[css/properties/text-underline-style|text-underline-style]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:Phistuck|Phistuck]] '''DONE'''
-| DO NOT CREATE PAGE: THIS PROP IS NOT SPEC'D OR IMPLEMENTED
-|-
-| [[css/properties/text-underline-width|text-underline-width]]
-| [[User:Shepazu|Doug]]
-| text properties
-| http://www.w3.org/TR/2003/CR-css3-text-20030514/
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:WooCaSh|WooCaSh]] '''DONE'''
-| [[User:Phistuck|Phistuck]] '''DONE'''
-| DO NOT CREATE PAGE: THIS PROP IS NOT SPEC'D OR IMPLEMENTED
-|}
+<!-- Saved in parser cache with key wpwiki:pcache:idhash:9428-0!*!0!!*!*!*!esi=1 and timestamp 20150730203852 and revision id 45301
+ -->
