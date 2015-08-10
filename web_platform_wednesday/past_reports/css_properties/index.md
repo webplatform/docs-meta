@@ -1,5 +1,7 @@
 ---
 title: Meta:web platform wednesday/past reports/css properties
+path: web_platform_wednesday/past_reports/css_properties
+
 ---
 <h2><span class="mw-headline" id="CSS_properties_WPW_project_DONE">CSS properties WPW project DONE</span></h2>
 <div class="note">
@@ -25,7 +27,7 @@ title: Meta:web platform wednesday/past reports/css properties
 <h3><span class="mw-headline" id="Video_Tutorial">Video Tutorial</span></h3>
 <p>Watch this 12 minute tutorial to get started with editing CSS properties. It covers some of the fine points as well as do's and don't's.
 </p>
-<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:502px;"><div class="MediaTransformError" style="width: 500px; height: 298px; display:inline-block;">Error creating thumbnail: File missing</div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:WPW_CSS_Properties.png" class="internal" title="Enlarge"></a></div></div></div></div></div>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:502px;"><a href="http://www.youtube.com/watch?feature=player_embedded&amp;v=T-rOtfAsHNw"><img alt="WPW CSS Properties.png" src="//static.webplatform.org/w/thumb/b/b0/WPW_CSS_Properties.png/500px-WPW_CSS_Properties.png" width="500" height="298" class="thumbimage" srcset="//static.webplatform.org/w/thumb/b/b0/WPW_CSS_Properties.png/750px-WPW_CSS_Properties.png 1.5x, //static.webplatform.org/w/public/b/b0/WPW_CSS_Properties.png 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:WPW_CSS_Properties.png" class="internal" title="Enlarge"></a></div></div></div></div></div>
 <h3><span class="mw-headline" id="CSS_properties_editing_guide">CSS properties editing guide</span></h3>
 <p>The <a href="/wiki/WPD:CSS_property_guide" title="WPD:CSS property guide">CSS properties editing guide</a>, mentioned in the video, above, provides information and tips on how to proceed with editing a CSS properties page.
 </p>
@@ -59,5 +61,5 @@ title: Meta:web platform wednesday/past reports/css properties
 <h2><span class="mw-headline" id="Past_Reports">Past Reports</span></h2>
 <p>&lt;subpages /&gt;
 </p>
-<!-- Saved in parser cache with key wpwiki:pcache:idhash:14920-0!*!0!!*!5!*!esi=1 and timestamp 20150731182125 and revision id 45309
+<!-- Saved in parser cache with key wpwiki:pcache:idhash:14920-0!*!0!!*!5!*!esi=1 and timestamp 20150810202902 and revision id 45309
  -->

@@ -1,5 +1,7 @@
 ---
 title: Meta:anim transforms
+path: anim_transforms
+
 ---
 <h1><span class="mw-headline" id="Manipulating_content_with_CSS3_transforms">Manipulating content with CSS3 transforms</span></h1>
 <p><b>By Mike Sierra</b><br />
@@ -344,12 +346,16 @@ coordinates within the parent <i>card</i>, but one of which is rotated to
 face the other way. As described below, you can rotate the entire
 card along with its children. In this case, with the backface hidden,
 only one of the child <i>face</i> elements displays at a time:
+</p><p><br />
 </p>
-<div dir="ltr" class="mw-geshi mw-code mw-content-ltr"><div class="xml source-xml"><pre class="de1"> <span class="sc3"><span class="re1">&lt;div</span> <span class="re0">class</span>=<span class="st0">&quot;card&quot;</span><span class="re2">&gt;</span></span>
-   <span class="sc3"><span class="re1">&lt;div</span> <span class="re0">class</span>=<span class="st0">&quot;face&quot;</span> <span class="re0">id</span>=<span class="st0">&quot;jackheart&quot;</span><span class="re2">&gt;</span><span class="re1">&lt;/div<span class="re2">&gt;</span></span></span>
-   <span class="sc3"><span class="re1">&lt;div</span> <span class="re0">class</span>=<span class="st0">&quot;face&quot;</span><span class="re2">&gt;</span><span class="re1">&lt;/div<span class="re2">&gt;</span></span></span>
- <span class="sc3"><span class="re1">&lt;/div<span class="re2">&gt;</span></span></span></pre></div></div>
-<p><a href="/wiki/File:3d_backface.png" class="image"><img alt="3d backface.png" src="//static.webplatform.org/w/public/b/b0/3d_backface.png" width="948" height="301" /></a>
+<pre class="language-xml" data-lang="xml">
+ <div class="card">
+   <div class="face" id="jackheart"></div>
+   <div class="face"></div>
+ </div>
+</pre>
+<p><br />
+<a href="/wiki/File:3d_backface.png" class="image"><img alt="3d backface.png" src="//static.webplatform.org/w/public/b/b0/3d_backface.png" width="948" height="301" /></a>
 </p>
 <pre>body {
     background		: #ddd;
@@ -402,20 +408,24 @@ already modified space.
 </p><p>To clarify how to use this feature, this extended example builds a
 cube representing playing dice that can spin freely. The markup
 is implemented as a series of nested elements:
+</p><p><br />
 </p>
-<div dir="ltr" class="mw-geshi mw-code mw-content-ltr"><div class="xml source-xml"><pre class="de1"> <span class="sc3"><span class="re1">&lt;div</span> <span class="re0">class</span>=<span class="st0">&quot;scene&quot;</span><span class="re2">&gt;</span></span>
-     <span class="sc3"><span class="re1">&lt;div</span> <span class="re0">class</span>=<span class="st0">&quot;dice&quot;</span><span class="re2">&gt;</span></span>
-         <span class="sc3"><span class="re1">&lt;div</span> <span class="re0">class</span>=<span class="st0">&quot;centered&quot;</span><span class="re2">&gt;</span></span>
-             <span class="sc3"><span class="re1">&lt;div</span> <span class="re0">class</span>=<span class="st0">&quot;face&quot;</span><span class="re2">&gt;</span><span class="re1">&lt;/div<span class="re2">&gt;</span></span></span>
-             <span class="sc3"><span class="re1">&lt;div</span> <span class="re0">class</span>=<span class="st0">&quot;face&quot;</span><span class="re2">&gt;</span><span class="re1">&lt;/div<span class="re2">&gt;</span></span></span>
-             <span class="sc3"><span class="re1">&lt;div</span> <span class="re0">class</span>=<span class="st0">&quot;face&quot;</span><span class="re2">&gt;</span><span class="re1">&lt;/div<span class="re2">&gt;</span></span></span>
-             <span class="sc3"><span class="re1">&lt;div</span> <span class="re0">class</span>=<span class="st0">&quot;face&quot;</span><span class="re2">&gt;</span><span class="re1">&lt;/div<span class="re2">&gt;</span></span></span>
-             <span class="sc3"><span class="re1">&lt;div</span> <span class="re0">class</span>=<span class="st0">&quot;face&quot;</span><span class="re2">&gt;</span><span class="re1">&lt;/div<span class="re2">&gt;</span></span></span>
-             <span class="sc3"><span class="re1">&lt;div</span> <span class="re0">class</span>=<span class="st0">&quot;face&quot;</span><span class="re2">&gt;</span><span class="re1">&lt;/div<span class="re2">&gt;</span></span></span>
-         <span class="sc3"><span class="re1">&lt;/div<span class="re2">&gt;</span></span></span>
-     <span class="sc3"><span class="re1">&lt;/div<span class="re2">&gt;</span></span></span>
- <span class="sc3"><span class="re1">&lt;/div<span class="re2">&gt;</span></span></span></pre></div></div>
-<p>Global styles define absolutely positioned 100-pixel-square boxes. The
+<pre class="language-xml" data-lang="xml">
+ <div class="scene">
+     <div class="dice">
+         <div class="centered">
+             <div class="face"></div>
+             <div class="face"></div>
+             <div class="face"></div>
+             <div class="face"></div>
+             <div class="face"></div>
+             <div class="face"></div>
+         </div>
+     </div>
+ </div>
+</pre>
+<p><br />
+Global styles define absolutely positioned 100-pixel-square boxes. The
 outlines will help clarify each nested transform:
 </p>
 <pre>div {
@@ -548,51 +558,6 @@ apparent.  An animated transition between <b>scale3d(0,0,0)</b> and
 <h2><span class="mw-headline" id="See_also">See also</span></h2>
 <h3><span class="mw-headline" id="Related_articles">Related articles</span></h3>
 <h4><span class="mw-headline" id="Transforms">Transforms</span></h4>
-<ul><li> <a href="/wiki/css/cssom/MSCSSMatrix/methods/inverse" title="css/cssom/MSCSSMatrix/methods/inverse">inverse</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/cssom/MSCSSMatrix/methods/multiply" title="css/cssom/MSCSSMatrix/methods/multiply">multiply</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/cssom/MSCSSMatrix/methods/rotate" title="css/cssom/MSCSSMatrix/methods/rotate">rotate</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/functions/rotate3d()" title="css/functions/rotate3d()">rotate3d()</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/functions/scale3d()" title="css/functions/scale3d()">scale3d()</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/functions/skew()" title="css/functions/skew()">skew()</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/functions/translate()" title="css/functions/translate()">translate()</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/functions/translate3d()" title="css/functions/translate3d()">translate3d()</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/functions/translateX()" title="css/functions/translateX()">translateX()</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/functions/translateY()" title="css/functions/translateY()">translateY()</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/functions/translateZ()" title="css/functions/translateZ()">translateZ()</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/properties/backface-visibility" title="css/properties/backface-visibility">backface-visibility</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/properties/transform-origin-z" title="css/properties/transform-origin-z">transform-origin-z</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/transforms/MSCSSMatrix" title="css/transforms/MSCSSMatrix">MSCSSMatrix</a></li></ul>
-<p><br />
-</p>
-<ul><li> <a href="/wiki/css/transforms/MSCSSMatrix/translate" title="css/transforms/MSCSSMatrix/translate">translate</a></li></ul>
-<p><br />
-</p>
 <ul><li> <a href="/wiki/tutorials/animation_in_javascript_2" title="tutorials/animation in javascript 2">JavaScript animation</a></li></ul>
 <div class="attribution">
 <p><br />
@@ -602,29 +567,29 @@ apparent.  An animated transition between <b>scale3d(0,0,0)</b> and
 
 <!-- 
 NewPP limit report
-CPU time usage: 0.449 seconds
-Real time usage: 8.497 seconds
-Preprocessor visited node count: 385/1000000
-Preprocessor generated node count: 1889/1000000
-Post‐expand include size: 30938/2097152 bytes
-Template argument size: 26820/2097152 bytes
+CPU time usage: 0.302 seconds
+Real time usage: 5.373 seconds
+Preprocessor visited node count: 192/1000000
+Preprocessor generated node count: 1583/1000000
+Post‐expand include size: 26245/2097152 bytes
+Template argument size: 26057/2097152 bytes
 Highest expansion depth: 7/40
 Expensive parser function count: 0/100
 -->
 
 <!-- 
 Transclusion expansion time report (%,ms,calls,template)
-100.00%  150.782      1 - -total
- 43.06%   64.932      1 - Template:See_Also_Section
- 12.30%   18.539      1 - Template:Page_Title
- 11.68%   17.618     16 - Template:See_Also_Item
- 10.07%   15.183      1 - Template:Flags
-  9.73%   14.678      1 - Template:Tutorial
-  6.04%    9.113      1 - Template:External_Attribution
-  4.89%    7.369      1 - Template:Summary_Section
-  3.35%    5.049      1 - Template:Byline
-  3.23%    4.870      1 - Template:Notes_Section
+100.00%  106.216      1 - -total
+ 28.42%   30.188      1 - Template:See_Also_Section
+ 14.70%   15.614      1 - Template:Page_Title
+ 13.57%   14.413      1 - Template:Flags
+  8.85%    9.396      1 - Template:External_Attribution
+  8.81%    9.358      1 - Template:Tutorial
+  6.52%    6.927      1 - Template:Summary_Section
+  4.98%    5.286      1 - Template:See_Also_Item
+  4.74%    5.034      1 - Template:Notes_Section
+  4.42%    4.691      1 - Template:Byline
 -->
 
-<!-- Saved in parser cache with key wpwiki:pcache:idhash:7260-0!*!0!!*!5!*!esi=1 and timestamp 20150731092929 and revision id 23337
+<!-- Saved in parser cache with key wpwiki:pcache:idhash:7260-0!*!0!!*!5!*!esi=1 and timestamp 20150810145948 and revision id 23337
  -->

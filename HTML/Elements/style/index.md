@@ -1,5 +1,7 @@
 ---
 title: Meta:HTML/Elements/style
+path: HTML/Elements/style
+
 ---
 <h1><span class="mw-headline" id="style">style</span></h1>
 <h2><span class="mw-headline" id="Summary">Summary</span></h2>
@@ -116,35 +118,10 @@ See also <a href="/w/index.php?title=HTML/Attributes/_Global&amp;action=edit&amp
 <p><i>This article contains content originally from external sources.</i>
 </p>
 <div class="attribution-block">
-Portions of this content come from the Mozilla Developer Network <div class="MediaTransformError" style="width: 120px; height: 23px; display:inline-block;">Error creating thumbnail: File missing</div>: <a rel="nofollow" class="external text" href="https://developer.mozilla.org/en-US/docs/HTML/Element/style">Article</a>
+<p>Portions of this content come from the Mozilla Developer Network <a href="http://creativecommons.org/licenses/by-sa/3.0/us/" rel="nofollow"><img alt="cc-by-sa-small-wpd.svg" src="//static.webplatform.org/w/thumb/8/8c/cc-by-sa-small-wpd.svg/120px-cc-by-sa-small-wpd.svg.png" width="120" height="23" srcset="//static.webplatform.org/w/thumb/8/8c/cc-by-sa-small-wpd.svg/180px-cc-by-sa-small-wpd.svg.png 1.5x, //static.webplatform.org/w/thumb/8/8c/cc-by-sa-small-wpd.svg/240px-cc-by-sa-small-wpd.svg.png 2x" /></a>: <a rel="nofollow" class="external text" href="https://developer.mozilla.org/en-US/docs/HTML/Element/style">Article</a>
+</p>
 </div>
 </div>
 
-<!-- 
-NewPP limit report
-CPU time usage: 0.176 seconds
-Real time usage: 1.440 seconds
-Preprocessor visited node count: 268/1000000
-Preprocessor generated node count: 2014/1000000
-Post‐expand include size: 6117/2097152 bytes
-Template argument size: 3801/2097152 bytes
-Highest expansion depth: 9/40
-Expensive parser function count: 0/100
--->
-
-<!-- 
-Transclusion expansion time report (%,ms,calls,template)
-100.00%  124.109      1 - -total
- 20.20%   25.070      1 - Template:Markup_Element
- 17.61%   21.856      1 - Template:External_Attribution
- 11.79%   14.628      1 - Template:Page_Title
-  8.91%   11.057      1 - Template:Editorial/Merge_Candidate
-  8.73%   10.837      1 - Template:Flags
-  8.19%   10.162      1 - Template:Examples_Section
-  7.02%    8.707      1 - Template:External_Attribution_Block/MDN
-  6.53%    8.101      2 - Template:Editorial
-  5.73%    7.116      1 - Template:API_Name
--->
-
-<!-- Saved in parser cache with key wpwiki:pcache:idhash:809-0!*!0!!*!5!*!esi=1 and timestamp 20150731134337 and revision id 13372
+<!-- Saved in parser cache with key wpwiki:pcache:idhash:809-0!*!0!!*!5!*!esi=1 and timestamp 20150810202858 and revision id 13372
  -->
