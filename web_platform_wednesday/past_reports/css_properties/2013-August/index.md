@@ -1,1400 +1,332 @@
 ---
-title: Meta:web platform wednesday/past reports/css properties/2013-August
----
-<h2><span class="mw-headline" id="21_August_2013_-_Week_J">21 August 2013 - Week J</span></h2>
-<table class="wikitable sortable">
-<tr>
-<th> Article Name
-</th>
-<th> Coordinator
-</th>
-<th> Topic Cluster
-</th>
-<th> Spec URL
-</th>
-<th> Basic facts
-</th>
-<th> Explanatory text
-</th>
-<th> Examples
-</th>
-<th> Links
-</th>
-<th> Review
-</th>
-<th> Notes
-</th></tr>
-<tr>
-<td> <a href="/wiki/css/properties/alignment-adjust" title="css/properties/alignment-adjust">alignment-adjust</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> position
-</td>
-<td>
-</td>
-<td> <a href="/w/index.php?title=User:Macx&amp;action=edit&amp;redlink=1" class="new" title="User:Macx (page does not exist)">David</a><b>In progress</b>
-</td>
-<td> <a href="/w/index.php?title=User:Macx&amp;action=edit&amp;redlink=1" class="new" title="User:Macx (page does not exist)">David</a><b>In progress</b>
-</td>
-<td> <a href="/w/index.php?title=User:Macx&amp;action=edit&amp;redlink=1" class="new" title="User:Macx (page does not exist)">David</a><b>In progress</b>
-</td>
-<td> <a href="/w/index.php?title=User:Macx&amp;action=edit&amp;redlink=1" class="new" title="User:Macx (page does not exist)">David</a><b>In progress</b>
-</td>
-<td> <a href="/w/index.php?title=User:Macx&amp;action=edit&amp;redlink=1" class="new" title="User:Macx (page does not exist)">David</a><b>In progress</b>
-</td>
-<td> duplicate - pickup
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/bottom" title="css/properties/bottom">bottom</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> position
-</td>
-<td>
-</td>
-<td> <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a><br /><b>In progress</b>
-</td>
-<td> <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhsrao</a><br /><b>DONE</b>
-</td>
-<td> <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a><br /><b>In progress</b>
-</td>
-<td>
-</td>
-<td> duplicate - pickup
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/left" title="css/properties/left">left</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> position
-</td>
-<td>
-</td>
-<td> <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a><br /><b>In progress</b>
-</td>
-<td> <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a><br /><b>In progress</b>
-</td>
-<td> <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhsrao</a><br /><b>DONE</b>
-</td>
-<td>
-</td>
-<td> duplicate - pickup
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/right" title="css/properties/right">right</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> position
-</td>
-<td>
-</td>
-<td> <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a><br /><b>In progress</b>
-</td>
-<td> <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a><br /><b>In progress</b>
-</td>
-<td> <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhsrao</a><br /><b>DONE</b>
-</td>
-<td>
-</td>
-<td> duplicate - pickup
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/top" title="css/properties/top">top</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> position
-</td>
-<td>
-</td>
-<td> <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a><br /><b>In progress</b>
-</td>
-<td> <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a><br /><b>In progress</b>
-</td>
-<td> <a href="/w/index.php?title=User:Clayball&amp;action=edit&amp;redlink=1" class="new" title="User:Clayball (page does not exist)">Clayball</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhsrao</a><br /><b>DONE</b>
-</td>
-<td>
-</td>
-<td> duplicate - pickup
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/block-progression" title="css/properties/block-progression">block-progression</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> misc
-</td>
-<td>
-</td>
-<td> <a href="/w/index.php?title=User:Mkwst&amp;action=edit&amp;redlink=1" class="new" title="User:Mkwst (page does not exist)">Mike West</a><br /><b>Done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Mkwst&amp;action=edit&amp;redlink=1" class="new" title="User:Mkwst (page does not exist)">Mike West</a><br /><b>Done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Mkwst&amp;action=edit&amp;redlink=1" class="new" title="User:Mkwst (page does not exist)">Mike West</a><br /><b>Done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Mkwst&amp;action=edit&amp;redlink=1" class="new" title="User:Mkwst (page does not exist)">Mike West</a><br /><b>Done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Mkwst&amp;action=edit&amp;redlink=1" class="new" title="User:Mkwst (page does not exist)">Mike West</a><br /><b>Done</b>
-</td>
-<td> duplicate - pickup
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/box-decoration-break" title="css/properties/box-decoration-break">box-decoration-break</a>
-</td>
-<td> You!;-) (Please help others to help WPD)
-</td>
-<td> misc
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-background/">css3-background</a>
-</td>
-<td> <a href="/wiki/User:Drublic" title="User:Drublic">Hans</a><br /><b>DONE, needs review</b>
-</td>
-<td> <a href="/wiki/User:Drublic" title="User:Drublic">Hans</a><br /><b>DONE, needs review</b>
-</td>
-<td> <a href="/wiki/User:Drublic" title="User:Drublic">Hans</a><br /><b>DONE, needs review</b>
-</td>
-<td> <a href="/wiki/User:Drublic" title="User:Drublic">Hans</a><br /><b>DONE, needs review</b>
-</td>
-<td>  <a href="/wiki/User:Drublic" title="User:Drublic">Hans</a><br /><b>In progress</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/clip" title="css/properties/clip">clip</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">scottrowe</a>
-</td>
-<td> misc
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/fxtf/masking/">masking</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE</b>
-</td>
-<td> <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhsrao</a><br /><b>DONE</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE</b>
-</td>
-<td> Not required
-</td>
-<td> Deprecated; see <a href="/wiki/css/properties/clip-path" title="css/properties/clip-path">clip-path</a>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/clip-path" title="css/properties/clip-path">clip-path</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">scottrowe</a>
-</td>
-<td> misc
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/fxtf/masking/">masking</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE, needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhsrao</a><br /><b>DONE, needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> Replaces <a href="/wiki/css/properties/clip" title="css/properties/clip">clip</a>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/clip-rule" title="css/properties/clip-rule">clip-rule</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">scottrowe</a>
-</td>
-<td> misc
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/fxtf/masking/">masking</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete</b>
-</td>
-<td>
-</td>
-<td> <b>Needs examples</b>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> Needs examples
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/font-feature-settings" title="css/properties/font-feature-settings">font-feature-settings</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> misc
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a><br /><b>Needs Review</b>
-</td>
-<td> <a href="/wiki/User:Jkomoros" title="User:Jkomoros">Jkomoros</a><br /><b>Needs Review</b>
-</td>
-<td> <a href="/wiki/User:Pldz" title="User:Pldz">Pldz</a><br /><b>Needs Review</b>
-</td>
-<td> <a href="/wiki/User:Sam3k" title="User:Sam3k">Sam3k</a><br /><b>Needs Review</b>
-</td>
-<td>
-</td>
-<td> duplicate - pickup
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/marquee-style" title="css/properties/marquee-style">marquee-style</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> misc
-</td>
-<td>
-</td>
-<td> <a href="/w/index.php?title=User:Mkwst&amp;action=edit&amp;redlink=1" class="new" title="User:Mkwst (page does not exist)">Mike West</a><br /><b>Done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Mkwst&amp;action=edit&amp;redlink=1" class="new" title="User:Mkwst (page does not exist)">Mike West</a><br /><b>Done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Mkwst&amp;action=edit&amp;redlink=1" class="new" title="User:Mkwst (page does not exist)">Mike West</a><br /><b>Done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Mkwst&amp;action=edit&amp;redlink=1" class="new" title="User:Mkwst (page does not exist)">Mike West</a><br /><b>Done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Mkwst&amp;action=edit&amp;redlink=1" class="new" title="User:Mkwst (page does not exist)">Mike West</a><br /><b>Done</b>
-</td>
-<td> duplicate - pickup
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/unicode-range" title="css/properties/unicode-range">unicode-range</a>
-</td>
-<td> You!;-) (Please help others to help WPD)
-</td>
-<td> misc
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css3-fonts/">CSS Fonts Level 3</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a><br /><b>Done</b>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a><br /><b>Done</b>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a><br /><b>Done</b>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a><br /><b>Done</b>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a><br /><b>Done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/visibility" title="css/properties/visibility">visibility</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> misc
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Shali" title="User:Shali">Shali</a><br /><b>DONE</b>
-</td>
-<td> <a href="/wiki/User:Shali" title="User:Shali">Shali</a><br /><b>DONE</b>
-</td>
-<td> <a href="/wiki/User:Shali" title="User:Shali">Shali</a><br /><b>DONE</b>
-</td>
-<td> <a href="/wiki/User:Shali" title="User:Shali">Shali</a><br /><b>DONE</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/word-break" title="css/properties/word-break">word-break</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> misc
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Shali" title="User:Shali">Shali</a><br /><b>DONE, needs review</b>
-</td>
-<td> <a href="/wiki/User:Shali" title="User:Shali">Shali</a><br /><b>DONE, needs review</b>
-</td>
-<td> <a href="/wiki/User:Shali" title="User:Shali">Shali</a><br /><b>DONE, needs review</b>
-</td>
-<td> <a href="/wiki/User:Shali" title="User:Shali">Shali</a><br /><b>DONE, needs review</b>
-</td>
-<td>
-</td>
-<td> duplicate - pickup
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/shape-margin" title="css/properties/shape-margin">shape-margin</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> misc
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Sam3k" title="User:Sam3k">Sam3k</a><br /><b>Done</b>
-</td>
-<td> <a href="/wiki/User:Sam3k" title="User:Sam3k">Sam3k</a><br /><b>Done</b>
-</td>
-<td> <a href="/wiki/User:Sam3k" title="User:Sam3k">Sam3k</a><br /><b>Done</b>
-</td>
-<td> <a href="/wiki/User:Sam3k" title="User:Sam3k">Sam3k</a><br /><b>Done</b>
-</td>
-<td>
-</td>
-<td> Example not working
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/z-index" title="css/properties/z-index">z-index</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS2/visuren.html">Visual formatting model</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhsrao</a><br /><b>DONE</b>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td></tr></table>
-<p><br />
-</p>
-<h2><span class="mw-headline" id="14_August_2013_Week_I">14 August 2013 Week I</span></h2>
-<table class="wikitable sortable">
-<tr>
-<th> Article Name
-</th>
-<th> Coordinator
-</th>
-<th> Topic Cluster
-</th>
-<th> Spec URL
-</th>
-<th> Basic facts
-</th>
-<th> Explanatory text
-</th>
-<th> Examples
-</th>
-<th> Links
-</th>
-<th> Review
-</th>
-<th> Notes
-</th></tr>
-<tr>
-<td> <a href="/wiki/css/properties/all-space-treatment" title="css/properties/all-space-treatment">all-space-treatment</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CSS3 Text Module</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/column-fill" title="css/properties/column-fill">column-fill</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-multicol/">css3-multicol</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/columns" title="css/properties/columns">columns</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-multicol/">css3-multicol</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> Done: Shali Nguyen
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/display" title="css/properties/display">display</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-display-3/">CSS Display Module Level 3</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td>
-</td>
-<td> duplicate - pickup
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-auto-columns" title="css/properties/grid-auto-columns">grid-auto-columns</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-auto-flow" title="css/properties/grid-auto-flow">grid-auto-flow</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /><b>DONE</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-auto-rows" title="css/properties/grid-auto-rows">grid-auto-rows</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /><b>DONE</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-definition-columns" title="css/properties/grid-definition-columns">grid-definition-columns</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /><b>DONE -- see Notes</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Kostas</a><br /><b>DONE</b>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> Deletion candidate: obsolete
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-definition-rows" title="css/properties/grid-definition-rows">grid-definition-rows</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a><br /><b>DONE -- see Notes</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Kostas</a><br /><b>DONE</b>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> Deletion candidate: obsolete
-</td></tr>
-<tr>
-<td> <a href="/w/index.php?title=css/properties/grid-position&amp;action=edit&amp;redlink=1" class="new" title="css/properties/grid-position (page does not exist)">grid-position</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE -- see notes</b>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> Don't create: obsolete
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-row-span" title="css/properties/grid-row-span">grid-row-span</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE -- see Notes</b>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> Deletion candidate: obsolete
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-span" title="css/properties/grid-span">grid-span</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE -- see Notes</b>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> Deletion candidate: obsolete
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-template" title="css/properties/grid-template">grid-template</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-template-columns" title="css/properties/grid-template-columns">grid-template-columns</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-template-rows" title="css/properties/grid-template-rows">grid-template-rows</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-template-areas" title="css/properties/grid-template-areas">grid-template-areas</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-auto-position" title="css/properties/grid-auto-position">grid-auto-position</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid" title="css/properties/grid">grid</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-row-start" title="css/properties/grid-row-start">grid-row-start</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-column-start" title="css/properties/grid-column-start">grid-column-start</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-row-end" title="css/properties/grid-row-end">grid-row-end</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-column-end" title="css/properties/grid-column-end">grid-column-end</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-column" title="css/properties/grid-column">grid-column</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-row" title="css/properties/grid-row">grid-row</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/grid-area" title="css/properties/grid-area">grid-area</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> grid layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-grid-layout/">css3-grid-layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>Incomplete<br />Needs live example</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/knock-out" title="css/properties/knock-out">knock-out</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> layout properties
-</td>
-<td> <a rel="nofollow" class="external text" href="https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html">compositing</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/mask" title="css/properties/mask">mask</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>In progress</b>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> duplicate - pickup
-</td></tr></table>
-<h2><span class="mw-headline" id="07_Aug_2013_.28Week_H.29">07 Aug 2013 (Week H)</span></h2>
-<table class="wikitable sortable">
-<tr>
-<th> Article Name
-</th>
-<th> Coordinator
-</th>
-<th> Topic Cluster
-</th>
-<th> Spec URL
-</th>
-<th> Basic facts
-</th>
-<th> Explanatory text
-</th>
-<th> Examples
-</th>
-<th> Links
-</th>
-<th> Review
-</th>
-<th> Notes
-</th></tr>
-<tr>
-<td> <a href="/wiki/css/properties/alignment-adjust" title="css/properties/alignment-adjust">alignment-adjust</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> text-line properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-inline/">CSS Line Layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/text-height" title="css/properties/text-height">text-height</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> text-line properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-inline/">CSS Line Layout</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/all-space-treatment" title="css/properties/all-space-treatment">all-space-treatment</a>
-</td>
-<td> You!;-) (Please help others to help WPD)
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CR-css3-text</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> duplicate - pickup (obsolete, unsupported, but mentioned in the line layout specification)
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/block-progression" title="css/properties/block-progression">block-progression</a>
-</td>
-<td> You!;-) (Please help others to help WPD)
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CR-css3-text</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> obsolete, only Internet Explorer 8 (and later?) implements it prefixed
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/kerning-mode" title="css/properties/kerning-mode">kerning-mode</a>
-</td>
-<td> You!;-) (Please help others to help WPD)
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CR-css3-text</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/kerning-pair-threshold" title="css/properties/kerning-pair-threshold">kerning-pair-threshold</a>
-</td>
-<td> You!;-) (Please help others to help WPD)
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CR-css3-text</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/max-font-size" title="css/properties/max-font-size">max-font-size</a>
-</td>
-<td> You!;-) (Please help others to help WPD)
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CR-css3-text</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/min-font-size" title="css/properties/min-font-size">min-font-size</a>
-</td>
-<td> You!;-) (Please help others to help WPD)
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CR-css3-text</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/punctuation-trim" title="css/properties/punctuation-trim">punctuation-trim</a>
-</td>
-<td> You!;-) (Please help others to help WPD)
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CR-css3-text</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/shape-image-threshold" title="css/properties/shape-image-threshold">shape-image-threshold</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> text-wrapping properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-shapes/">CSS Shapes</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/shape-inside" title="css/properties/shape-inside">shape-inside</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> text-wrapping properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-shapes/">CSS Shapes</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />See Notes</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />See Notes</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />See Notes</b>
-</td>
-<td>
-</td>
-<td> Obsolete, unsupported
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/shape-outside" title="css/properties/shape-outside">shape-outside</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> text-wrapping properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-shapes/">CSS Shapes</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/shape-margin" title="css/properties/shape-margin">shape-margin</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> text-wrapping properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-shapes/">CSS Shapes</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/shape-padding" title="css/properties/shape-padding">shape-padding</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> text-wrapping properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-shapes/">CSS Shapes</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />See Notes</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />See Notes</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />See Notes</b>
-</td>
-<td>
-</td>
-<td> Obsolete, unsupported
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/white-space-treatment" title="css/properties/white-space-treatment">white-space-treatment</a>
-</td>
-<td> You!;-) (Please help others to help WPD)
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CR-css3-text</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/word-break-inside" title="css/properties/word-break-inside">word-break-inside</a>
-</td>
-<td> You!;-) (Please help others to help WPD)
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CR-css3-text</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/wrap-option" title="css/properties/wrap-option">wrap-option</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> text-wrapping properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-exclusions/">CSS Exclusions</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />See Notes</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />See Notes</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />See Notes</b>
-</td>
-<td>
-</td>
-<td> Obsolete, unsupported
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/wrap-flow" title="css/properties/wrap-flow">wrap-flow</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> text-wrapping properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css3-exclusions/">css3-exclusions</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/wrap-through" title="css/properties/wrap-through">wrap-through</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> text-wrapping properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css3-exclusions/">css3-exclusions</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a><br /><b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr></table>
+title: 2013-August
+todo_broken_links:
+  note: 'During import MediaWiki could not find the following links, please fix and adjust this list.'
+  links:
+    - css/properties/grid-position
+    - 'User:Macx'
+    - 'User:Clayball'
+    - 'User:Mkwst'
+uri: 'Meta:web platform wednesday/past reports/css properties/2013-August'
 
-<!-- Saved in parser cache with key wpwiki:pcache:idhash:9479-0!*!0!!*!*!*!esi=1 and timestamp 20150731182107 and revision id 45303
- -->
+---
+## <span>21 August 2013 - Week J</span>
+
+|Article Name|Coordinator|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
+|:-----------|:----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
+|[alignment-adjust](/css/properties/alignment-adjust)|[Julee](/User:Julee)|position||[David](/w/index.php?title=User:Macx&action=edit&redlink=1)**In progress**|[David](/w/index.php?title=User:Macx&action=edit&redlink=1)**In progress**|[David](/w/index.php?title=User:Macx&action=edit&redlink=1)**In progress**|[David](/w/index.php?title=User:Macx&action=edit&redlink=1)**In progress**|[David](/w/index.php?title=User:Macx&action=edit&redlink=1)**In progress**|duplicate - pickup|
+|[bottom](/css/properties/bottom)|[Julee](/User:Julee)|position||[Clayball](/w/index.php?title=User:Clayball&action=edit&redlink=1)
+**In progress**|[Clayball](/w/index.php?title=User:Clayball&action=edit&redlink=1)
+**In progress**|[Rishabhsrao](/User:Rishabhsrao)
+**DONE**|[Clayball](/w/index.php?title=User:Clayball&action=edit&redlink=1)
+**In progress**||duplicate - pickup|
+|[left](/css/properties/left)|[Julee](/User:Julee)|position||[Clayball](/w/index.php?title=User:Clayball&action=edit&redlink=1)
+**In progress**|[Clayball](/w/index.php?title=User:Clayball&action=edit&redlink=1)
+**In progress**|[Clayball](/w/index.php?title=User:Clayball&action=edit&redlink=1)
+**In progress**|[Rishabhsrao](/User:Rishabhsrao)
+**DONE**||duplicate - pickup|
+|[right](/css/properties/right)|[Julee](/User:Julee)|position||[Clayball](/w/index.php?title=User:Clayball&action=edit&redlink=1)
+**In progress**|[Clayball](/w/index.php?title=User:Clayball&action=edit&redlink=1)
+**In progress**|[Clayball](/w/index.php?title=User:Clayball&action=edit&redlink=1)
+**In progress**|[Rishabhsrao](/User:Rishabhsrao)
+**DONE**||duplicate - pickup|
+|[top](/css/properties/top)|[Julee](/User:Julee)|position||[Clayball](/w/index.php?title=User:Clayball&action=edit&redlink=1)
+**In progress**|[Clayball](/w/index.php?title=User:Clayball&action=edit&redlink=1)
+**In progress**|[Clayball](/w/index.php?title=User:Clayball&action=edit&redlink=1)
+**In progress**|[Rishabhsrao](/User:Rishabhsrao)
+**DONE**||duplicate - pickup|
+|[block-progression](/css/properties/block-progression)|[Scottrowe](/User:Scottrowe)|misc||[Mike West](/w/index.php?title=User:Mkwst&action=edit&redlink=1)
+**Done**|[Mike West](/w/index.php?title=User:Mkwst&action=edit&redlink=1)
+**Done**|[Mike West](/w/index.php?title=User:Mkwst&action=edit&redlink=1)
+**Done**|[Mike West](/w/index.php?title=User:Mkwst&action=edit&redlink=1)
+**Done**|[Mike West](/w/index.php?title=User:Mkwst&action=edit&redlink=1)
+**Done**|duplicate - pickup|
+|[box-decoration-break](/css/properties/box-decoration-break)|You!;-) (Please help others to help WPD)|misc|[css3-background](http://www.w3.org/TR/css3-background/)|[Hans](/User:Drublic)
+**DONE, needs review**|[Hans](/User:Drublic)
+**DONE, needs review**|[Hans](/User:Drublic)
+**DONE, needs review**|[Hans](/User:Drublic)
+**DONE, needs review**|[Hans](/User:Drublic)
+**In progress**||
+|[clip](/css/properties/clip)|[scottrowe](/User:Scottrowe)|misc|[masking](http://dev.w3.org/fxtf/masking/)|[Dave Gash](/User:Dgash)
+**DONE**|[Dave Gash](/User:Dgash)
+**DONE**|[Rishabhsrao](/User:Rishabhsrao)
+**DONE**|[Dave Gash](/User:Dgash)
+**DONE**|Not required|Deprecated; see [clip-path](/css/properties/clip-path)|
+|[clip-path](/css/properties/clip-path)|[scottrowe](/User:Scottrowe)|misc|[masking](http://dev.w3.org/fxtf/masking/)|[Dave Gash](/User:Dgash)
+**DONE, needs review**||[Rishabhsrao](/User:Rishabhsrao)
+**DONE, needs review**|||Replaces [clip](/css/properties/clip)|
+|[clip-rule](/css/properties/clip-rule)|[scottrowe](/User:Scottrowe)|misc|[masking](http://dev.w3.org/fxtf/masking/)|[Dave Gash](/User:Dgash)
+**Incomplete**||**Needs examples**|||Needs examples|
+|[font-feature-settings](/css/properties/font-feature-settings)|[Scottrowe](/User:Scottrowe)|misc||[Hiroki](/User:Hiroki)
+**Needs Review**|[Jkomoros](/User:Jkomoros)
+**Needs Review**|[Pldz](/User:Pldz)
+**Needs Review**|[Sam3k](/User:Sam3k)
+**Needs Review**||duplicate - pickup|
+|[marquee-style](/css/properties/marquee-style)|[Scottrowe](/User:Scottrowe)|misc||[Mike West](/w/index.php?title=User:Mkwst&action=edit&redlink=1)
+**Done**|[Mike West](/w/index.php?title=User:Mkwst&action=edit&redlink=1)
+**Done**|[Mike West](/w/index.php?title=User:Mkwst&action=edit&redlink=1)
+**Done**|[Mike West](/w/index.php?title=User:Mkwst&action=edit&redlink=1)
+**Done**|[Mike West](/w/index.php?title=User:Mkwst&action=edit&redlink=1)
+**Done**|duplicate - pickup|
+|[unicode-range](/css/properties/unicode-range)|You!;-) (Please help others to help WPD)|misc|[CSS Fonts Level 3](http://dev.w3.org/csswg/css3-fonts/)|[Chris Mills](/User:Cmills)
+**Done**|[Chris Mills](/User:Cmills)
+**Done**|[Chris Mills](/User:Cmills)
+**Done**|[Chris Mills](/User:Cmills)
+**Done**|[Chris Mills](/User:Cmills)
+**Done**||
+|[visibility](/css/properties/visibility)|[Scottrowe](/User:Scottrowe)|misc||[Shali](/User:Shali)
+**DONE**|[Shali](/User:Shali)
+**DONE**|[Shali](/User:Shali)
+**DONE**|[Shali](/User:Shali)
+**DONE**|||
+|[word-break](/css/properties/word-break)|[Scottrowe](/User:Scottrowe)|misc||[Shali](/User:Shali)
+**DONE, needs review**|[Shali](/User:Shali)
+**DONE, needs review**|[Shali](/User:Shali)
+**DONE, needs review**|[Shali](/User:Shali)
+**DONE, needs review**||duplicate - pickup|
+|[shape-margin](/css/properties/shape-margin)|[Scottrowe](/User:Scottrowe)|misc||[Sam3k](/User:Sam3k)
+**Done**|[Sam3k](/User:Sam3k)
+**Done**|[Sam3k](/User:Sam3k)
+**Done**|[Sam3k](/User:Sam3k)
+**Done**||Example not working|
+|[z-index](/css/properties/z-index)|[Scottrowe](/User:Scottrowe)|layout properties|[Visual formatting model](http://www.w3.org/TR/CSS2/visuren.html)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Rishabhsrao](/User:Rishabhsrao)
+**DONE**||||
+
+## <span>14 August 2013 Week I</span>
+
+|Article Name|Coordinator|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
+|:-----------|:----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
+|[all-space-treatment](/css/properties/all-space-treatment)|[Scott](/User:Scottrowe)|layout properties|[CSS3 Text Module](http://www.w3.org/TR/2003/CR-css3-text-20030514/)|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|||
+|[column-fill](/css/properties/column-fill)|[Scott](/User:Scottrowe)|layout properties|[css3-multicol](http://www.w3.org/TR/css3-multicol/)|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|||
+|[columns](/css/properties/columns)|[Scott](/User:Scottrowe)|layout properties|[css3-multicol](http://www.w3.org/TR/css3-multicol/)|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|Done: Shali Nguyen|[Dave Gash](/User:Dgash)
+**In progress**|||
+|[display](/css/properties/display)|[Scott](/User:Scottrowe)|layout properties|[CSS Display Module Level 3](http://dev.w3.org/csswg/css-display-3/)|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**||duplicate - pickup|
+|[grid-auto-columns](/css/properties/grid-auto-columns)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid-auto-flow](/css/properties/grid-auto-flow)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Julee](/User:Julee)
+**DONE**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**||||
+|[grid-auto-rows](/css/properties/grid-auto-rows)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Julee](/User:Julee)
+**DONE**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**||||
+|[grid-definition-columns](/css/properties/grid-definition-columns)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Julee](/User:Julee)
+**DONE -- see Notes**|[Kostas](/User:Julee)
+**DONE**||||Deletion candidate: obsolete|
+|[grid-definition-rows](/css/properties/grid-definition-rows)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Julee](/User:Julee)
+**DONE -- see Notes**|[Kostas](/User:Julee)
+**DONE**||||Deletion candidate: obsolete|
+|[grid-position](/w/index.php?title=css/properties/grid-position&action=edit&redlink=1)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE -- see notes**|||||Don't create: obsolete|
+|[grid-row-span](/css/properties/grid-row-span)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE -- see Notes**|||||Deletion candidate: obsolete|
+|[grid-span](/css/properties/grid-span)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE -- see Notes**|||||Deletion candidate: obsolete|
+|[grid-template](/css/properties/grid-template)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid-template-columns](/css/properties/grid-template-columns)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid-template-rows](/css/properties/grid-template-rows)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid-template-areas](/css/properties/grid-template-areas)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid-auto-position](/css/properties/grid-auto-position)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid](/css/properties/grid)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid-row-start](/css/properties/grid-row-start)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid-column-start](/css/properties/grid-column-start)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid-row-end](/css/properties/grid-row-end)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid-column-end](/css/properties/grid-column-end)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid-column](/css/properties/grid-column)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid-row](/css/properties/grid-row)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[grid-area](/css/properties/grid-area)|[Scott](/User:Scottrowe)|grid layout properties|[css3-grid-layout](http://www.w3.org/TR/css3-grid-layout/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**Incomplete
+Needs live example**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[knock-out](/css/properties/knock-out)|[Scott](/User:Scottrowe)|layout properties|[compositing](https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html)|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|||
+|[mask](/css/properties/mask)|[Scott](/User:Scottrowe)||[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|[Dave Gash](/User:Dgash)
+**In progress**|||duplicate - pickup|
+
+## <span>07 Aug 2013 (Week H)</span>
+
+|Article Name|Coordinator|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
+|:-----------|:----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
+|[alignment-adjust](/css/properties/alignment-adjust)|[Scott](/User:Scottrowe)|text-line properties|[CSS Line Layout](http://dev.w3.org/csswg/css-inline/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[text-height](/css/properties/text-height)|[Scott](/User:Scottrowe)|text-line properties|[CSS Line Layout](http://dev.w3.org/csswg/css-inline/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[all-space-treatment](/css/properties/all-space-treatment)|You!;-) (Please help others to help WPD)|text properties|[CR-css3-text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)||||||duplicate - pickup (obsolete, unsupported, but mentioned in the line layout specification)|
+|[block-progression](/css/properties/block-progression)|You!;-) (Please help others to help WPD)|text properties|[CR-css3-text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)||||||obsolete, only Internet Explorer 8 (and later?) implements it prefixed|
+|[kerning-mode](/css/properties/kerning-mode)|You!;-) (Please help others to help WPD)|text properties|[CR-css3-text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)||||||obsolete, unsupported|
+|[kerning-pair-threshold](/css/properties/kerning-pair-threshold)|You!;-) (Please help others to help WPD)|text properties|[CR-css3-text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)||||||obsolete, unsupported|
+|[max-font-size](/css/properties/max-font-size)|You!;-) (Please help others to help WPD)|text properties|[CR-css3-text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)||||||obsolete, unsupported|
+|[min-font-size](/css/properties/min-font-size)|You!;-) (Please help others to help WPD)|text properties|[CR-css3-text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)||||||obsolete, unsupported|
+|[punctuation-trim](/css/properties/punctuation-trim)|You!;-) (Please help others to help WPD)|text properties|[CR-css3-text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)||||||obsolete, unsupported|
+|[shape-image-threshold](/css/properties/shape-image-threshold)|[Scott](/User:Scottrowe)|text-wrapping properties|[CSS Shapes](http://dev.w3.org/csswg/css-shapes/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[shape-inside](/css/properties/shape-inside)|[Scott](/User:Scottrowe)|text-wrapping properties|[CSS Shapes](http://dev.w3.org/csswg/css-shapes/)|[Dave Gash](/User:Dgash)
+**DONE
+See Notes**||[Dave Gash](/User:Dgash)
+**DONE
+See Notes**|[Dave Gash](/User:Dgash)
+**DONE
+See Notes**||Obsolete, unsupported|
+|[shape-outside](/css/properties/shape-outside)|[Scott](/User:Scottrowe)|text-wrapping properties|[CSS Shapes](http://dev.w3.org/csswg/css-shapes/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[shape-margin](/css/properties/shape-margin)|[Scott](/User:Scottrowe)|text-wrapping properties|[CSS Shapes](http://dev.w3.org/csswg/css-shapes/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[shape-padding](/css/properties/shape-padding)|[Scott](/User:Scottrowe)|text-wrapping properties|[CSS Shapes](http://dev.w3.org/csswg/css-shapes/)|[Dave Gash](/User:Dgash)
+**DONE
+See Notes**||[Dave Gash](/User:Dgash)
+**DONE
+See Notes**|[Dave Gash](/User:Dgash)
+**DONE
+See Notes**||Obsolete, unsupported|
+|[white-space-treatment](/css/properties/white-space-treatment)|You!;-) (Please help others to help WPD)|text properties|[CR-css3-text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)||||||obsolete, unsupported|
+|[word-break-inside](/css/properties/word-break-inside)|You!;-) (Please help others to help WPD)|text properties|[CR-css3-text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)||||||obsolete, unsupported|
+|[wrap-option](/css/properties/wrap-option)|[Scott](/User:Scottrowe)|text-wrapping properties|[CSS Exclusions](http://dev.w3.org/csswg/css-exclusions/)|[Dave Gash](/User:Dgash)
+**DONE
+See Notes**||[Dave Gash](/User:Dgash)
+**DONE
+See Notes**|[Dave Gash](/User:Dgash)
+**DONE
+See Notes**||Obsolete, unsupported|
+|[wrap-flow](/css/properties/wrap-flow)|[Scott](/User:Scottrowe)|text-wrapping properties|[css3-exclusions](http://dev.w3.org/csswg/css3-exclusions/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+|[wrap-through](/css/properties/wrap-through)|[Scott](/User:Scottrowe)|text-wrapping properties|[css3-exclusions](http://dev.w3.org/csswg/css3-exclusions/)|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**||[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|[Dave Gash](/User:Dgash)
+**DONE
+Needs review**|||
+

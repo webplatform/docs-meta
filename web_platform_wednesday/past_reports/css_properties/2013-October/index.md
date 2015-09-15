@@ -1,1875 +1,3118 @@
 ---
-title: Meta:web platform wednesday/past reports/css properties/2013-October
----
-<h3><span class="mw-headline" id="Stragglers">Stragglers</span></h3>
-<p>The following table lists those properties that we have left to document within the scope of this project. We're closing in!
-</p>
-<table class="wikitable sortable">
-<tr>
-<th> Article Name
-</th>
-<th> Coordinator
-</th>
-<th> Topic cluster
-</th>
-<th> Spec URL
-</th>
-<th> Basic facts
-</th>
-<th> Explanatory text
-</th>
-<th> Examples
-</th>
-<th> Links
-</th>
-<th> Review
-</th>
-<th> Notes
-</th></tr>
-<tr>
-<td> <a href="/wiki/css/properties/clip-rule" title="css/properties/clip-rule">clip-rule</a>
-</td>
-<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">shepazu</a>
-</td>
-<td> svg attribute
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">shepazu</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>none available</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/animation" title="css/properties/animation">animation</a>
-</td>
-<td> <a href="/wiki/User:NicdaCosta" title="User:NicdaCosta">NicdaCosta</a>
-</td>
-<td> animation properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-animations/">animations</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/background-blend-mode" title="css/properties/background-blend-mode">background-blend-mode</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> background properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-background/">css3-background</a>
-</td>
-<td>  <a href="/wiki/User:Eliezerb" title="User:Eliezerb">eliezerb</a> - <b>done</b>
-</td>
-<td>  <a href="/wiki/User:Eliezerb" title="User:Eliezerb">eliezerb</a> - <b>done</b>
-</td>
-<td>  <a href="/wiki/User:Eliezerb" title="User:Eliezerb">eliezerb</a> - <b>done</b>
-</td>
-<td>  <a href="/wiki/User:Eliezerb" title="User:Eliezerb">eliezerb</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/perspective" title="css/properties/perspective">perspective</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-transforms/">css3-transforms</a>
-</td>
-<td> <a href="/w/index.php?title=User:PaulV&amp;action=edit&amp;redlink=1" class="new" title="User:PaulV (page does not exist)">PaulV</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:PaulV&amp;action=edit&amp;redlink=1" class="new" title="User:PaulV (page does not exist)">PaulV</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:PaulV&amp;action=edit&amp;redlink=1" class="new" title="User:PaulV (page does not exist)">PaulV</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:PaulV&amp;action=edit&amp;redlink=1" class="new" title="User:PaulV (page does not exist)">PaulV</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>DONE</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/knock-out" title="css/properties/knock-out">knock-out</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td>
-</td>
-<td> <a rel="nofollow" class="external text" href="https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html">compositing</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/columns" title="css/properties/columns">columns</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-multicol/">css3-multicol</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/perspective-origin" title="css/properties/perspective-origin">perspective-origin</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> transform properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-transforms/">css3-transforms</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>DONE</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/table-layout" title="css/properties/table-layout">table-layout</a>
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS2/tables.html#width-layout">tables width-layout</a>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/vertical-align" title="css/properties/vertical-align">vertical-align</a>
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td> text-line properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS2/visudet.html#propdef-vertical-align">Visual formatting model details</a>
-</td>
-<td> <a href="/w/index.php?title=User:Gaodl&amp;action=edit&amp;redlink=1" class="new" title="User:Gaodl (page does not exist)">Gaodl</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Gaodl&amp;action=edit&amp;redlink=1" class="new" title="User:Gaodl (page does not exist)">Gaodl</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Html5test&amp;action=edit&amp;redlink=1" class="new" title="User:Html5test (page does not exist)">html5test</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Gaodl&amp;action=edit&amp;redlink=1" class="new" title="User:Gaodl (page does not exist)">Gaodl</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Html5test&amp;action=edit&amp;redlink=1" class="new" title="User:Html5test (page does not exist)">html5test</a> - <b>done</b>
-</td>
-<td>
-</td></tr></table>
-<p><br />
-</p>
-<h3><span class="mw-headline" id="Extras">Extras</span></h3>
-<table class="wikitable sortable">
-<tr>
-<th> Article Name
-</th>
-<th> Coordinator
-</th>
-<th> Spec URL
-</th>
-<th> Basic facts
-</th>
-<th> Explanatory text
-</th>
-<th> Examples
-</th>
-<th> Links
-</th>
-<th> Review
-</th>
-<th> Notes
-</th></tr>
-<tr>
-<td> <a href="/wiki/css/properties/background-composite" title="css/properties/background-composite">background-composite</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> background properties
-</td>
-<td> <a rel="nofollow" class="external text" href="https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html#background-composite">compositing</a>
-</td>
-<td>  obsolete, unsupported
-</td>
-<td>  obsolete, unsupported
-</td>
-<td>  obsolete, unsupported
-</td>
-<td>  obsolete, unsupported
-</td>
-<td>  obsolete, unsupported
-</td>
-<td>  obsolete, unsupported
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/baseline-shift" title="css/properties/baseline-shift">baseline-shift</a>
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td> text-line properties
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css3-linebox/">CSS 3 Linebox</a>
-</td>
-<td> Obsoleted/Deprecated
-</td>
-<td>  <a href="/wiki/User:Eliezerb" title="User:Eliezerb">eliezerb</a>
-</td>
-<td>  Obsoleted/Deprecated
-</td>
-<td>  Obsoleted/Deprecated
-</td>
-<td>  Obsoleted/Deprecated
-</td>
-<td>  Obsoleted/Deprecated
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/vertical-align" title="css/properties/vertical-align">vertical-align</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> CSS3 Linebox
-</td>
-<td> <a href="/w/index.php?title=User:Html5test&amp;action=edit&amp;redlink=1" class="new" title="User:Html5test (page does not exist)">html5test</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Html5test&amp;action=edit&amp;redlink=1" class="new" title="User:Html5test (page does not exist)">html5test</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Html5test&amp;action=edit&amp;redlink=1" class="new" title="User:Html5test (page does not exist)">html5test</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Html5test&amp;action=edit&amp;redlink=1" class="new" title="User:Html5test (page does not exist)">html5test</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> text-emphasis
-</td>
-<td> Julee
-</td>
-<td> text properties, text emphasis properties
-</td>
-<td> CSS Text Decoration L3
-</td>
-<td> Nightire - Rsimpson - Done!
-</td>
-<td> Nightire - Rsimpson - Done!
-</td>
-<td> Nightire - Rsimpson - Done!
-</td>
-<td> Nightire - Rsimpson - Done!
-</td>
-<td> Julee - Done!
-</td></tr>
-<tr>
-<td> text-emphasis-color
-</td>
-<td> Julee
-</td>
-<td> topic cluster
-</td>
-<td> CSS3 Text Decor WD - CSS3 Text Decor ED
-</td>
-<td> Nightire - Rsimpson - Done!
-</td>
-<td> Nightire - Rsimpson - Done!
-</td>
-<td> Nightire - Rsimpson - Done!
-</td>
-<td> Julee - Done!
-</td>
-<td> 2nd round
-</td></tr>
-<tr>
-<td> text-emphasis-style
-</td>
-<td> Julee
-</td>
-<td> topic cluster
-</td>
-<td> CSS3 Text Decor WD - CSS3 Text Decor ED
-</td>
-<td> Nightire - Rsimpson - Done!
-</td>
-<td> Nightire - Rsimpson - Done!
-</td>
-<td> Nightire - Rsimpson - Done!
-</td>
-<td> Julee - Done!
-</td>
-<td> 2nd round
-</td></tr>
-<tr>
-<td> text-line-through-width
-</td>
-<td> Scott
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
-</td>
-<td> Lance - obsolete
-</td>
-<td> Lance - obsolete
-</td>
-<td> Lance - obsolete
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td> Deprecated
-</td></tr>
-<tr>
-<td> block-progression
-</td>
-<td> Scottrowe
-</td>
-<td> misc
-</td>
-<td>
-</td>
-<td> Mike West - Done
-</td>
-<td> Mike West - Done
-</td>
-<td> Mike West - Done
-</td>
-<td> Mike West - Done
-</td>
-<td> obsolete, only Internet Explorer 8 (and later?) implements it prefixed
-</td></tr>
-<tr>
-<td> kerning-mode
-</td>
-<td> Chris Mills
-</td>
-<td> text properties
-</td>
-<td> CR-css3-text
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> kerning-pair-threshold
-</td>
-<td> Chris Mills
-</td>
-<td> text properties
-</td>
-<td> CR-css3-text
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> max-font-size
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
-</td>
-<td> Kendall
-</td>
-<td> Kendall
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td> Phistuck DONE
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> min-font-size
-</td>
-<td> Julee
-</td>
-<td> text properties
-</td>
-<td> CR-css3-text
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> punctuation-trim
-</td>
-<td> Doug
-</td>
-<td> text properties
-</td>
-<td> CR-css3-text
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> white-space-treatment
-</td>
-<td>
-</td>
-<td> text properties
-</td>
-<td> CR-css3-text
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td></tr>
-<tr>
-<td> text-justify-trim
-</td>
-<td> Doug
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
-</td>
-<td>
-</td>
-<td> Not started
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> text-script
-</td>
-<td> Julee
-</td>
-<td> text properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">http://www.w3.org/TR/2003/CR-css3-text-20030514/</a>
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> obsolete, unsupported
-</td>
-<td> Since 10/2010: "The text-script property has been dropped, since it does not belong in the style layer." CSS3 Text ED
-</td></tr>
-<tr>
-<td> line-break
-</td>
-<td> Doug
-</td>
-<td> text properties, text break properties
-</td>
-<td> CSS Text L3
-</td>
-<td> Trever Santora - done
-</td>
-<td> Trever Santora - done
-</td>
-<td> Trever Santora - done
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td> done
-</td></tr>
-<tr>
-<td> overflow-wrap
-</td>
-<td> Doug
-</td>
-<td> text properties, text wrapping properties
-</td>
-<td> CSS Text L3
-</td>
-<td> Justin Duke - done
-</td>
-<td> Justin Duke - done
-</td>
-<td> Justin Duke - done
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td>
-</td></tr>
-<tr>
-<td> text-shadow
-</td>
-<td> Doug
-</td>
-<td> text properties, shadow properties
-</td>
-<td> CSS Text Decoration L3
-</td>
-<td> Trever Santora - done
-</td>
-<td> Trever Santora - done
-</td>
-<td> Trever Santora - done
-</td>
-<td> Trever Santora - done
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/transform" title="css/properties/transform">transform</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-transforms/">css3-transforms</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> <b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> <b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> <b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> <b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/transform-origin" title="css/properties/transform-origin">transform-origin</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-transforms/">css3-transforms</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> <b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> <b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> <b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> <b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/transform-style" title="css/properties/transform-style">transform-style</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-transforms/">css3-transforms</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> <b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> <b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> <b>DONE<br />Needs review</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> <b>DONE<br />Needs review</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/animation" title="css/properties/animation">animation</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-animations/">animations</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/animation-direction" title="css/properties/animation-direction">animation-direction</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-animations/">animations</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/animation-fill-mode" title="css/properties/animation-fill-mode">animation-fill-mode</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-animations/">animations</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/animation-iteration-count" title="css/properties/animation-iteration-count">animation-iteration-count</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-animations/">animations</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/animation-play-state" title="css/properties/animation-play-state">animation-play-state</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-animations/">animations</a>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>In progress</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/text-line-through-width" title="css/properties/text-line-through-width">text-line-through-width</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CSS3 Text</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td> Deprecated
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/text-overline" title="css/properties/text-overline">text-overline</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CSS3 Text</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/text-overline-color" title="css/properties/text-overline-color">text-overline-color</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CSS3 Text</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/text-overline-mode" title="css/properties/text-overline-mode">text-overline-mode</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CSS3 Text</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/text-overline-style" title="css/properties/text-overline-style">text-overline-style</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CSS3 Text</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/text-overline-width" title="css/properties/text-overline-width">text-overline-width</a>
-</td>
-<td> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2003/CR-css3-text-20030514/">CSS3 Text</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> <a href="/wiki/User:Lleonard" title="User:Lleonard">Lance</a>
-</td>
-<td> Seattle Doc Sprint
-</td>
-<td>
-</td></tr></table>
-<h2><span class="mw-headline" id="Amsterdam_Doc_Sprint">Amsterdam Doc Sprint</span></h2>
-<table class="wikitable sortable">
-<tr>
-<th> Article Name
-</th>
-<th> Coordinator
-</th>
-<th> Spec URL
-</th>
-<th> Basic facts
-</th>
-<th> Explanatory text
-</th>
-<th> Examples
-</th>
-<th> Links
-</th>
-<th> Review
-</th>
-<th> Notes
-</th></tr>
-<tr>
-<td> <a href="/wiki/css/properties/content" title="css/properties/content">content</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css3-ui/">CSS3-UI</a>
-</td>
-<td> <a href="/w/index.php?title=User:Rburgt&amp;action=edit&amp;redlink=1" class="new" title="User:Rburgt (page does not exist)">Rburgt</a>
-</td>
-<td> <a href="/w/index.php?title=User:Rburgt&amp;action=edit&amp;redlink=1" class="new" title="User:Rburgt (page does not exist)">Rburgt</a>
-</td>
-<td> <a href="/w/index.php?title=User:Rburgt&amp;action=edit&amp;redlink=1" class="new" title="User:Rburgt (page does not exist)">Rburgt</a>
-</td>
-<td> <a href="/w/index.php?title=User:Rburgt&amp;action=edit&amp;redlink=1" class="new" title="User:Rburgt (page does not exist)">Rburgt</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/left" title="css/properties/left">left</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/right" title="css/properties/right">right</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/top" title="css/properties/top">top</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/overflow-style" title="css/properties/overflow-style">overflow-style</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> CSS3 <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2008/WD-css3-marquee-20080801/">marquee</a>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/overflow-y" title="css/properties/overflow-y">overflow-y</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-box/">css3-box</a>
-</td>
-<td> <a href="/w/index.php?title=User:Html5test&amp;action=edit&amp;redlink=1" class="new" title="User:Html5test (page does not exist)">html5test</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Html5test&amp;action=edit&amp;redlink=1" class="new" title="User:Html5test (page does not exist)">html5test</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Html5test&amp;action=edit&amp;redlink=1" class="new" title="User:Html5test (page does not exist)">html5test</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Html5test&amp;action=edit&amp;redlink=1" class="new" title="User:Html5test (page does not exist)">html5test</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/outline-color" title="css/properties/outline-color">outline-color</a>
-</td>
-<td>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-ui/#outline-color">CSS User Interface L3</a>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a>  - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/outline-offset" title="css/properties/outline-offset">outline-offset</a>
-</td>
-<td>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-ui/#outline-offset">CSS User Interface L3</a>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a>  - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/outline-style" title="css/properties/outline-style">outline-style</a>
-</td>
-<td>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-ui/#outline-style">CSS User Interface L3</a>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a>  - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:LARSKEEE&amp;action=edit&amp;redlink=1" class="new" title="User:LARSKEEE (page does not exist)">LARSKEEE</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/outline-width" title="css/properties/outline-width">outline-width</a>
-</td>
-<td>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-ui/#outline-width">CSS User Interface L3</a>
-</td>
-<td> <a href="/w/index.php?title=User:TOMVISSENNKOM&amp;action=edit&amp;redlink=1" class="new" title="User:TOMVISSENNKOM (page does not exist)">TOMVISSENNKOM</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:TOMVISSENNKOM&amp;action=edit&amp;redlink=1" class="new" title="User:TOMVISSENNKOM (page does not exist)">TOMVISSENNKOM</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:TOMVISSENNKOM&amp;action=edit&amp;redlink=1" class="new" title="User:TOMVISSENNKOM (page does not exist)">TOMVISSENNKOM</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:TOMVISSENNKOM&amp;action=edit&amp;redlink=1" class="new" title="User:TOMVISSENNKOM (page does not exist)">TOMVISSENNKOM</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:TOMVISSENNKOM&amp;action=edit&amp;redlink=1" class="new" title="User:TOMVISSENNKOM (page does not exist)">TOMVISSENNKOM</a>  - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/marquee-direction" title="css/properties/marquee-direction">marquee-direction</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> CSS3 <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2008/WD-css3-marquee-20080801/">marquee</a>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/list-style" title="css/properties/list-style">list-style</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/generate.html#list-style">CSS 2.1</a>
-</td>
-<td> <a href="/wiki/User:Jhuesos" title="User:Jhuesos">Jhuesos</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Jhuesos" title="User:Jhuesos">Jhuesos</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Jhuesos" title="User:Jhuesos">Jhuesos</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Jhuesos" title="User:Jhuesos">Jhuesos</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/list-style-image" title="css/properties/list-style-image">list-style-image</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/generate.html#list-style">CSS 2.1</a>
-</td>
-<td> <a href="/wiki/User:Jhuesos" title="User:Jhuesos">Jhuesos</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Jhuesos" title="User:Jhuesos">Jhuesos</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Jhuesos" title="User:Jhuesos">Jhuesos</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Jhuesos" title="User:Jhuesos">Jhuesos</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/list-style-position" title="css/properties/list-style-position">list-style-position</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/generate.html#list-style">CSS 2.1</a>
-</td>
-<td> <a href="/wiki/User:Jhuesos" title="User:Jhuesos">Jhuesos</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Jhuesos" title="User:Jhuesos">Jhuesos</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Jhuesos" title="User:Jhuesos">Jhuesos</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Jhuesos" title="User:Jhuesos">Jhuesos</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/position" title="css/properties/position">position</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/visuren.html#propdef-position">propdef-position</a>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/alignment-adjust" title="css/properties/alignment-adjust">alignment-adjust</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Dgash" title="User:Dgash">Dave Gash</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/bottom" title="css/properties/bottom">bottom</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Dkruythoff&amp;action=edit&amp;redlink=1" class="new" title="User:Dkruythoff (page does not exist)">Dkruythoff</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/float" title="css/properties/float">float</a>
-</td>
-<td>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/visuren.html#propdef-position">propdef-position</a>
-</td>
-<td> Done
-</td>
-<td> Done
-</td>
-<td> Done
-</td>
-<td> Done
-</td>
-<td> Done
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/hyphens" title="css/properties/hyphens">hyphens</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2012/WD-css3-text-20121113/#hyphens0">CSS Text L3</a>
-</td>
-<td> <a href="/w/index.php?title=User:Eising&amp;action=edit&amp;redlink=1" class="new" title="User:Eising (page does not exist)">Eising</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Eising&amp;action=edit&amp;redlink=1" class="new" title="User:Eising (page does not exist)">Eising</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Eising&amp;action=edit&amp;redlink=1" class="new" title="User:Eising (page does not exist)">Eising</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Eising&amp;action=edit&amp;redlink=1" class="new" title="User:Eising (page does not exist)">Eising</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/marquee-play-count" title="css/properties/marquee-play-count">marquee-play-count</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> CSS3 <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2008/WD-css3-marquee-20080801/">marquee-play-count</a>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/marquee-speed" title="css/properties/marquee-speed">marquee-speed</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> CSS3 Marquee
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-collapse" title="css/properties/border-collapse">border-collapse</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>  - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-spacing" title="css/properties/border-spacing">border-spacing</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS2/tables.html#propdef-border-spacing">css2-border-spacing</a>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>  - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-top-left-radius" title="css/properties/border-top-left-radius">border-top-left-radius</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-background/">css3-background</a>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>  - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-top-right-radius" title="css/properties/border-top-right-radius">border-top-right-radius</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-background/">css3-background</a>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Vivienne" title="User:Vivienne">Vivienne</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>  - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/w/index.php?title=css/properties/marquee&amp;action=edit&amp;redlink=1" class="new" title="css/properties/marquee (page does not exist)">marquee</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> CSS3 <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2008/WD-css3-marquee-20080801/">marquee</a>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td> Page deleted&#160;: marquee is still not a CSS property
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/height" title="css/properties/height">height</a>
-</td>
-<td>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/visudet.html#propdef-height">CSS 2.1</a>
-</td>
-<td> Done
-</td>
-<td> Done
-</td>
-<td> Done
-</td>
-<td> Done
-</td>
-<td> Done
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/text-height" title="css/properties/text-height">text-height</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css3-linebox/">CSS3 Linebox</a>
-</td>
-<td> <b>done</b>
-</td>
-<td> <b>done</b>
-</td>
-<td> <b>done</b>
-</td>
-<td> <b>done</b>
-</td>
-<td> <b>done</b>
-</td>
-<td> No implementations; WD (2002) effectively abandonded
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/padding" title="css/properties/padding">padding</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/box.html#propdef-padding">CSS 2.1</a>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/padding-bottom" title="css/properties/padding-bottom">padding-bottom</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/box.html#propdef-padding-bottom">CSS 2.1</a>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/padding-left" title="css/properties/padding-left">padding-left</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/box.html#propdef-padding-left">CSS 2.1</a>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/padding-right" title="css/properties/padding-right">padding-right</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/box.html#propdef-padding-right">CSS 2.1</a>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/padding-top" title="css/properties/padding-top">padding-top</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/box.html#propdef-padding-top">CSS 2.1</a>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td> <a href="/w/index.php?title=User:Bmhinnawi&amp;action=edit&amp;redlink=1" class="new" title="User:Bmhinnawi (page does not exist)">Bmhinnawi</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/font" title="css/properties/font">font</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-fonts/">CSS Fonts L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/font-family" title="css/properties/font-family">font-family</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-fonts/">CSS Fonts L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/font-size" title="css/properties/font-size">font-size</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-fonts/">CSS Fonts L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/font-size-adjust" title="css/properties/font-size-adjust">font-size-adjust</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-fonts/">CSS Fonts L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/font-style" title="css/properties/font-style">font-style</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-fonts/">CSS Fonts L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/font-variant" title="css/properties/font-variant">font-variant</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-fonts/">CSS Fonts L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/font-weight" title="css/properties/font-weight">font-weight</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-fonts/">CSS Fonts L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/word-wrap" title="css/properties/word-wrap">word-wrap</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2012/WD-css3-text-20121113/#word-wrap">CSS Text L3</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a> - <b>done</b>
-</td>
-<td>
-</td>
-<td> This property is an alias for overflow-wrap
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/break-after" title="css/properties/break-after">break-after</a>
-</td>
-<td>
-</td>
-<td>
-<ul><li> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/page.html">CSS 2.1</a></li>
-<li> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-multicol/">CSS Multi-column Layout</a></li>
-<li> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-regions/">CSS Regions L1</a></li></ul>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/break-before" title="css/properties/break-before">break-before</a>
-</td>
-<td>
-</td>
-<td>
-<ul><li> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/page.html">CSS 2.1</a></li>
-<li> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-multicol/">CSS Multi-column Layout</a></li>
-<li> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-regions/">CSS Regions L1</a></li></ul>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/break-inside" title="css/properties/break-inside">break-inside</a>
-</td>
-<td>
-</td>
-<td>
-<ul><li> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/CSS21/page.html">CSS 2.1</a></li>
-<li> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-multicol/">CSS Multi-column Layout</a></li>
-<li> <a rel="nofollow" class="external text" href="http://dev.w3.org/csswg/css-regions/">CSS Regions L1</a></li></ul>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-image" title="css/properties/border-image">border-image</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-background/#border-images">CSS Borders L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-image-outset" title="css/properties/border-image-outset">border-image-outset</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-background/#border-images">CSS Borders L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-image-repeat" title="css/properties/border-image-repeat">border-image-repeat</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-background/#border-images">CSS Borders L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-image-slice" title="css/properties/border-image-slice">border-image-slice</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-background/#border-images">CSS Borders L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-image-source" title="css/properties/border-image-source">border-image-source</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-background/#border-images">CSS Borders L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-image-width" title="css/properties/border-image-width">border-image-width</a>
-</td>
-<td> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/css3-background/#border-images">CSS Borders L3</a>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td> <a href="/wiki/User:Ronaldmansveld" title="User:Ronaldmansveld">Ronaldmansveld</a> - <b>done</b>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/text-indent" title="css/properties/text-indent">text-indent</a>
-</td>
-<td>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/2012/WD-css3-text-20121113/#text-indent0">CSS Text L3</a>
-</td>
-<td> Done
-</td>
-<td> Done
-</td>
-<td> Done
-</td>
-<td> Done
-</td>
-<td> Done
-</td>
-<td>
-</td></tr></table>
+title: 2013-October
+todo_broken_links:
+  note: 'During import MediaWiki could not find the following links, please fix and adjust this list.'
+  links:
+    - css/properties/marquee
+    - 'User:PaulV'
+    - 'User:Gaodl'
+    - 'User:Html5test'
+    - 'User:Rburgt'
+    - 'User:Dkruythoff'
+    - 'User:LARSKEEE'
+    - 'User:TOMVISSENNKOM'
+    - 'User:Eising'
+    - 'User:Bmhinnawi'
+uri: 'Meta:web platform wednesday/past reports/css properties/2013-October'
 
-<!-- Saved in parser cache with key wpwiki:pcache:idhash:11344-0!*!0!!*!*!*!esi=1 and timestamp 20150731182114 and revision id 45304
- -->
+---
+### <span>Stragglers</span>
+
+The following table lists those properties that we have left to document within the scope of this project. We're closing in!
+
+|Article Name|Coordinator|Topic cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
+|:-----------|:----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
+|[clip-rule](/css/properties/clip-rule)|[shepazu](/User:Shepazu)|svg attribute||[Dave Gash](/User:Dgash) - **done**|[Julee](/User:Julee) - **done**|[shepazu](/User:Shepazu) - **done**|[Julee](/User:Julee) - **none available**|||
+|[animation](/css/properties/animation)|[NicdaCosta](/User:NicdaCosta)|animation properties|[animations](http://www.w3.org/TR/css3-animations/)|[Dave Gash](/User:Dgash) - **DONE
+Needs review**|[Dave Gash](/User:Dgash) - **DONE
+Needs review**|[Dave Gash](/User:Dgash) - **DONE
+Needs review**|[Dave Gash](/User:Dgash) - **DONE
+Needs review**|||
+|[background-blend-mode](/css/properties/background-blend-mode)|[Julee](/User:Julee)|background properties|[css3-background](http://www.w3.org/TR/css3-background/)|[eliezerb](/User:Eliezerb) - **done**|[eliezerb](/User:Eliezerb) - **done**|[eliezerb](/User:Eliezerb) - **done**|[eliezerb](/User:Eliezerb) - **done**|[Julee](/User:Julee) - **done**||
+|[perspective](/css/properties/perspective)|[Scott](/User:Scottrowe)||[css3-transforms](http://www.w3.org/TR/css3-transforms/)|[PaulV](/w/index.php?title=User:PaulV&action=edit&redlink=1) - **done**|[PaulV](/w/index.php?title=User:PaulV&action=edit&redlink=1) - **done**|[PaulV](/w/index.php?title=User:PaulV&action=edit&redlink=1) - **done**|[PaulV](/w/index.php?title=User:PaulV&action=edit&redlink=1) - **done**|[Dave Gash](/User:Dgash) - **DONE**||
+|[knock-out](/css/properties/knock-out)|[Scott](/User:Scottrowe)||[compositing](https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html)|[Dave Gash](/User:Dgash) - **done**|[Dave Gash](/User:Dgash) - **done**|[Dave Gash](/User:Dgash) - **done**|[Dave Gash](/User:Dgash) - **done**|||
+|[columns](/css/properties/columns)|[Scott](/User:Scottrowe)||[css3-multicol](http://www.w3.org/TR/css3-multicol/)|[Dave Gash](/User:Dgash) - **done**|[Dave Gash](/User:Dgash) - **done**|[Dave Gash](/User:Dgash) - **done**|[Dave Gash](/User:Dgash) - **done**|||
+|[perspective-origin](/css/properties/perspective-origin)|[Julee](/User:Julee)|transform properties|[css3-transforms](http://www.w3.org/TR/css3-transforms/)|[Julee](/User:Julee) - **done**|[Julee](/User:Julee) - **done**|[Julee](/User:Julee) - **done**|[Julee](/User:Julee) - **done**|[Dave Gash](/User:Dgash) - **DONE**||
+|[table-layout](/css/properties/table-layout)|Seattle Doc Sprint|[Julee](/User:Julee)|[tables width-layout](http://www.w3.org/TR/CSS2/tables.html#width-layout)|[Vivienne](/User:Vivienne) - **done**|[Vivienne](/User:Vivienne) - **done**|[Vivienne](/User:Vivienne) - **done**|[Vivienne](/User:Vivienne) - **done**|[Julee](/User:Julee) - **done**||
+|[vertical-align](/css/properties/vertical-align)|Seattle Doc Sprint|text-line properties|[Visual formatting model details](http://www.w3.org/TR/CSS2/visudet.html#propdef-vertical-align)|[Gaodl](/w/index.php?title=User:Gaodl&action=edit&redlink=1) - **done**|[Gaodl](/w/index.php?title=User:Gaodl&action=edit&redlink=1) - **done**|[html5test](/w/index.php?title=User:Html5test&action=edit&redlink=1) - **done**|[Gaodl](/w/index.php?title=User:Gaodl&action=edit&redlink=1) - **done**|[html5test](/w/index.php?title=User:Html5test&action=edit&redlink=1) - **done**||
+
+### <span>Extras</span>
+
+<table class="wikitable sortable">
+<tr>
+<th>
+Article Name
+
+</th>
+<th>
+Coordinator
+
+</th>
+<th>
+Spec URL
+
+</th>
+<th>
+Basic facts
+
+</th>
+<th>
+Explanatory text
+
+</th>
+<th>
+Examples
+
+</th>
+<th>
+Links
+
+</th>
+<th>
+Review
+
+</th>
+<th>
+Notes
+
+</th>
+</tr>
+<tr>
+<td>
+[background-composite](/css/properties/background-composite)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+background properties
+
+</td>
+<td>
+[compositing](https://dvcs.w3.org/hg/FXTF/rawfile/tip/compositing/index.html#background-composite)
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+</tr>
+<tr>
+<td>
+[baseline-shift](/css/properties/baseline-shift)
+
+</td>
+<td>
+Seattle Doc Sprint
+
+</td>
+<td>
+text-line properties
+
+</td>
+<td>
+[CSS 3 Linebox](http://dev.w3.org/csswg/css3-linebox/)
+
+</td>
+<td>
+Obsoleted/Deprecated
+
+</td>
+<td>
+[eliezerb](/User:Eliezerb)
+
+</td>
+<td>
+Obsoleted/Deprecated
+
+</td>
+<td>
+Obsoleted/Deprecated
+
+</td>
+<td>
+Obsoleted/Deprecated
+
+</td>
+<td>
+Obsoleted/Deprecated
+
+</td>
+</tr>
+<tr>
+<td>
+[vertical-align](/css/properties/vertical-align)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+CSS3 Linebox
+
+</td>
+<td>
+[html5test](/w/index.php?title=User:Html5test&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[html5test](/w/index.php?title=User:Html5test&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[html5test](/w/index.php?title=User:Html5test&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[html5test](/w/index.php?title=User:Html5test&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+text-emphasis
+
+</td>
+<td>
+Julee
+
+</td>
+<td>
+text properties, text emphasis properties
+
+</td>
+<td>
+CSS Text Decoration L3
+
+</td>
+<td>
+Nightire - Rsimpson - Done!
+
+</td>
+<td>
+Nightire - Rsimpson - Done!
+
+</td>
+<td>
+Nightire - Rsimpson - Done!
+
+</td>
+<td>
+Nightire - Rsimpson - Done!
+
+</td>
+<td>
+Julee - Done!
+
+</td>
+</tr>
+<tr>
+<td>
+text-emphasis-color
+
+</td>
+<td>
+Julee
+
+</td>
+<td>
+topic cluster
+
+</td>
+<td>
+CSS3 Text Decor WD - CSS3 Text Decor ED
+
+</td>
+<td>
+Nightire - Rsimpson - Done!
+
+</td>
+<td>
+Nightire - Rsimpson - Done!
+
+</td>
+<td>
+Nightire - Rsimpson - Done!
+
+</td>
+<td>
+Julee - Done!
+
+</td>
+<td>
+2nd round
+
+</td>
+</tr>
+<tr>
+<td>
+text-emphasis-style
+
+</td>
+<td>
+Julee
+
+</td>
+<td>
+topic cluster
+
+</td>
+<td>
+CSS3 Text Decor WD - CSS3 Text Decor ED
+
+</td>
+<td>
+Nightire - Rsimpson - Done!
+
+</td>
+<td>
+Nightire - Rsimpson - Done!
+
+</td>
+<td>
+Nightire - Rsimpson - Done!
+
+</td>
+<td>
+Julee - Done!
+
+</td>
+<td>
+2nd round
+
+</td>
+</tr>
+<tr>
+<td>
+text-line-through-width
+
+</td>
+<td>
+Scott
+
+</td>
+<td>
+text properties
+
+</td>
+<td>
+<http://www.w3.org/TR/2003/CR-css3-text-20030514/>
+
+</td>
+<td>
+Lance - obsolete
+
+</td>
+<td>
+Lance - obsolete
+
+</td>
+<td>
+Lance - obsolete
+
+</td>
+<td>
+Seattle Doc Sprint
+
+</td>
+<td>
+Deprecated
+
+</td>
+</tr>
+<tr>
+<td>
+block-progression
+
+</td>
+<td>
+Scottrowe
+
+</td>
+<td>
+misc
+
+</td>
+<td>
+</td>
+<td>
+Mike West - Done
+
+</td>
+<td>
+Mike West - Done
+
+</td>
+<td>
+Mike West - Done
+
+</td>
+<td>
+Mike West - Done
+
+</td>
+<td>
+obsolete, only Internet Explorer 8 (and later?) implements it prefixed
+
+</td>
+</tr>
+<tr>
+<td>
+kerning-mode
+
+</td>
+<td>
+Chris Mills
+
+</td>
+<td>
+text properties
+
+</td>
+<td>
+CR-css3-text
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+</tr>
+<tr>
+<td>
+kerning-pair-threshold
+
+</td>
+<td>
+Chris Mills
+
+</td>
+<td>
+text properties
+
+</td>
+<td>
+CR-css3-text
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+</tr>
+<tr>
+<td>
+max-font-size
+
+</td>
+<td>
+Seattle Doc Sprint
+
+</td>
+<td>
+text properties
+
+</td>
+<td>
+<http://www.w3.org/TR/2003/CR-css3-text-20030514/>
+
+</td>
+<td>
+Kendall
+
+</td>
+<td>
+Kendall
+
+</td>
+<td>
+Seattle Doc Sprint
+
+</td>
+<td>
+Phistuck DONE
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+</tr>
+<tr>
+<td>
+min-font-size
+
+</td>
+<td>
+Julee
+
+</td>
+<td>
+text properties
+
+</td>
+<td>
+CR-css3-text
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+</tr>
+<tr>
+<td>
+punctuation-trim
+
+</td>
+<td>
+Doug
+
+</td>
+<td>
+text properties
+
+</td>
+<td>
+CR-css3-text
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+</tr>
+<tr>
+<td>
+white-space-treatment
+
+</td>
+<td>
+</td>
+<td>
+text properties
+
+</td>
+<td>
+CR-css3-text
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+</tr>
+<tr>
+<td>
+text-justify-trim
+
+</td>
+<td>
+Doug
+
+</td>
+<td>
+text properties
+
+</td>
+<td>
+<http://www.w3.org/TR/2003/CR-css3-text-20030514/>
+
+</td>
+<td>
+</td>
+<td>
+Not started
+
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+text-script
+
+</td>
+<td>
+Julee
+
+</td>
+<td>
+text properties
+
+</td>
+<td>
+<http://www.w3.org/TR/2003/CR-css3-text-20030514/>
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+obsolete, unsupported
+
+</td>
+<td>
+Since 10/2010: "The text-script property has been dropped, since it does not belong in the style layer." CSS3 Text ED
+
+</td>
+</tr>
+<tr>
+<td>
+line-break
+
+</td>
+<td>
+Doug
+
+</td>
+<td>
+text properties, text break properties
+
+</td>
+<td>
+CSS Text L3
+
+</td>
+<td>
+Trever Santora - done
+
+</td>
+<td>
+Trever Santora - done
+
+</td>
+<td>
+Trever Santora - done
+
+</td>
+<td>
+Seattle Doc Sprint
+
+</td>
+<td>
+done
+
+</td>
+</tr>
+<tr>
+<td>
+overflow-wrap
+
+</td>
+<td>
+Doug
+
+</td>
+<td>
+text properties, text wrapping properties
+
+</td>
+<td>
+CSS Text L3
+
+</td>
+<td>
+Justin Duke - done
+
+</td>
+<td>
+Justin Duke - done
+
+</td>
+<td>
+Justin Duke - done
+
+</td>
+<td>
+Seattle Doc Sprint
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+text-shadow
+
+</td>
+<td>
+Doug
+
+</td>
+<td>
+text properties, shadow properties
+
+</td>
+<td>
+CSS Text Decoration L3
+
+</td>
+<td>
+Trever Santora - done
+
+</td>
+<td>
+Trever Santora - done
+
+</td>
+<td>
+Trever Santora - done
+
+</td>
+<td>
+Trever Santora - done
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[transform](/css/properties/transform)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[css3-transforms](http://www.w3.org/TR/css3-transforms/)
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) **DONE
+Needs review**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) **DONE
+Needs review**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) **DONE
+Needs review**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) **DONE
+Needs review**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[transform-origin](/css/properties/transform-origin)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[css3-transforms](http://www.w3.org/TR/css3-transforms/)
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) **DONE
+Needs review**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) **DONE
+Needs review**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) **DONE
+Needs review**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) **DONE
+Needs review**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[transform-style](/css/properties/transform-style)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[css3-transforms](http://www.w3.org/TR/css3-transforms/)
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) **DONE
+Needs review**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) **DONE
+Needs review**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) **DONE
+Needs review**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) **DONE
+Needs review**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[animation](/css/properties/animation)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[animations](http://www.w3.org/TR/css3-animations/)
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[animation-direction](/css/properties/animation-direction)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[animations](http://www.w3.org/TR/css3-animations/)
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[animation-fill-mode](/css/properties/animation-fill-mode)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[animations](http://www.w3.org/TR/css3-animations/)
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[animation-iteration-count](/css/properties/animation-iteration-count)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[animations](http://www.w3.org/TR/css3-animations/)
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[animation-play-state](/css/properties/animation-play-state)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[animations](http://www.w3.org/TR/css3-animations/)
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **In progress**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[text-line-through-width](/css/properties/text-line-through-width)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[CSS3 Text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+Seattle Doc Sprint
+
+</td>
+<td>
+Deprecated
+
+</td>
+</tr>
+<tr>
+<td>
+[text-overline](/css/properties/text-overline)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[CSS3 Text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+Seattle Doc Sprint
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[text-overline-color](/css/properties/text-overline-color)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[CSS3 Text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+Seattle Doc Sprint
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[text-overline-mode](/css/properties/text-overline-mode)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[CSS3 Text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+Seattle Doc Sprint
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[text-overline-style](/css/properties/text-overline-style)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[CSS3 Text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+Seattle Doc Sprint
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[text-overline-width](/css/properties/text-overline-width)
+
+</td>
+<td>
+[Scott](/User:Scottrowe)
+
+</td>
+<td>
+[CSS3 Text](http://www.w3.org/TR/2003/CR-css3-text-20030514/)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+[Lance](/User:Lleonard)
+
+</td>
+<td>
+Seattle Doc Sprint
+
+</td>
+<td>
+</td>
+</tr>
+</table>
+## <span>Amsterdam Doc Sprint</span>
+
+<table class="wikitable sortable">
+<tr>
+<th>
+Article Name
+
+</th>
+<th>
+Coordinator
+
+</th>
+<th>
+Spec URL
+
+</th>
+<th>
+Basic facts
+
+</th>
+<th>
+Explanatory text
+
+</th>
+<th>
+Examples
+
+</th>
+<th>
+Links
+
+</th>
+<th>
+Review
+
+</th>
+<th>
+Notes
+
+</th>
+</tr>
+<tr>
+<td>
+[content](/css/properties/content)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS3-UI](http://dev.w3.org/csswg/css3-ui/)
+
+</td>
+<td>
+[Rburgt](/w/index.php?title=User:Rburgt&action=edit&redlink=1)
+
+</td>
+<td>
+[Rburgt](/w/index.php?title=User:Rburgt&action=edit&redlink=1)
+
+</td>
+<td>
+[Rburgt](/w/index.php?title=User:Rburgt&action=edit&redlink=1)
+
+</td>
+<td>
+[Rburgt](/w/index.php?title=User:Rburgt&action=edit&redlink=1)
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[left](/css/properties/left)
+
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[right](/css/properties/right)
+
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[top](/css/properties/top)
+
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[overflow-style](/css/properties/overflow-style)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+CSS3 [marquee](http://www.w3.org/TR/2008/WD-css3-marquee-20080801/)
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[overflow-y](/css/properties/overflow-y)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[css3-box](http://www.w3.org/TR/css3-box/)
+
+</td>
+<td>
+[html5test](/w/index.php?title=User:Html5test&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[html5test](/w/index.php?title=User:Html5test&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[html5test](/w/index.php?title=User:Html5test&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[html5test](/w/index.php?title=User:Html5test&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[outline-color](/css/properties/outline-color)
+
+</td>
+<td>
+</td>
+<td>
+[CSS User Interface L3](http://dev.w3.org/csswg/css-ui/#outline-color)
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[outline-offset](/css/properties/outline-offset)
+
+</td>
+<td>
+</td>
+<td>
+[CSS User Interface L3](http://dev.w3.org/csswg/css-ui/#outline-offset)
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[outline-style](/css/properties/outline-style)
+
+</td>
+<td>
+</td>
+<td>
+[CSS User Interface L3](http://dev.w3.org/csswg/css-ui/#outline-style)
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[LARSKEEE](/w/index.php?title=User:LARSKEEE&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[outline-width](/css/properties/outline-width)
+
+</td>
+<td>
+</td>
+<td>
+[CSS User Interface L3](http://dev.w3.org/csswg/css-ui/#outline-width)
+
+</td>
+<td>
+[TOMVISSENNKOM](/w/index.php?title=User:TOMVISSENNKOM&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[TOMVISSENNKOM](/w/index.php?title=User:TOMVISSENNKOM&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[TOMVISSENNKOM](/w/index.php?title=User:TOMVISSENNKOM&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[TOMVISSENNKOM](/w/index.php?title=User:TOMVISSENNKOM&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[TOMVISSENNKOM](/w/index.php?title=User:TOMVISSENNKOM&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[marquee-direction](/css/properties/marquee-direction)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+CSS3 [marquee](http://www.w3.org/TR/2008/WD-css3-marquee-20080801/)
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[list-style](/css/properties/list-style)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS 2.1](http://www.w3.org/TR/CSS21/generate.html#list-style)
+
+</td>
+<td>
+[Jhuesos](/User:Jhuesos) - **done**
+
+</td>
+<td>
+[Jhuesos](/User:Jhuesos) - **done**
+
+</td>
+<td>
+[Jhuesos](/User:Jhuesos) - **done**
+
+</td>
+<td>
+[Jhuesos](/User:Jhuesos) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[list-style-image](/css/properties/list-style-image)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS 2.1](http://www.w3.org/TR/CSS21/generate.html#list-style)
+
+</td>
+<td>
+[Jhuesos](/User:Jhuesos) - **done**
+
+</td>
+<td>
+[Jhuesos](/User:Jhuesos) - **done**
+
+</td>
+<td>
+[Jhuesos](/User:Jhuesos) - **done**
+
+</td>
+<td>
+[Jhuesos](/User:Jhuesos) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[list-style-position](/css/properties/list-style-position)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS 2.1](http://www.w3.org/TR/CSS21/generate.html#list-style)
+
+</td>
+<td>
+[Jhuesos](/User:Jhuesos) - **done**
+
+</td>
+<td>
+[Jhuesos](/User:Jhuesos) - **done**
+
+</td>
+<td>
+[Jhuesos](/User:Jhuesos) - **done**
+
+</td>
+<td>
+[Jhuesos](/User:Jhuesos) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[position](/css/properties/position)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[propdef-position](http://www.w3.org/TR/CSS21/visuren.html#propdef-position)
+
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[alignment-adjust](/css/properties/alignment-adjust)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **done**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **done**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **done**
+
+</td>
+<td>
+[Dave Gash](/User:Dgash) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[bottom](/css/properties/bottom)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Dkruythoff](/w/index.php?title=User:Dkruythoff&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[float](/css/properties/float)
+
+</td>
+<td>
+</td>
+<td>
+[propdef-position](http://www.w3.org/TR/CSS21/visuren.html#propdef-position)
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[hyphens](/css/properties/hyphens)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Text L3](http://www.w3.org/TR/2012/WD-css3-text-20121113/#hyphens0)
+
+</td>
+<td>
+[Eising](/w/index.php?title=User:Eising&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Eising](/w/index.php?title=User:Eising&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Eising](/w/index.php?title=User:Eising&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Eising](/w/index.php?title=User:Eising&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[marquee-play-count](/css/properties/marquee-play-count)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+CSS3 [marquee-play-count](http://www.w3.org/TR/2008/WD-css3-marquee-20080801/)
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[marquee-speed](/css/properties/marquee-speed)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+CSS3 Marquee
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[border-collapse](/css/properties/border-collapse)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[border-spacing](/css/properties/border-spacing)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[css2-border-spacing](http://www.w3.org/TR/CSS2/tables.html#propdef-border-spacing)
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[border-top-left-radius](/css/properties/border-top-left-radius)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[css3-background](http://www.w3.org/TR/css3-background/)
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[border-top-right-radius](/css/properties/border-top-right-radius)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[css3-background](http://www.w3.org/TR/css3-background/)
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Vivienne](/User:Vivienne) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[marquee](/w/index.php?title=css/properties/marquee&action=edit&redlink=1)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+CSS3 [marquee](http://www.w3.org/TR/2008/WD-css3-marquee-20080801/)
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Paulv](/User:Paulv) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+Page deleted : marquee is still not a CSS property
+
+</td>
+</tr>
+<tr>
+<td>
+[height](/css/properties/height)
+
+</td>
+<td>
+</td>
+<td>
+[CSS 2.1](http://www.w3.org/TR/CSS21/visudet.html#propdef-height)
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[text-height](/css/properties/text-height)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS3 Linebox](http://dev.w3.org/csswg/css3-linebox/)
+
+</td>
+<td>
+**done**
+
+</td>
+<td>
+**done**
+
+</td>
+<td>
+**done**
+
+</td>
+<td>
+**done**
+
+</td>
+<td>
+**done**
+
+</td>
+<td>
+No implementations; WD (2002) effectively abandonded
+
+</td>
+</tr>
+<tr>
+<td>
+[padding](/css/properties/padding)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS 2.1](http://www.w3.org/TR/CSS21/box.html#propdef-padding)
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[padding-bottom](/css/properties/padding-bottom)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS 2.1](http://www.w3.org/TR/CSS21/box.html#propdef-padding-bottom)
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[padding-left](/css/properties/padding-left)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS 2.1](http://www.w3.org/TR/CSS21/box.html#propdef-padding-left)
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[padding-right](/css/properties/padding-right)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS 2.1](http://www.w3.org/TR/CSS21/box.html#propdef-padding-right)
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[padding-top](/css/properties/padding-top)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS 2.1](http://www.w3.org/TR/CSS21/box.html#propdef-padding-top)
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+[Bmhinnawi](/w/index.php?title=User:Bmhinnawi&action=edit&redlink=1) - **done**
+
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[font](/css/properties/font)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Fonts L3](http://www.w3.org/TR/css3-fonts/)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[font-family](/css/properties/font-family)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Fonts L3](http://www.w3.org/TR/css3-fonts/)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[font-size](/css/properties/font-size)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Fonts L3](http://www.w3.org/TR/css3-fonts/)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[font-size-adjust](/css/properties/font-size-adjust)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Fonts L3](http://www.w3.org/TR/css3-fonts/)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[font-style](/css/properties/font-style)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Fonts L3](http://www.w3.org/TR/css3-fonts/)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[font-variant](/css/properties/font-variant)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Fonts L3](http://www.w3.org/TR/css3-fonts/)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[font-weight](/css/properties/font-weight)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Fonts L3](http://www.w3.org/TR/css3-fonts/)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[word-wrap](/css/properties/word-wrap)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Text L3](http://www.w3.org/TR/2012/WD-css3-text-20121113/#word-wrap)
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+[Julee](/User:Julee) - **done**
+
+</td>
+<td>
+</td>
+<td>
+This property is an alias for overflow-wrap
+
+</td>
+</tr>
+<tr>
+<td>
+[break-after](/css/properties/break-after)
+
+</td>
+<td>
+</td>
+<td>
+-   [CSS 2.1](http://www.w3.org/TR/CSS21/page.html)
+-   [CSS Multi-column Layout](http://www.w3.org/TR/css3-multicol/)
+-   [CSS Regions L1](http://dev.w3.org/csswg/css-regions/)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[break-before](/css/properties/break-before)
+
+</td>
+<td>
+</td>
+<td>
+-   [CSS 2.1](http://www.w3.org/TR/CSS21/page.html)
+-   [CSS Multi-column Layout](http://www.w3.org/TR/css3-multicol/)
+-   [CSS Regions L1](http://dev.w3.org/csswg/css-regions/)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[break-inside](/css/properties/break-inside)
+
+</td>
+<td>
+</td>
+<td>
+-   [CSS 2.1](http://www.w3.org/TR/CSS21/page.html)
+-   [CSS Multi-column Layout](http://www.w3.org/TR/css3-multicol/)
+-   [CSS Regions L1](http://dev.w3.org/csswg/css-regions/)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[border-image](/css/properties/border-image)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Borders L3](http://www.w3.org/TR/css3-background/#border-images)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[border-image-outset](/css/properties/border-image-outset)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Borders L3](http://www.w3.org/TR/css3-background/#border-images)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[border-image-repeat](/css/properties/border-image-repeat)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Borders L3](http://www.w3.org/TR/css3-background/#border-images)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[border-image-slice](/css/properties/border-image-slice)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Borders L3](http://www.w3.org/TR/css3-background/#border-images)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[border-image-source](/css/properties/border-image-source)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Borders L3](http://www.w3.org/TR/css3-background/#border-images)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[border-image-width](/css/properties/border-image-width)
+
+</td>
+<td>
+[Julee](/User:Julee)
+
+</td>
+<td>
+[CSS Borders L3](http://www.w3.org/TR/css3-background/#border-images)
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+[Ronaldmansveld](/User:Ronaldmansveld) - **done**
+
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[text-indent](/css/properties/text-indent)
+
+</td>
+<td>
+</td>
+<td>
+[CSS Text L3](http://www.w3.org/TR/2012/WD-css3-text-20121113/#text-indent0)
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+Done
+
+</td>
+<td>
+</td>
+</tr>
+</table>

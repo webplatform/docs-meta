@@ -1,39 +1,51 @@
 ---
-title: Meta:javascript/methods/getDate
+title: getDate
+tags:
+  - javascript
+  - methods
+todo_broken_links:
+  note: 'During import MediaWiki could not find the following links, please fix and adjust this list.'
+  links:
+    - javascript/objects/Date
+    - javascript/methods/getUTCDate
+    - javascript/methods/getUTCDay
+    - javascript/methods/setDate
+uri: 'Meta:javascript/methods/getDate'
+
 ---
-<p><br />
-</p><p><br />
-</p>
-<div class="editors-only">
-<p><b>Merge Candidate</b>:  This page is a candidate for merge with the following pages: [<a rel="nofollow" class="external autonumber" href="http://docs.webplatform.org/wiki/javascript/methods/getData">[1]</a>] 
-</p>
-</div>
-<p><br />
-</p><p><br />
-</p><p><br />
-Method of: <a href="/w/index.php?title=javascript/objects/Date&amp;action=edit&amp;redlink=1" class="new" title="javascript/objects/Date (page does not exist)">Date</a> (Static method)
-</p>
-<h2><span class="mw-headline" id="Summary">Summary</span></h2>
-<p>Returns the day of the month for the specified date according to local time.
-</p>
-<h2><span class="mw-headline" id="Syntax">Syntax</span></h2>
-<p>getDate()
-</p>
-<h2><span class="mw-headline" id="Parameters">Parameters</span></h2>
-<dl><dt><tt>fakeparam1</tt></dt>
-<dd> Description 1</dd></dl>
-<dl><dt><tt>fakeparam2</tt></dt>
-<dd> Description 2</dd></dl>
-<h2><span class="mw-headline" id="Return_values">Return values</span></h2>
-<dl><dt><tt>fake return value 1</tt></dt>
-<dd> Some description.</dd></dl>
-<h2><span class="mw-headline" id="Description.2FRemarks">Description/Remarks</span></h2>
-<p>The value returned by getDate is an integer between 1 and 31.
-</p>
-<h2><span class="mw-headline" id="Browser_compatibility">Browser compatibility</span></h2>
-<h2><span class="mw-headline" id="See_also">See also</span></h2>
-<p><a href="/w/index.php?title=javascript/methods/getUTCDate&amp;action=edit&amp;redlink=1" class="new" title="javascript/methods/getUTCDate (page does not exist)">getUTCDate</a>, <a href="/w/index.php?title=javascript/methods/getUTCDay&amp;action=edit&amp;redlink=1" class="new" title="javascript/methods/getUTCDay (page does not exist)">getUTCDay</a>, <a href="/w/index.php?title=javascript/methods/setDate&amp;action=edit&amp;redlink=1" class="new" title="javascript/methods/setDate (page does not exist)">setDate</a>
-</p><p><b>test</b>
-</p>
-<!-- Saved in parser cache with key wpwiki:pcache:idhash:121-0!*!0!!*!*!*!esi=1 and timestamp 20150803224842 and revision id 45442
- -->
+**Merge Candidate**: This page is a candidate for merge with the following pages: [[[1]](http://docs.webplatform.org/wiki/javascript/methods/getData)]
+
+ Method of: [Date](/w/index.php?title=javascript/objects/Date&action=edit&redlink=1) (Static method)
+
+## <span>Summary</span>
+
+Returns the day of the month for the specified date according to local time.
+
+## <span>Syntax</span>
+
+getDate()
+
+## <span>Parameters</span>
+
+`fakeparam1`
+:   Description 1
+
+`fakeparam2`
+:   Description 2
+
+## <span>Return values</span>
+
+`fake return value 1`
+:   Some description.
+
+## <span>Description/Remarks</span>
+
+The value returned by getDate is an integer between 1 and 31.
+
+## <span>Browser compatibility</span>
+
+## <span>See also</span>
+
+[getUTCDate](/w/index.php?title=javascript/methods/getUTCDate&action=edit&redlink=1), [getUTCDay](/w/index.php?title=javascript/methods/getUTCDay&action=edit&redlink=1), [setDate](/w/index.php?title=javascript/methods/setDate&action=edit&redlink=1)
+
+**test**

@@ -1,32 +1,76 @@
 ---
-title: Meta:web platform wednesday/html elements
+title: html elements
+todo_broken_links:
+  note: 'During import MediaWiki could not find the following links, please fix and adjust this list.'
+  links:
+    - html/elements/noScript
+    - 'User:Foobartel'
+    - 'User:Horia'
+uri: 'Meta:web platform wednesday/html elements'
+
 ---
 <table class="wikitable sortable">
 <tr>
-<th> Article Name
+<th>
+Article Name
 </th>
-<th> Spec URL
+<th>
+Spec URL
 </th>
-<th> Coordinator
+<th>
+Coordinator
 </th>
-<th> Basic facts
+<th>
+Basic facts
 </th>
-<th> Explanatory text
+<th>
+Explanatory text
 </th>
-<th> Examples
+<th>
+Examples
 </th>
-<th> Links
+<th>
+Links
 </th>
-<th> Review
+<th>
+Review
 </th>
-<th> Notes
-</th></tr>
+<th>
+Notes
+</th>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/!DOCTYPE" title="html/elements/!DOCTYPE">!DOCTYPE</a>
+<td>
+[!DOCTYPE](/html/elements/!DOCTYPE)
+</td>
+<td>
+[the DOCTYPE](http://www.w3.org/TR/html5/syntax.html#the-doctype)
+</td>
+<td>
+[Paulv](/User:Paulv)
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/syntax.html#the-doctype">the DOCTYPE</a>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+[a](/html/elements/a)
+</td>
+<td>
+[the-a-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-a-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -39,89 +83,126 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/a" title="html/elements/a">a</a>
+<td>
+[abbr](/html/elements/abbr)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-a-element">the-a-element</a>
+<td>
+[the-abbr-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-abbr-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**Done!**
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
-</td></tr>
+[AaronGustafson](/User:AaronGustafson)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/abbr" title="html/elements/abbr">abbr</a>
+<td>
+[acronym](/html/elements/acronym)
+</td>
+<td>
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-abbr-element">the-abbr-element</a>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/acronym" title="html/elements/acronym">acronym</a>
+<td>
+[address](/html/elements/address)
+</td>
+<td>
+[the-address-element](http://www.w3.org/TR/html5/sections.html#the-address-element)
 </td>
 <td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
+[Foobartel](/w/index.php?title=User:Foobartel&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Foobartel](/w/index.php?title=User:Foobartel&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Foobartel](/w/index.php?title=User:Foobartel&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Foobartel](/w/index.php?title=User:Foobartel&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Foobartel](/w/index.php?title=User:Foobartel&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Foobartel](/w/index.php?title=User:Foobartel&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/address" title="html/elements/address">address</a>
+<td>
+[applet](/html/elements/applet)
+</td>
+<td>
+[the-applet-element](http://www.w3.org/TR/html5/obsolete.html#the-applet-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/sections.html#the-address-element">the-address-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Foobartel&amp;action=edit&amp;redlink=1" class="new" title="User:Foobartel (page does not exist)">Foobartel</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Foobartel&amp;action=edit&amp;redlink=1" class="new" title="User:Foobartel (page does not exist)">Foobartel</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Foobartel&amp;action=edit&amp;redlink=1" class="new" title="User:Foobartel (page does not exist)">Foobartel</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Foobartel&amp;action=edit&amp;redlink=1" class="new" title="User:Foobartel (page does not exist)">Foobartel</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Foobartel&amp;action=edit&amp;redlink=1" class="new" title="User:Foobartel (page does not exist)">Foobartel</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Foobartel&amp;action=edit&amp;redlink=1" class="new" title="User:Foobartel (page does not exist)">Foobartel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/applet" title="html/elements/applet">applet</a>
+<td>
+[area](/html/elements/area)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/obsolete.html#the-applet-element">the-applet-element</a>
+<td>
+[the-area-element](http://www.w3.org/TR/html5/embedded-content-0.html#the-area-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -134,13 +215,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/area" title="html/elements/area">area</a>
+<td>
+[article](/html/elements/article)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/embedded-content-0.html#the-area-element">the-area-element</a>
+<td>
+[the-article-element](http://www.w3.org/TR/html5/sections.html#the-article-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -153,13 +238,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/article" title="html/elements/article">article</a>
+<td>
+[aside](/html/elements/aside)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/sections.html#the-article-element">the-article-element</a>
+<td>
+[the-aside-element](http://www.w3.org/TR/html5/sections.html#the-aside-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -172,13 +261,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/aside" title="html/elements/aside">aside</a>
+<td>
+[audio](/html/elements/audio)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/sections.html#the-aside-element">the-aside-element</a>
+<td>
+[the-audio-element](http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -191,70 +284,97 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/audio" title="html/elements/audio">audio</a>
+<td>
+[b](/html/elements/b)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/embedded-content-0.html#the-audio-element">the-audio-element</a>
+<td>
+[the-b-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-b-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**Done!**
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
-</td></tr>
+[AaronGustafson](/User:AaronGustafson)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/b" title="html/elements/b">b</a>
+<td>
+[base](/html/elements/base)
+</td>
+<td>
+[the-base-element](http://www.w3.org/TR/html5/document-metadata.html#the-base-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-b-element">the-b-element</a>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/base" title="html/elements/base">base</a>
+<td>
+[basefont](/html/elements/basefont)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/document-metadata.html#the-base-element">the-base-element</a>
+<td>
+</td>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/basefont" title="html/elements/basefont">basefont</a>
+<td>
+[bdo](/html/elements/bdo)
 </td>
 <td>
+[the-bdo-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-bdo-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -267,13 +387,16 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/bdo" title="html/elements/bdo">bdo</a>
+<td>
+[bgSound](/html/elements/bgSound)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-bdo-element">the-bdo-element</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -286,13 +409,16 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/bgSound" title="html/elements/bgSound">bgSound</a>
+<td>
+[big](/html/elements/big)
 </td>
 <td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -305,108 +431,150 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/big" title="html/elements/big">big</a>
+<td>
+[blockquote](/html/elements/blockquote)
 </td>
 <td>
+[the-blockquote-element](http://www.w3.org/TR/html5/grouping-content.html#the-blockquote-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
+[Webrocker](/User:Webrocker)
 </td>
 <td>
+[Webrocker](/User:Webrocker)
 </td>
 <td>
+[Webrocker](/User:Webrocker)
 </td>
 <td>
+[Webrocker](/User:Webrocker)
 </td>
 <td>
+[Webrocker](/User:Webrocker)
 </td>
 <td>
-</td></tr>
+[Webrocker](/User:Webrocker)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/blockquote" title="html/elements/blockquote">blockquote</a>
+<td>
+[body](/html/elements/body)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-blockquote-element">the-blockquote-element</a>
+<td>
+[the-body-element](http://www.w3.org/TR/html5/sections.html#the-body-element)
+</td>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Webrocker" title="User:Webrocker">Webrocker</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Webrocker" title="User:Webrocker">Webrocker</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Webrocker" title="User:Webrocker">Webrocker</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Webrocker" title="User:Webrocker">Webrocker</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Webrocker" title="User:Webrocker">Webrocker</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Webrocker" title="User:Webrocker">Webrocker</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/body" title="html/elements/body">body</a>
+<td>
+[br](/html/elements/br)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/sections.html#the-body-element">the-body-element</a>
+<td>
+[the-br-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-br-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**Done!**
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
-</td></tr>
+[AaronGustafson](/User:AaronGustafson)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/br" title="html/elements/br">br</a>
+<td>
+[button](/html/elements/button)
+</td>
+<td>
+[the-button-element](http://www.w3.org/TR/html5/forms.html#the-button-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-br-element">the-br-element</a>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/button" title="html/elements/button">button</a>
+<td>
+[canvas](/html/elements/canvas)
+</td>
+<td>
+[the-canvas-element](http://www.w3.org/TR/html5/scripting-1.html#the-canvas-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-button-element">the-button-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/canvas" title="html/elements/canvas">canvas</a>
+<td>
+[caption](/html/elements/caption)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/scripting-1.html#the-canvas-element">the-canvas-element</a>
+<td>
+[the-caption-element](http://www.w3.org/TR/html5/tabular-data.html#the-caption-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -419,13 +587,16 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/caption" title="html/elements/caption">caption</a>
+<td>
+[center](/html/elements/center)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/tabular-data.html#the-caption-element">the-caption-element</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -438,70 +609,98 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/center" title="html/elements/center">center</a>
+<td>
+[cite](/html/elements/cite)
 </td>
 <td>
+[the-cite-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-cite-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**Done!**
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
-</td></tr>
+[AaronGustafson](/User:AaronGustafson)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/cite" title="html/elements/cite">cite</a>
+<td>
+[code](/html/elements/code)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-cite-element">the-cite-element</a>
+<td>
+[the-code-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-code-element)
+</td>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/code" title="html/elements/code">code</a>
+<td>
+[col](/html/elements/col)
+</td>
+<td>
+[the-col-element](http://www.w3.org/TR/html5/tabular-data.html#the-col-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-code-element">the-code-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/col" title="html/elements/col">col</a>
+<td>
+[colgroup](/html/elements/colgroup)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/tabular-data.html#the-col-element">the-col-element</a>
+<td>
+[the-colgroup-element](http://www.w3.org/TR/html5/tabular-data.html#the-colgroup-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -514,13 +713,16 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/colgroup" title="html/elements/colgroup">colgroup</a>
+<td>
+[comment](/html/elements/comment)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/tabular-data.html#the-colgroup-element">the-colgroup-element</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -533,13 +735,16 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/comment" title="html/elements/comment" class="mw-redirect">comment</a>
+<td>
+[custom](/html/elements/custom)
 </td>
 <td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -552,241 +757,347 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/custom" title="html/elements/custom">custom</a>
+<td>
+[datalist](/html/elements/datalist)
 </td>
 <td>
+[the-datalist-element](http://www.w3.org/TR/html5/forms.html#the-datalist-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
-</td></tr>
+[Mkuehnel](/User:Mkuehnel)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/datalist" title="html/elements/datalist">datalist</a>
+<td>
+[dd](/html/elements/dd)
+</td>
+<td>
+[the-dd-element](http://www.w3.org/TR/html5/grouping-content.html#the-dd-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-datalist-element">the-datalist-element</a>
+<td>
+**Done!**
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/dd" title="html/elements/dd">dd</a>
+<td>
+[del](/html/elements/del)
+</td>
+<td>
+[the-del-element](http://www.w3.org/TR/html5/edits.html#the-del-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-dd-element">the-dd-element</a>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/del" title="html/elements/del">del</a>
+<td>
+[dfn](/html/elements/dfn)
+</td>
+<td>
+[the-dfn-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-dfn-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/edits.html#the-del-element">the-del-element</a>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/dfn" title="html/elements/dfn">dfn</a>
+<td>
+[dir](/html/elements/dir)
+</td>
+<td>
+[the-dir-attribute](http://www.w3.org/TR/html5/dom.html#the-dir-attribute)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-dfn-element">the-dfn-element</a>
+<td>
+**obsolete....**
 </td>
-<td> <b>Done!</b>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/dir" title="html/elements/dir">dir</a>
+<td>
+[div](/html/elements/div)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/dom.html#the-dir-attribute">the-dir-attribute</a>
+<td>
+[the-div-element](http://www.w3.org/TR/html5/grouping-content.html#the-div-element)
+</td>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>obsolete....</b>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/div" title="html/elements/div">div</a>
+<td>
+[dl](/html/elements/dl)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-div-element">the-div-element</a>
+<td>
+[the-dl-element](http://www.w3.org/TR/html5/grouping-content.html#the-dtlelement)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**Done!**
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
-</td></tr>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/dl" title="html/elements/dl">dl</a>
+<td>
+[dt](/html/elements/dt)
+</td>
+<td>
+[the-dt-element](http://www.w3.org/TR/html5/grouping-content.html#the-dt-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-dtlelement">the-dl-element</a>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/dt" title="html/elements/dt">dt</a>
+<td>
+[em](/html/elements/em)
+</td>
+<td>
+[the-em-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-em-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-dt-element">the-dt-element</a>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/em" title="html/elements/em">em</a>
+<td>
+[embed](/html/elements/embed)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-em-element">the-em-element</a>
+<td>
+[the-embed-element](http://www.w3.org/TR/html5/embedded-content-0.html#the-embed-element)
+</td>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/embed" title="html/elements/embed">embed</a>
+<td>
+[fieldset](/html/elements/fieldset)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/embedded-content-0.html#the-embed-element">the-embed-element</a>
+<td>
+[the-fieldset-element](http://www.w3.org/TR/html5/forms.html#the-fieldset-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
-</td></tr>
+[Mkuehnel](/User:Mkuehnel)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/fieldset" title="html/elements/fieldset">fieldset</a>
+<td>
+[figcaption](/html/elements/figcaption)
+</td>
+<td>
+[the-figcaption-element](http://www.w3.org/TR/html5/grouping-content.html#the-figcaption-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-fieldset-element">the-fieldset-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/figcaption" title="html/elements/figcaption">figcaption</a>
+<td>
+[figure](/html/elements/figure)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-figcaption-element">the-figcaption-element</a>
+<td>
+[the-figure-element](http://www.w3.org/TR/html5/grouping-content.html#the-figure-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -799,89 +1110,118 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/figure" title="html/elements/figure">figure</a>
+<td>
+[font](/html/elements/font)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-figure-element">the-figure-element</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**obsolete...**
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
-</td></tr>
+[AaronGustafson](/User:AaronGustafson)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/font" title="html/elements/font">font</a>
+<td>
+[footer](/html/elements/footer)
+</td>
+<td>
+[the-footer-element](http://www.w3.org/TR/html5/sections.html#the-footer-element)
 </td>
 <td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>obsolete...</b>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/footer" title="html/elements/footer">footer</a>
+<td>
+[form](/html/elements/form)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/sections.html#the-footer-element">the-footer-element</a>
+<td>
+[the-form-element](http://www.w3.org/TR/html5/forms.html#the-form-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
-</td></tr>
+[Mkuehnel](/User:Mkuehnel)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/form" title="html/elements/form">form</a>
+<td>
+[frame](/html/elements/frame)
+</td>
+<td>
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-form-element">the-form-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/frame" title="html/elements/frame">frame</a>
+<td>
+[frameSet](/html/elements/frameSet)
 </td>
 <td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -894,13 +1234,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/frameSet" title="html/elements/frameSet">frameSet</a>
+<td>
+[head](/html/elements/head)
 </td>
 <td>
+[the-head-element](http://www.w3.org/TR/html5/document-metadata.html#the-head-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -913,13 +1257,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/head" title="html/elements/head">head</a>
+<td>
+[header](/html/elements/header)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/document-metadata.html#the-head-element">the-head-element</a>
+<td>
+[the-header-element](http://www.w3.org/TR/html5/sections.html#the-header-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -932,13 +1280,16 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/header" title="html/elements/header">header</a>
+<td>
+[hgroup](/html/elements/hgroup)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/sections.html#the-header-element">the-header-element</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -951,13 +1302,16 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/hgroup" title="html/elements/hgroup">hgroup</a>
+<td>
+[hn](/html/elements/hn)
 </td>
 <td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -970,51 +1324,68 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/hn" title="html/elements/hn">hn</a>
+<td>
+[hr](/html/elements/hr)
 </td>
 <td>
+[the-hr-element](http://www.w3.org/TR/html5/grouping-content.html#the-hr-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**Done!**
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
-</td></tr>
+[AaronGustafson](/User:AaronGustafson)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/hr" title="html/elements/hr">hr</a>
+<td>
+[html](/html/elements/html)
+</td>
+<td>
+[the-html-element](http://www.w3.org/TR/html5/semantics.html#the-html-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-hr-element">the-hr-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/html" title="html/elements/html">html</a>
+<td>
+[html comment data-type](/html/elements/html_comment_data-type)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/semantics.html#the-html-element">the-html-element</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1027,51 +1398,69 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/html_comment_data-type" title="html/elements/html comment data-type">html comment data-type</a>
+<td>
+[i](/html/elements/i)
 </td>
 <td>
+[the-i-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-i-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**Done!**
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
-</td></tr>
+[AaronGustafson](/User:AaronGustafson)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/i" title="html/elements/i">i</a>
+<td>
+[iframe](/html/elements/iframe)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-i-element">the-i-element</a>
+<td>
+[the-iframe-element](http://www.w3.org/TR/html5/embedded-content-0.html#the-iframe-element)
+</td>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/iframe" title="html/elements/iframe">iframe</a>
+<td>
+[img](/html/elements/img)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/embedded-content-0.html#the-iframe-element">the-iframe-element</a>
+<td>
+[the-img-element](http://www.w3.org/TR/html5/embedded-content-0.html#the-img-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1084,165 +1473,235 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/img" title="html/elements/img">img</a>
+<td>
+[input](/html/elements/input)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/embedded-content-0.html#the-img-element">the-img-element</a>
+<td>
+[the-input-element](http://www.w3.org/TR/html5/forms.html#the-input-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
-</td></tr>
+[Mkuehnel](/User:Mkuehnel)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/input" title="html/elements/input">input</a>
+<td>
+[ins](/html/elements/ins)
+</td>
+<td>
+[the-ins-element](http://www.w3.org/TR/html5/edits.html#the-ins-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-input-element">the-input-element</a>
+<td>
+**Done!**
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/ins" title="html/elements/ins">ins</a>
+<td>
+[isIndex](/html/elements/isIndex)
+</td>
+<td>
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/edits.html#the-ins-element">the-ins-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/isIndex" title="html/elements/isIndex">isIndex</a>
+<td>
+[kbd](/html/elements/kbd)
 </td>
 <td>
+[the-kbd-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-kbd-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**Done!**
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
-</td></tr>
+[AaronGustafson](/User:AaronGustafson)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/kbd" title="html/elements/kbd">kbd</a>
+<td>
+[label](/html/elements/label)
+</td>
+<td>
+[the-label-element](http://www.w3.org/TR/html5/forms.html#the-label-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-kbd-element">the-kbd-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/label" title="html/elements/label">label</a>
+<td>
+[legend](/html/elements/legend)
+</td>
+<td>
+[the-legend-element](http://www.w3.org/TR/html5/forms.html#the-legend-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-label-element">the-label-element</a>
+<td>
+**Done!**
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/legend" title="html/elements/legend">legend</a>
+<td>
+[li](/html/elements/li)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-legend-element">the-legend-element</a>
+<td>
+[the-li-element](http://www.w3.org/TR/html5/grouping-content.html#the-li-element)
+</td>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/li" title="html/elements/li">li</a>
+<td>
+[link](/html/elements/link)
+</td>
+<td>
+[the-link-element](http://www.w3.org/TR/html5/document-metadata.html#the-link-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-li-element">the-li-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/link" title="html/elements/link">link</a>
+<td>
+[listing](/html/elements/listing)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/document-metadata.html#the-link-element">the-link-element</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1255,13 +1714,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/listing" title="html/elements/listing">listing</a>
+<td>
+[main](/html/elements/main)
 </td>
 <td>
+[the-main-element](http://www.w3.org/TR/html5/grouping-content.html#the-main-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1274,13 +1737,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/main" title="html/elements/main">main</a>
+<td>
+[map](/html/elements/map)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-main-element">the-main-element</a>
+<td>
+[the-map-element](http://www.w3.org/TR/html5/embedded-content-0.html#the-map-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1293,51 +1760,68 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/map" title="html/elements/map">map</a>
+<td>
+[mark](/html/elements/mark)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/embedded-content-0.html#the-map-element">the-map-element</a>
+<td>
+[the-mark-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-mark-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**Done!**
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
 <td>
-</td></tr>
+[AaronGustafson](/User:AaronGustafson)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/mark" title="html/elements/mark">mark</a>
+<td>
+[marquee](/html/elements/marquee)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-mark-element">the-mark-element</a>
+<td>
+[the-marquee-element](http://www.w3.org/TR/html5/rendering.html#the-marquee-element)
+</td>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/marquee" title="html/elements/marquee">marquee</a>
+<td>
+[media](/html/elements/media)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/rendering.html#the-marquee-element">the-marquee-element</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1350,89 +1834,119 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/media" title="html/elements/media">media</a>
+<td>
+[menu](/html/elements/menu)
 </td>
 <td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**Done!**
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
-</td></tr>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/menu" title="html/elements/menu">menu</a>
+<td>
+[meta](/html/elements/meta)
+</td>
+<td>
+[the-meta-element](http://www.w3.org/TR/html5/document-metadata.html#the-meta-element)
 </td>
 <td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/meta" title="html/elements/meta">meta</a>
+<td>
+[meter](/html/elements/meter)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/document-metadata.html#the-meta-element">the-meta-element</a>
+<td>
+[the-meter-element](http://www.w3.org/TR/html5/forms.html#the-meter-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
-</td></tr>
+[Mkuehnel](/User:Mkuehnel)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/meter" title="html/elements/meter">meter</a>
+<td>
+[nav](/html/elements/nav)
+</td>
+<td>
+[the-nav-element](http://www.w3.org/TR/html5/sections.html#the-nav-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-meter-element">the-meter-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/nav" title="html/elements/nav">nav</a>
+<td>
+[nextID](/html/elements/nextID)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/sections.html#the-nav-element">the-nav-element</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1445,13 +1959,16 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/nextID" title="html/elements/nextID">nextID</a>
+<td>
+[noBR](/html/elements/noBR)
 </td>
 <td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1464,13 +1981,16 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/noBR" title="html/elements/noBR">noBR</a>
+<td>
+[noFrames](/html/elements/noFrames)
 </td>
 <td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1483,13 +2003,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/noFrames" title="html/elements/noFrames">noFrames</a>
+<td>
+[noScript](/w/index.php?title=html/elements/noScript&action=edit&redlink=1)
 </td>
 <td>
+[[1]](http://www.w3.org/TR/html5/scripting-1.html#the-noscript-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1502,13 +2026,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/w/index.php?title=html/elements/noScript&amp;action=edit&amp;redlink=1" class="new" title="html/elements/noScript (page does not exist)">noScript</a>
+<td>
+[object](/html/elements/object)
 </td>
-<td> <a rel="nofollow" class="external autonumber" href="http://www.w3.org/TR/html5/scripting-1.html#the-noscript-element">[1]</a>
+<td>
+[the-object-element](http://www.w3.org/TR/html5/embedded-content-0.html#the-object-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1521,89 +2049,127 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/object" title="html/elements/object">object</a>
+<td>
+[ol](/html/elements/ol)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/embedded-content-0.html#the-object-element">the-object-element</a>
+<td>
+[the-ol-element](http://www.w3.org/TR/html5/grouping-content.html#the-ol-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**Done!**
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
 <td>
-</td></tr>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/ol" title="html/elements/ol">ol</a>
+<td>
+[optgroup](/html/elements/optgroup)
+</td>
+<td>
+[the-optgroup-element](http://www.w3.org/TR/html5/forms.html#the-optgroup-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-ol-element">the-ol-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <b>Done!</b>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/optgroup" title="html/elements/optgroup">optgroup</a>
+<td>
+[option](/html/elements/option)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-optgroup-element">the-optgroup-element</a>
+<td>
+[the-option-element](http://www.w3.org/TR/html5/forms.html#the-option-element)
+</td>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/option" title="html/elements/option">option</a>
+<td>
+[p](/html/elements/p)
+</td>
+<td>
+[the-p-element](http://www.w3.org/TR/html5/grouping-content.html#the-p-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-option-element">the-option-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/p" title="html/elements/p">p</a>
+<td>
+[param](/html/elements/param)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-p-element">the-p-element</a>
+<td>
+[the-param-element](http://www.w3.org/TR/html5/embedded-content-0.html#the-param-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1616,13 +2182,16 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/param" title="html/elements/param">param</a>
+<td>
+[plainText](/html/elements/plainText)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/embedded-content-0.html#the-param-element">the-param-element</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1635,13 +2204,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/plainText" title="html/elements/plainText">plainText</a>
+<td>
+[pre](/html/elements/pre)
 </td>
 <td>
+[the-pre-element](http://www.w3.org/TR/html5/grouping-content.html#the-pre-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1654,68 +2227,78 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/pre" title="html/elements/pre">pre</a>
+<td>
+[progress](/html/elements/progress)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-pre-element">the-pre-element</a>
+<td>
+[the-progress-element](http://www.w3.org/TR/html5/forms.html#the-progress-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
 <td>
-</td></tr>
+[Mkuehnel](/User:Mkuehnel)
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/progress" title="html/elements/progress">progress</a>
+<td>
+[q](/html/elements/q)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-progress-element">the-progress-element</a>
+<td>
+[the-q-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-q-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+**Done!**
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/q" title="html/elements/q">q</a>
-</td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-q-element">the-q-element</a>
-</td>
-<td> <b>Done!</b>
-</td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[rt](/html/elements/rt)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[the-rt-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-rt-element)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td></tr>
-<tr>
-<td> <a href="/wiki/html/elements/rt" title="html/elements/rt">rt</a>
+<td>
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-rt-element">the-rt-element</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
 </td>
 <td>
 </td>
@@ -1723,18 +2306,20 @@ title: Meta:web platform wednesday/html elements
 </td>
 <td>
 </td>
+</tr>
+<tr>
 <td>
+[ruby](/html/elements/ruby)
 </td>
 <td>
+[the-ruby-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-ruby-element)
 </td>
 <td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/html/elements/ruby" title="html/elements/ruby">ruby</a>
+[Paulv](/User:Paulv)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-ruby-element">the-ruby-element</a>
+<td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
 </td>
 <td>
 </td>
@@ -1744,54 +2329,74 @@ title: Meta:web platform wednesday/html elements
 </td>
 <td>
 </td>
+</tr>
+<tr>
 <td>
+[s](/html/elements/s)
 </td>
 <td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/html/elements/s" title="html/elements/s">s</a>
+[the-s-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-s-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-s-element">the-s-element</a>
+<td>
+Done!
 </td>
-<td> Done!
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/samp" title="html/elements/samp">samp</a>
+<td>
+[samp](/html/elements/samp)
+</td>
+<td>
+[the-samp-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-samp-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-samp-element">the-samp-element</a>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/script" title="html/elements/script">script</a>
+<td>
+[script](/html/elements/script)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/scripting-1.html#the-script-element">the-script-element</a>
+<td>
+[the-script-element](http://www.w3.org/TR/html5/scripting-1.html#the-script-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1804,13 +2409,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/section" title="html/elements/section">section</a>
+<td>
+[section](/html/elements/section)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/sections.html#the-section-element">the-section-element</a>
+<td>
+[the-section-element](http://www.w3.org/TR/html5/sections.html#the-section-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1823,32 +2432,46 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/select" title="html/elements/select">select</a>
+<td>
+[select](/html/elements/select)
+</td>
+<td>
+[the-select-element](http://www.w3.org/TR/html5/forms.html#the-select-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-select-element">the-select-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/small" title="html/elements/small">small</a>
+<td>
+[small](/html/elements/small)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-small-element">the-small-element</a>
+<td>
+[the-small-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-small-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1861,13 +2484,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/source" title="html/elements/source">source</a>
+<td>
+[source](/html/elements/source)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/embedded-content-0.html#the-source-element">the-source-element</a>
+<td>
+[the-source-element](http://www.w3.org/TR/html5/embedded-content-0.html#the-source-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1880,13 +2507,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/span" title="html/elements/span">span</a>
+<td>
+[span](/html/elements/span)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-span-element">the-span-element</a>
+<td>
+[the-span-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-span-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1899,51 +2530,74 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/strike" title="html/elements/strike">strike</a>
+<td>
+[strike](/html/elements/strike)
+</td>
+<td>
 </td>
 <td>
+Done!
 </td>
-<td> Done!
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/strong" title="html/elements/strong">strong</a>
+<td>
+[strong](/html/elements/strong)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-strong-element">the-strong-element</a>
+<td>
+[the-strong-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-strong-element)
+</td>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
+<td>
+[AaronGustafson](/User:AaronGustafson)
 </td>
-<td> <a href="/wiki/User:AaronGustafson" title="User:AaronGustafson">AaronGustafson</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/style" title="html/elements/style">style</a>
+<td>
+[style](/html/elements/style)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/document-metadata.html#the-style-element">the-style-element</a>
+<td>
+[the-style-element](http://www.w3.org/TR/html5/document-metadata.html#the-style-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1956,13 +2610,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/sub" title="html/elements/sub">sub</a>
+<td>
+[sub](/html/elements/sub)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-sub-and-sup-elements">the-sub-and-sup-elements</a>
+<td>
+[the-sub-and-sup-elements](http://www.w3.org/TR/html5/text-level-semantics.html#the-sub-and-sup-elements)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1975,13 +2633,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/sup" title="html/elements/sup">sup</a>
+<td>
+[sup](/html/elements/sup)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-sub-and-sup-elements">the-sub-and-sup-elements</a>
+<td>
+[the-sub-and-sup-elements](http://www.w3.org/TR/html5/text-level-semantics.html#the-sub-and-sup-elements)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -1994,13 +2656,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/table" title="html/elements/table">table</a>
+<td>
+[table](/html/elements/table)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/tabular-data.html#the-table-element">the-table-element</a>
+<td>
+[the-table-element](http://www.w3.org/TR/html5/tabular-data.html#the-table-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2013,13 +2679,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/tbody" title="html/elements/tbody">tbody</a>
+<td>
+[tbody](/html/elements/tbody)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/tabular-data.html#the-tbody-element">the-tbody-element</a>
+<td>
+[the-tbody-element](http://www.w3.org/TR/html5/tabular-data.html#the-tbody-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2032,13 +2702,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/td" title="html/elements/td">td</a>
+<td>
+[td](/html/elements/td)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/tabular-data.html#the-td-element">the-td-element</a>
+<td>
+[the-td-element](http://www.w3.org/TR/html5/tabular-data.html#the-td-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2051,32 +2725,46 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/textarea" title="html/elements/textarea">textarea</a>
+<td>
+[textarea](/html/elements/textarea)
+</td>
+<td>
+[the-textarea-element](http://www.w3.org/TR/html5/forms.html#the-textarea-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/forms.html#the-textarea-element">the-textarea-element</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
+<td>
+[Mkuehnel](/User:Mkuehnel)
 </td>
-<td> <a href="/wiki/User:Mkuehnel" title="User:Mkuehnel">Mkuehnel</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/tfoot" title="html/elements/tfoot">tfoot</a>
+<td>
+[tfoot](/html/elements/tfoot)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/tabular-data.html#the-tfoot-element">the-tfoot-element</a>
+<td>
+[the-tfoot-element](http://www.w3.org/TR/html5/tabular-data.html#the-tfoot-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2089,13 +2777,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/th" title="html/elements/th">th</a>
+<td>
+[th](/html/elements/th)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/tabular-data.html#the-th-element">the-th-element</a>
+<td>
+[the-th-element](http://www.w3.org/TR/html5/tabular-data.html#the-th-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2108,13 +2800,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/thead" title="html/elements/thead">thead</a>
+<td>
+[thead](/html/elements/thead)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/tabular-data.html#the-thead-element">the-thead-element</a>
+<td>
+[the-thead-element](http://www.w3.org/TR/html5/tabular-data.html#the-thead-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2127,13 +2823,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/time" title="html/elements/time">time</a>
+<td>
+[time](/html/elements/time)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-time-element">the-time-element</a>
+<td>
+[the-time-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-time-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2146,32 +2846,46 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/title" title="html/elements/title">title</a>
+<td>
+[title](/html/elements/title)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/document-metadata.html#the-title-element">the-title-element</a>
+<td>
+[the-title-element](http://www.w3.org/TR/html5/document-metadata.html#the-title-element)
+</td>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/tr" title="html/elements/tr">tr</a>
+<td>
+[tr](/html/elements/tr)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/tabular-data.html#the-tr-element">the-tr-element</a>
+<td>
+[the-tr-element](http://www.w3.org/TR/html5/tabular-data.html#the-tr-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2184,13 +2898,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/track" title="html/elements/track">track</a>
+<td>
+[track](/html/elements/track)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/embedded-content-0.html#the-track-element">the-track-element</a>
+<td>
+[the-track-element](http://www.w3.org/TR/html5/embedded-content-0.html#the-track-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2203,13 +2921,16 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/tt" title="html/elements/tt">tt</a>
+<td>
+[tt](/html/elements/tt)
 </td>
 <td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2222,13 +2943,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/u" title="html/elements/u">u</a>
+<td>
+[u](/html/elements/u)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-u-element">the-u-element</a>
+<td>
+[the-u-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-u-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2241,32 +2966,46 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/ul" title="html/elements/ul">ul</a>
+<td>
+[ul](/html/elements/ul)
+</td>
+<td>
+[the-ul-element](http://www.w3.org/TR/html5/grouping-content.html#the-ul-element)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/grouping-content.html#the-ul-element">the-ul-element</a>
+<td>
+**Done!**
 </td>
-<td> <b>Done!</b>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
+<td>
+[Horia](/w/index.php?title=User:Horia&action=edit&redlink=1)
 </td>
-<td> <a href="/w/index.php?title=User:Horia&amp;action=edit&amp;redlink=1" class="new" title="User:Horia (page does not exist)">Horia</a>
-</td></tr>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/var" title="html/elements/var">var</a>
+<td>
+[var](/html/elements/var)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-var-element">the-var-element</a>
+<td>
+[the-var-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-var-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2279,13 +3018,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/video" title="html/elements/video">video</a>
+<td>
+[video](/html/elements/video)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/embedded-content-0.html#the-video-element">the-video-element</a>
+<td>
+[the-video-element](http://www.w3.org/TR/html5/embedded-content-0.html#the-video-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2298,13 +3041,17 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/wbr" title="html/elements/wbr">wbr</a>
+<td>
+[wbr](/html/elements/wbr)
 </td>
-<td> <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/text-level-semantics.html#the-wbr-element">the-wbr-element</a>
+<td>
+[the-wbr-element](http://www.w3.org/TR/html5/text-level-semantics.html#the-wbr-element)
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2317,13 +3064,16 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr>
+</td>
+</tr>
 <tr>
-<td> <a href="/wiki/html/elements/xml" title="html/elements/xml">xml</a>
+<td>
+[xml](/html/elements/xml)
 </td>
 <td>
 </td>
-<td> <a href="/wiki/User:Paulv" title="User:Paulv">Paulv</a>
+<td>
+[Paulv](/User:Paulv)
 </td>
 <td>
 </td>
@@ -2336,24 +3086,6 @@ title: Meta:web platform wednesday/html elements
 <td>
 </td>
 <td>
-</td></tr></table>
-
-<!-- 
-NewPP limit report
-CPU time usage: 0.577 seconds
-Real time usage: 0.823 seconds
-Preprocessor visited node count: 1/1000000
-Preprocessor generated node count: 4/1000000
-Post‐expand include size: 0/2097152 bytes
-Template argument size: 0/2097152 bytes
-Highest expansion depth: 1/40
-Expensive parser function count: 0/100
--->
-
-<!-- 
-Transclusion expansion time report (%,ms,calls,template)
-100.00%    0.000      1 - -total
--->
-
-<!-- Saved in parser cache with key wpwiki:pcache:idhash:16820-0!*!0!*!*!*!*!esi=1 and timestamp 20150731094102 and revision id 54494
- -->
+</td>
+</tr>
+</table>

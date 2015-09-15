@@ -1,127 +1,136 @@
 ---
-title: Meta:HTML/Elements/style
-path: HTML/Elements/style
+title: style
+attributions:
+  - 'Mozilla Developer Network [![cc-by-sa-small-wpd.svg](/assets/thumb/8/8c/cc-by-sa-small-wpd.svg/120px-cc-by-sa-small-wpd.svg.png)](http://creativecommons.org/licenses/by-sa/3.0/us/): [Article](https://developer.mozilla.org/en-US/docs/HTML/Element/style)'
+overview_table:
+  '[DOM Interface](/dom/interface)': '[HTMLStyleElement](/dom/HTMLStyleElement)'
+summary: 'Style element contains style information for a document. Style information should go inside of this element, usually in the CSS language.'
+tags:
+  - Pages
+  - with
+  - broken
+  - file
+  - links
+  - HTML
+  - HTMLElement
+  - Markup
+  - Elements
+todo_broken_links:
+  note: 'During import MediaWiki could not find the following links, please fix and adjust this list.'
+  links:
+    - HTML/Elements
+    - HTML/Elements/head
+    - HTML/Elements/title
+    - HTML/Elements/base
+    - HTML/Elements/isindex
+    - HTML/Elements/link
+    - HTML/Elements/meta
+    - HTML/Elements/style
+    - 'HTML/Attributes/ Global'
+uri: 'Meta:HTML/Elements/style'
 
 ---
-<h1><span class="mw-headline" id="style">style</span></h1>
-<h2><span class="mw-headline" id="Summary">Summary</span></h2>
-<p>Style element contains style information for a document. Style information should go inside of this element, usually in the <a href="/wiki/css" title="css">CSS</a> language.
-</p><p><br />
-</p>
-<h2><span class="mw-headline" id="Overview_Table">Overview Table</span></h2>
-<table class="wikitable">
-<tr>
-<th> <a href="/wiki/dom/interface" title="dom/interface"> DOM Interface</a>
-</th>
-<td> <a href="/wiki/dom/HTMLStyleElement" title="dom/HTMLStyleElement">HTMLStyleElement</a>
-</td></tr></table>
-<div class="editors-only">
-<p><b>Merge Candidate</b>:  This page is a candidate for merge with the following pages: <a href="/wiki/html/elements/style" title="html/elements/style">html/elements/style</a> 
-</p>
-</div>
-<p><br />
-</p>
-<div style="float: right;background: white;border:1px dashed black;padding: 1ex;margin-left: 1ex;">
-<ul><li> <a href="/w/index.php?title=HTML/Elements&amp;action=edit&amp;redlink=1" class="new" title="HTML/Elements (page does not exist)">List of Elements</a>
-<ul><li> <a href="/w/index.php?title=HTML/Elements&amp;action=edit&amp;redlink=1" class="new" title="HTML/Elements (page does not exist)">Document metadata</a>
-<ul><li> <a href="/w/index.php?title=HTML/Elements/head&amp;action=edit&amp;redlink=1" class="new" title="HTML/Elements/head (page does not exist)">head</a></li>
-<li> <a href="/w/index.php?title=HTML/Elements/title&amp;action=edit&amp;redlink=1" class="new" title="HTML/Elements/title (page does not exist)">title</a></li>
-<li> <a href="/w/index.php?title=HTML/Elements/base&amp;action=edit&amp;redlink=1" class="new" title="HTML/Elements/base (page does not exist)">base</a></li>
-<li> <a href="/w/index.php?title=HTML/Elements/isindex&amp;action=edit&amp;redlink=1" class="new" title="HTML/Elements/isindex (page does not exist)">isindex</a></li>
-<li> <a href="/w/index.php?title=HTML/Elements/link&amp;action=edit&amp;redlink=1" class="new" title="HTML/Elements/link (page does not exist)">link</a></li>
-<li> <a href="/w/index.php?title=HTML/Elements/meta&amp;action=edit&amp;redlink=1" class="new" title="HTML/Elements/meta (page does not exist)">meta</a></li>
-<li> <a href="/w/index.php?title=HTML/Elements/style&amp;action=edit&amp;redlink=1" class="new" title="HTML/Elements/style (page does not exist)">style</a></li></ul></li></ul></li></ul>
-</div>
-<h1><span class="mw-headline" id=".3Cstyle.3E">&lt;style&gt;</span></h1>
-<p>The &lt;style&gt; element allows authors to embed style information in their documents.
-</p><p><br />
-</p>
-<h2><span class="mw-headline" id="HTML_Attributes">HTML Attributes</span></h2>
-<ul><li><code>media</code> = media-query list<br />Specifies which media the styles apply to.<br />The default, if the media attribute is omitted, is "all", meaning that by default styles apply to all media.</li></ul>
-<p><br />
-</p>
-<ul><li><code>type</code> = A valid MIME type that designates a styling language.<br />Gives the styling language.<br />The default value for the type attribute, which is used if the attribute is absent, is "text/css".</li></ul>
-<p><br />
-</p>
-<ul><li><code>scoped</code> = boolean<br />Indicates that the specified style information is meant to apply only to the style element’s parent element, and that element’s child nodes. Otherwise, the specified styles are meant to apply to the entire document. <a href="#Example_B">[Example B]</a></li></ul>
-<p><br />
-</p>
-<ul><li>Also, the title attribute has special semantics on this element.<br />The title attribute on style elements defines alternative style sheet sets. If the style element has no title attribute, then it has no title; the title attribute of ancestors does not apply to the style element.</li></ul>
-<p><br />
-See also <a href="/w/index.php?title=HTML/Attributes/_Global&amp;action=edit&amp;redlink=1" class="new" title="HTML/Attributes/ Global (page does not exist)">global attributes</a>.
-</p><p><br />
-</p>
-<h2><span class="mw-headline" id="Example">Example</span></h2>
-<h3><span class="mw-headline" id="Example_A">Example A</span></h3>
-<p>The following document has its emphasis styled as bright red text rather than italics text, while leaving titles of works and Latin words in their default italics. It shows how using appropriate elements enables easier restyling of documents. [try it]:
-</p>
-<pre>
-&lt;!DOCTYPE html&gt;
-&lt;html lang=&quot;en&quot;&gt;
-  &lt;head&gt;
-    &lt;meta charset=&quot;utf-8&quot;&gt;
-    &lt;title&gt;My favorite book&lt;/title&gt;
-    &lt;style&gt;
-       body { color: black; background: white; }
-       em { font-style: normal; color: red; }
-    &lt;/style&gt;
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;p&gt;My &lt;em&gt;favorite&lt;/em&gt; book of all time has &lt;em&gt;got&lt;/em&gt; to be
-    &lt;cite&gt;A Cat's Life&lt;/cite&gt;. It is a book by P. Rahmel that talks
-    about the &lt;i lang=&quot;la&quot;&gt;Felis Catus&lt;/i&gt; in modern human society.&lt;/p&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</pre>
-<p><a href="/w/index.php?title=Special:Upload&amp;wpDestFile=Style01.png" class="new" title="File:Style01.png">File:Style01.png</a>
-</p>
-<h3><span class="mw-headline" id="Example_B">Example B</span></h3>
-<p>In the following example, the style element influences only a p element in section element. [try it]:
-</p>
-<pre>
-&lt;p&gt;text&lt;/p&gt;
-&lt;section id=&quot;example1&quot;&gt;
-  &lt;style scoped=&quot;scoped&quot;&gt;
-    p {
-      color: #ff0000;
-    }
-  &lt;/style&gt;
-  &lt;h1&gt;title&lt;/h1&gt;
-  &lt;p&gt;text&lt;/p&gt;
-&lt;/section&gt;
-</pre>
-<p>The following example is use to present markup to user agents that don't support the scoped attribute. [try it]:
-</p>
-<pre>
-&lt;p&gt;text&lt;/p&gt;
-&lt;section id=&quot;example1&quot;&gt;
-  &lt;style scoped=&quot;scoped&quot;&gt;
-    #example1 p {
-      color: #ff0000;
-    }
-  &lt;/style&gt;
-  &lt;h1&gt;title&lt;/h1&gt;
-  &lt;p&gt;text&lt;/p&gt;
-&lt;/section&gt;
-</pre>
-<p><a href="/w/index.php?title=Special:Upload&amp;wpDestFile=Style03.png" class="new" title="File:Style03.png">File:Style03.png</a>
-</p>
-<h2><span class="mw-headline" id="HTML_Reference">HTML Reference</span></h2>
-<p>The HTML5 specification defines the &lt;style&gt; element in <a rel="nofollow" class="external text" href="http://www.w3.org/TR/html5/semantics.html#the-style-element">4.2.6 The style element</a>.
-</p>
-<div class="editors-only">
-<p><b>Needs Examples</b>:  This section should include examples. 
-</p>
-</div>
-<div class="attribution">
-<h2><span class="mw-headline" id="Attribution">Attribution</span></h2>
-<p><i>This article contains content originally from external sources.</i>
-</p>
-<div class="attribution-block">
-<p>Portions of this content come from the Mozilla Developer Network <a href="http://creativecommons.org/licenses/by-sa/3.0/us/" rel="nofollow"><img alt="cc-by-sa-small-wpd.svg" src="//static.webplatform.org/w/thumb/8/8c/cc-by-sa-small-wpd.svg/120px-cc-by-sa-small-wpd.svg.png" width="120" height="23" srcset="//static.webplatform.org/w/thumb/8/8c/cc-by-sa-small-wpd.svg/180px-cc-by-sa-small-wpd.svg.png 1.5x, //static.webplatform.org/w/thumb/8/8c/cc-by-sa-small-wpd.svg/240px-cc-by-sa-small-wpd.svg.png 2x" /></a>: <a rel="nofollow" class="external text" href="https://developer.mozilla.org/en-US/docs/HTML/Element/style">Article</a>
-</p>
-</div>
-</div>
+## <span>Summary</span>
 
-<!-- Saved in parser cache with key wpwiki:pcache:idhash:809-0!*!0!!*!5!*!esi=1 and timestamp 20150810202858 and revision id 13372
- -->
+Style element contains style information for a document. Style information should go inside of this element, usually in the CSS language.
+
+## <span>Overview Table</span>
+
+[DOM Interface](/dom/interface)
+:   [HTMLStyleElement](/dom/HTMLStyleElement)
+
+**Merge Candidate**: This page is a candidate for merge with the following pages: [html/elements/style](/html/elements/style)
+
+-   [List of Elements](/w/index.php?title=HTML/Elements&action=edit&redlink=1)
+    -   [Document metadata](/w/index.php?title=HTML/Elements&action=edit&redlink=1)
+        -   [head](/w/index.php?title=HTML/Elements/head&action=edit&redlink=1)
+        -   [title](/w/index.php?title=HTML/Elements/title&action=edit&redlink=1)
+        -   [base](/w/index.php?title=HTML/Elements/base&action=edit&redlink=1)
+        -   [isindex](/w/index.php?title=HTML/Elements/isindex&action=edit&redlink=1)
+        -   [link](/w/index.php?title=HTML/Elements/link&action=edit&redlink=1)
+        -   [meta](/w/index.php?title=HTML/Elements/meta&action=edit&redlink=1)
+        -   [style](/w/index.php?title=HTML/Elements/style&action=edit&redlink=1)
+
+# <span>\<style\></span>
+
+The \<style\> element allows authors to embed style information in their documents.
+
+## <span>HTML Attributes</span>
+
+-   `media` = media-query list
+    Specifies which media the styles apply to.
+    The default, if the media attribute is omitted, is "all", meaning that by default styles apply to all media.
+
+-   `type` = A valid MIME type that designates a styling language.
+    Gives the styling language.
+    The default value for the type attribute, which is used if the attribute is absent, is "text/css".
+
+-   `scoped` = boolean
+    Indicates that the specified style information is meant to apply only to the style element’s parent element, and that element’s child nodes. Otherwise, the specified styles are meant to apply to the entire document. [[Example B]](#Example_B)
+
+-   Also, the title attribute has special semantics on this element.
+    The title attribute on style elements defines alternative style sheet sets. If the style element has no title attribute, then it has no title; the title attribute of ancestors does not apply to the style element.
+
+ See also [global attributes](/w/index.php?title=HTML/Attributes/_Global&action=edit&redlink=1).
+
+## <span>Example</span>
+
+### <span>Example A</span>
+
+The following document has its emphasis styled as bright red text rather than italics text, while leaving titles of works and Latin words in their default italics. It shows how using appropriate elements enables easier restyling of documents. [try it]:
+
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="utf-8">
+        <title>My favorite book</title>
+        <style>
+           body { color: black; background: white; }
+           em { font-style: normal; color: red; }
+        </style>
+      </head>
+      <body>
+        <p>My <em>favorite</em> book of all time has <em>got</em> to be
+        <cite>A Cat's Life</cite>. It is a book by P. Rahmel that talks
+        about the <i lang="la">Felis Catus</i> in modern human society.</p>
+      </body>
+    </html>
+
+[File:Style01.png](/w/index.php?title=Special:Upload&wpDestFile=Style01.png)
+
+### <span>Example B</span>
+
+In the following example, the style element influences only a p element in section element. [try it]:
+
+    <p>text</p>
+    <section id="example1">
+      <style scoped="scoped">
+        p {
+          color: #ff0000;
+        }
+      </style>
+      <h1>title</h1>
+      <p>text</p>
+    </section>
+
+The following example is use to present markup to user agents that don't support the scoped attribute. [try it]:
+
+    <p>text</p>
+    <section id="example1">
+      <style scoped="scoped">
+        #example1 p {
+          color: #ff0000;
+        }
+      </style>
+      <h1>title</h1>
+      <p>text</p>
+    </section>
+
+[File:Style03.png](/w/index.php?title=Special:Upload&wpDestFile=Style03.png)
+
+## <span>HTML Reference</span>
+
+The HTML5 specification defines the \<style\> element in [4.2.6 The style element](http://www.w3.org/TR/html5/semantics.html#the-style-element).
+
+**Needs Examples**: This section should include examples.
+

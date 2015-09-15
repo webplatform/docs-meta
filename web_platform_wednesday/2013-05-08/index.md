@@ -1,600 +1,73 @@
 ---
-title: Meta:web platform wednesday/2013-05-08
----
-<h1><span class="mw-headline" id="Week_1:_8_May_2013">Week 1: 8 May 2013</span></h1>
-<p><b>Outline properties, and border properties for color, style, width, and shorthands.</b>
-</p><p>If you are not a coordinator, please <b>do not edit this page</b>. If you want to commit to a task, please contact the coordinator on the community mailing list, <a rel="nofollow" class="external text" href="mailto:public-webplatform@w3.org?subject=(WW)">public-webplatform@w3.org</a>.
-</p>
-<h2><span class="mw-headline" id="Outline_properties">Outline properties</span></h2>
-<p><b>Coordinator:</b> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug Schepers</a>
-</p>
-<table class="wikitable sortable">
-<tr>
-<th> Article Name
-</th>
-<th> Topic Cluster
-</th>
-<th> Spec URL
-</th>
-<th> Basic facts
-</th>
-<th> Explanatory text
-</th>
-<th> Examples
-</th>
-<th> Links
-</th>
-<th> Review
-</th>
-<th> Notes
-</th></tr>
-<tr>
-<td> <a href="/wiki/css/properties/outline" title="css/properties/outline">outline</a>
-</td>
-<td> outline properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-ui/#outline">http://dev.w3.org/csswg/css-ui/#outline</a>
-</td>
-<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug Schepers</a>
-</td>
-<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug Schepers</a>
-</td>
-<td> <a href="/wiki/User:Ggurgone" title="User:Ggurgone">Ggurgone</a>
-</td>
-<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug Schepers</a>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/outline-color" title="css/properties/outline-color">outline-color</a>
-</td>
-<td> outline properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-ui/#outline-color">http://dev.w3.org/csswg/css-ui/#outline-color</a>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a>
-</td>
-<td> <a href="/wiki/User:Piatra" title="User:Piatra">Piatra</a>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a>
-</td>
-<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug Schepers</a>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/outline-offset" title="css/properties/outline-offset">outline-offset</a>
-</td>
-<td> outline properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-ui/#outline-offset">http://dev.w3.org/csswg/css-ui/#outline-offset</a>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a>
-</td>
-<td> <a href="/wiki/User:Piatra" title="User:Piatra">Piatra</a>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a>
-</td>
-<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug Schepers</a>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/outline-style" title="css/properties/outline-style">outline-style</a>
-</td>
-<td> outline properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-ui/#outline-style">http://dev.w3.org/csswg/css-ui/#outline-style</a>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a>
-</td>
-<td> <a href="/wiki/User:Piatra" title="User:Piatra">Piatra</a>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a>
-</td>
-<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug Schepers</a>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/outline-width" title="css/properties/outline-width">outline-width</a>
-</td>
-<td> outline properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://dev.w3.org/csswg/css-ui/#outline-width">http://dev.w3.org/csswg/css-ui/#outline-width</a>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a>
-</td>
-<td> <a href="/wiki/User:Piatra" title="User:Piatra">Piatra</a>
-</td>
-<td> <a href="/wiki/User:Hiroki" title="User:Hiroki">Hiroki</a>
-</td>
-<td> <a href="/wiki/User:Shepazu" title="User:Shepazu">Doug Schepers</a>
-</td>
-<td>
-</td></tr></table>
-<h2><span class="mw-headline" id="Border_shorthand_properties">Border shorthand properties</span></h2>
-<p><b>Coordinator:</b> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</p>
-<table class="wikitable sortable">
-<tr>
-<th> Article Name
-</th>
-<th> Topic Cluster
-</th>
-<th> Spec URL
-</th>
-<th> Basic facts
-</th>
-<th> Explanatory text
-</th>
-<th> Examples
-</th>
-<th> Links
-</th>
-<th> Review
-</th>
-<th> Notes
-</th></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border" title="css/properties/border">border</a>
-</td>
-<td> border properties, shorthand properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#border">http://www.w3.org/TR/css3-background/#border</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-top" title="css/properties/border-top">border-top</a>
-</td>
-<td> border properties, border top properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-shorthands">http://www.w3.org/TR/css3-background/#the-border-shorthands</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-right" title="css/properties/border-right">border-right</a>
-</td>
-<td> border properties, border right properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-shorthands">http://www.w3.org/TR/css3-background/#the-border-shorthands</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-bottom" title="css/properties/border-bottom">border-bottom</a>
-</td>
-<td> border properties, border bottom properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-shorthands">http://www.w3.org/TR/css3-background/#the-border-shorthands</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-left" title="css/properties/border-left">border-left</a>
-</td>
-<td> border properties, border left properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-shorthands">http://www.w3.org/TR/css3-background/#the-border-shorthands</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td> <a href="/wiki/User:Cmills" title="User:Cmills">Chris Mills</a>
-</td>
-<td>
-</td>
-<td>
-</td></tr></table>
-<h2><span class="mw-headline" id="Border_color_properties">Border color properties</span></h2>
-<p><b>Coordinator:</b> <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</p>
-<table class="wikitable sortable">
-<tr>
-<th> Article Name
-</th>
-<th> Topic Cluster
-</th>
-<th> Spec URL
-</th>
-<th> Basic facts
-</th>
-<th> Explanatory text
-</th>
-<th> Examples
-</th>
-<th> Links
-</th>
-<th> Review
-</th>
-<th> Notes
-</th></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-color" title="css/properties/border-color">border-color</a>
-</td>
-<td> border properties, border color properties, color properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#border-color">http://www.w3.org/TR/css3-background/#border-color</a>
-</td>
-<td> Done: <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a>
-</td>
-<td> Done: <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a>
-</td>
-<td> Done: <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhs Rao</a>
-</td>
-<td> Done: <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>, plus <a href="/wiki/User:Frozenice" title="User:Frozenice">User:Frozenice</a>, and @ravenzz on #webplatform IRC channel
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-top-color" title="css/properties/border-top-color">border-top-color</a>
-</td>
-<td> border properties, border top properties, border color properties, color properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-color">http://www.w3.org/TR/css3-background/#the-border-color</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> Done: <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhs Rao</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> Done: <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a>, plus <a href="/wiki/User:Frozenice" title="User:Frozenice">User:Frozenice</a>, and @ravenzz on #webplatform IRC channel
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-right-color" title="css/properties/border-right-color">border-right-color</a>
-</td>
-<td> border properties, border right properties, border color properties, color properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-color">http://www.w3.org/TR/css3-background/#the-border-color</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> Done: <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhs Rao</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> Done: <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a>, plus <a href="/wiki/User:Frozenice" title="User:Frozenice">User:Frozenice</a>, and @ravenzz on #webplatform IRC channel
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-bottom-color" title="css/properties/border-bottom-color">border-bottom-color</a>
-</td>
-<td> border properties, border bottom properties, border color properties, color properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-color">http://www.w3.org/TR/css3-background/#the-border-color</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> Done: <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhs Rao</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> Done: <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a>, plus <a href="/wiki/User:Frozenice" title="User:Frozenice">User:Frozenice</a>, and @ravenzz on #webplatform IRC channel
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-left-color" title="css/properties/border-left-color">border-left-color</a>
-</td>
-<td> border properties, border left properties, border color properties, color properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-color">http://www.w3.org/TR/css3-background/#the-border-color</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> Done: <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhs Rao</a>
-</td>
-<td> Done: <a href="/wiki/User:Julee" title="User:Julee">Julee</a>
-</td>
-<td> Done: <a href="/w/index.php?title=User:Gregwhitworth&amp;action=edit&amp;redlink=1" class="new" title="User:Gregwhitworth (page does not exist)">Greg</a>, plus <a href="/wiki/User:Frozenice" title="User:Frozenice">User:Frozenice</a>, and @ravenzz on #webplatform IRC channel
-</td>
-<td>
-</td></tr></table>
-<h2><span class="mw-headline" id="Border_style_properties">Border style properties</span></h2>
-<p><b>Coordinator:</b> <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scott Rowe</a>
-</p>
-<table class="wikitable sortable">
-<tr>
-<th> Article Name
-</th>
-<th> Topic Cluster
-</th>
-<th> Spec URL
-</th>
-<th> Basic facts
-</th>
-<th> Explanatory text
-</th>
-<th> Examples
-</th>
-<th> Links
-</th>
-<th> Review
-</th>
-<th> Notes
-</th></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-style" title="css/properties/border-style">border-style</a>
-</td>
-<td> border properties, border style properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#border-style">http://www.w3.org/TR/css3-background/#border-style</a>
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-top-style" title="css/properties/border-top-style">border-top-style</a>
-</td>
-<td> border properties, border top properties, border style properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-style">http://www.w3.org/TR/css3-background/#the-border-style</a>
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-right-style" title="css/properties/border-right-style">border-right-style</a>
-</td>
-<td> border properties, border right properties, border style properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-style">http://www.w3.org/TR/css3-background/#the-border-style</a>
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-bottom-style" title="css/properties/border-bottom-style">border-bottom-style</a>
-</td>
-<td> border properties, border bottom properties, border style properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-style">http://www.w3.org/TR/css3-background/#the-border-style</a>
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-left-style" title="css/properties/border-left-style">border-left-style</a>
-</td>
-<td> border properties, border left properties, border style properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-style">http://www.w3.org/TR/css3-background/#the-border-style</a>
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td> done
-</td>
-<td>
-</td>
-<td>
-</td></tr></table>
-<h2><span class="mw-headline" id="Border_width_properties">Border width properties</span></h2>
-<p><b>Coordinator:</b> <a href="/wiki/User:Jswisher" title="User:Jswisher">Janet Swisher</a>
-</p>
-<table class="wikitable sortable">
-<tr>
-<th> Article Name
-</th>
-<th> Topic Cluster
-</th>
-<th> Spec URL
-</th>
-<th> Basic facts
-</th>
-<th> Explanatory text
-</th>
-<th> Examples
-</th>
-<th> Links
-</th>
-<th> Review
-</th>
-<th> Notes
-</th></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-width" title="css/properties/border-width">border-width</a>
-</td>
-<td> border properties, border width properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#border-width">http://www.w3.org/TR/css3-background/#border-width</a>
-</td>
-<td> Done: <a href="/wiki/User:Jswisher" title="User:Jswisher">Jswisher</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-top-width" title="css/properties/border-top-width">border-top-width</a>
-</td>
-<td> border properties, border top properties, border width properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-width">http://www.w3.org/TR/css3-background/#the-border-width</a>
-</td>
-<td> Done: <a href="/wiki/User:Jswisher" title="User:Jswisher">Jswisher</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-right-width" title="css/properties/border-right-width">border-right-width</a>
-</td>
-<td> border properties, border right properties, border width properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-width">http://www.w3.org/TR/css3-background/#the-border-width</a>
-</td>
-<td> Done: <a href="/wiki/User:Jswisher" title="User:Jswisher">Jswisher</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-bottom-width" title="css/properties/border-bottom-width">border-bottom-width</a>
-</td>
-<td> border properties, border bottom properties, border width properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-width">http://www.w3.org/TR/css3-background/#the-border-width</a>
-</td>
-<td> Done: <a href="/wiki/User:Jswisher" title="User:Jswisher">Jswisher</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td>
-</td>
-<td>
-</td></tr>
-<tr>
-<td> <a href="/wiki/css/properties/border-left-width" title="css/properties/border-left-width">border-left-width</a>
-</td>
-<td> border properties, border left properties, border width properties
-</td>
-<td> <a rel="nofollow" class="external free" href="http://www.w3.org/TR/css3-background/#the-border-width">http://www.w3.org/TR/css3-background/#the-border-width</a>
-</td>
-<td> Done: <a href="/wiki/User:Jswisher" title="User:Jswisher">Jswisher</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td> <a href="/wiki/User:Rishabhsrao" title="User:Rishabhsrao">Rishabhs Rao</a>
-</td>
-<td> Done: <a href="/wiki/User:Scottrowe" title="User:Scottrowe">Scottrowe</a>
-</td>
-<td>
-</td>
-<td>
-</td></tr></table>
+title: Week 1: 8 May 2013
+todo_broken_links:
+  note: 'During import MediaWiki could not find the following links, please fix and adjust this list.'
+  links:
+    - 'User:Gregwhitworth'
+uri: 'Meta:web platform wednesday/2013-05-08'
 
-<!-- Saved in parser cache with key wpwiki:pcache:idhash:8320-0!*!0!!*!*!*!esi=1 and timestamp 20150731181949 and revision id 32351
- -->
+---
+**Outline properties, and border properties for color, style, width, and shorthands.**
+
+If you are not a coordinator, please **do not edit this page**. If you want to commit to a task, please contact the coordinator on the community mailing list, [public-webplatform@w3.org](mailto:public-webplatform@w3.org?subject=(WW)).
+
+## <span>Outline properties</span>
+
+**Coordinator:** [Doug Schepers](/User:Shepazu)
+
+|Article Name|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
+|:-----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
+|[outline](/css/properties/outline)|outline properties|<http://dev.w3.org/csswg/css-ui/#outline>|[Doug Schepers](/User:Shepazu)|[Doug Schepers](/User:Shepazu)|[Ggurgone](/User:Ggurgone)|[Doug Schepers](/User:Shepazu)|||
+|[outline-color](/css/properties/outline-color)|outline properties|<http://dev.w3.org/csswg/css-ui/#outline-color>|[Hiroki](/User:Hiroki)|[Hiroki](/User:Hiroki)|[Piatra](/User:Piatra)|[Hiroki](/User:Hiroki)|[Doug Schepers](/User:Shepazu)||
+|[outline-offset](/css/properties/outline-offset)|outline properties|<http://dev.w3.org/csswg/css-ui/#outline-offset>|[Hiroki](/User:Hiroki)|[Hiroki](/User:Hiroki)|[Piatra](/User:Piatra)|[Hiroki](/User:Hiroki)|[Doug Schepers](/User:Shepazu)||
+|[outline-style](/css/properties/outline-style)|outline properties|<http://dev.w3.org/csswg/css-ui/#outline-style>|[Hiroki](/User:Hiroki)|[Hiroki](/User:Hiroki)|[Piatra](/User:Piatra)|[Hiroki](/User:Hiroki)|[Doug Schepers](/User:Shepazu)||
+|[outline-width](/css/properties/outline-width)|outline properties|<http://dev.w3.org/csswg/css-ui/#outline-width>|[Hiroki](/User:Hiroki)|[Hiroki](/User:Hiroki)|[Piatra](/User:Piatra)|[Hiroki](/User:Hiroki)|[Doug Schepers](/User:Shepazu)||
+
+## <span>Border shorthand properties</span>
+
+**Coordinator:** [Chris Mills](/User:Cmills)
+
+|Article Name|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
+|:-----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
+|[border](/css/properties/border)|border properties, shorthand properties|<http://www.w3.org/TR/css3-background/#border>|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|||
+|[border-top](/css/properties/border-top)|border properties, border top properties|<http://www.w3.org/TR/css3-background/#the-border-shorthands>|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|||
+|[border-right](/css/properties/border-right)|border properties, border right properties|<http://www.w3.org/TR/css3-background/#the-border-shorthands>|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|||
+|[border-bottom](/css/properties/border-bottom)|border properties, border bottom properties|<http://www.w3.org/TR/css3-background/#the-border-shorthands>|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|||
+|[border-left](/css/properties/border-left)|border properties, border left properties|<http://www.w3.org/TR/css3-background/#the-border-shorthands>|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|||
+
+## <span>Border color properties</span>
+
+**Coordinator:** [Julee](/User:Julee)
+
+|Article Name|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
+|:-----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
+|[border-color](/css/properties/border-color)|border properties, border color properties, color properties|<http://www.w3.org/TR/css3-background/#border-color>|Done: [Greg](/w/index.php?title=User:Gregwhitworth&action=edit&redlink=1)|Done: [Greg](/w/index.php?title=User:Gregwhitworth&action=edit&redlink=1)|Done: [Rishabhs Rao](/User:Rishabhsrao)|Done: [Greg](/w/index.php?title=User:Gregwhitworth&action=edit&redlink=1)|Done: [Julee](/User:Julee), plus [User:Frozenice](/User:Frozenice), and @ravenzz on \#webplatform IRC channel||
+|[border-top-color](/css/properties/border-top-color)|border properties, border top properties, border color properties, color properties|<http://www.w3.org/TR/css3-background/#the-border-color>|Done: [Julee](/User:Julee)|Done: [Julee](/User:Julee)|Done: [Rishabhs Rao](/User:Rishabhsrao)|Done: [Julee](/User:Julee)|Done: [Greg](/w/index.php?title=User:Gregwhitworth&action=edit&redlink=1), plus [User:Frozenice](/User:Frozenice), and @ravenzz on \#webplatform IRC channel||
+|[border-right-color](/css/properties/border-right-color)|border properties, border right properties, border color properties, color properties|<http://www.w3.org/TR/css3-background/#the-border-color>|Done: [Julee](/User:Julee)|Done: [Julee](/User:Julee)|Done: [Rishabhs Rao](/User:Rishabhsrao)|Done: [Julee](/User:Julee)|Done: [Greg](/w/index.php?title=User:Gregwhitworth&action=edit&redlink=1), plus [User:Frozenice](/User:Frozenice), and @ravenzz on \#webplatform IRC channel||
+|[border-bottom-color](/css/properties/border-bottom-color)|border properties, border bottom properties, border color properties, color properties|<http://www.w3.org/TR/css3-background/#the-border-color>|Done: [Julee](/User:Julee)|Done: [Julee](/User:Julee)|Done: [Rishabhs Rao](/User:Rishabhsrao)|Done: [Julee](/User:Julee)|Done: [Greg](/w/index.php?title=User:Gregwhitworth&action=edit&redlink=1), plus [User:Frozenice](/User:Frozenice), and @ravenzz on \#webplatform IRC channel||
+|[border-left-color](/css/properties/border-left-color)|border properties, border left properties, border color properties, color properties|<http://www.w3.org/TR/css3-background/#the-border-color>|Done: [Julee](/User:Julee)|Done: [Julee](/User:Julee)|Done: [Rishabhs Rao](/User:Rishabhsrao)|Done: [Julee](/User:Julee)|Done: [Greg](/w/index.php?title=User:Gregwhitworth&action=edit&redlink=1), plus [User:Frozenice](/User:Frozenice), and @ravenzz on \#webplatform IRC channel||
+
+## <span>Border style properties</span>
+
+**Coordinator:** [Scott Rowe](/User:Scottrowe)
+
+|Article Name|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
+|:-----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
+|[border-style](/css/properties/border-style)|border properties, border style properties|<http://www.w3.org/TR/css3-background/#border-style>|done|done|done|done|||
+|[border-top-style](/css/properties/border-top-style)|border properties, border top properties, border style properties|<http://www.w3.org/TR/css3-background/#the-border-style>|done|done|done|done|||
+|[border-right-style](/css/properties/border-right-style)|border properties, border right properties, border style properties|<http://www.w3.org/TR/css3-background/#the-border-style>|done|done|done|done|||
+|[border-bottom-style](/css/properties/border-bottom-style)|border properties, border bottom properties, border style properties|<http://www.w3.org/TR/css3-background/#the-border-style>|done|done|done|done|||
+|[border-left-style](/css/properties/border-left-style)|border properties, border left properties, border style properties|<http://www.w3.org/TR/css3-background/#the-border-style>|done|done|done|done|||
+
+## <span>Border width properties</span>
+
+**Coordinator:** [Janet Swisher](/User:Jswisher)
+
+|Article Name|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
+|:-----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
+|[border-width](/css/properties/border-width)|border properties, border width properties|<http://www.w3.org/TR/css3-background/#border-width>|Done: [Jswisher](/User:Jswisher)|Done: [Scottrowe](/User:Scottrowe)|Done: [Scottrowe](/User:Scottrowe)|Done: [Scottrowe](/User:Scottrowe)|||
+|[border-top-width](/css/properties/border-top-width)|border properties, border top properties, border width properties|<http://www.w3.org/TR/css3-background/#the-border-width>|Done: [Jswisher](/User:Jswisher)|Done: [Scottrowe](/User:Scottrowe)|Done: [Scottrowe](/User:Scottrowe)|Done: [Scottrowe](/User:Scottrowe)|||
+|[border-right-width](/css/properties/border-right-width)|border properties, border right properties, border width properties|<http://www.w3.org/TR/css3-background/#the-border-width>|Done: [Jswisher](/User:Jswisher)|Done: [Scottrowe](/User:Scottrowe)|Done: [Scottrowe](/User:Scottrowe)|Done: [Scottrowe](/User:Scottrowe)|||
+|[border-bottom-width](/css/properties/border-bottom-width)|border properties, border bottom properties, border width properties|<http://www.w3.org/TR/css3-background/#the-border-width>|Done: [Jswisher](/User:Jswisher)|Done: [Scottrowe](/User:Scottrowe)|Done: [Scottrowe](/User:Scottrowe)|Done: [Scottrowe](/User:Scottrowe)|||
+|[border-left-width](/css/properties/border-left-width)|border properties, border left properties, border width properties|<http://www.w3.org/TR/css3-background/#the-border-width>|Done: [Jswisher](/User:Jswisher)|Done: [Scottrowe](/User:Scottrowe)|[Rishabhs Rao](/User:Rishabhsrao)|Done: [Scottrowe](/User:Scottrowe)|||
+
