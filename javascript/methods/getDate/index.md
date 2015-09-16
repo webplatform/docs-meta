@@ -17,15 +17,15 @@ uri: 'Meta:javascript/methods/getDate'
 
  Method of: [Date](/w/index.php?title=javascript/objects/Date&action=edit&redlink=1) (Static method)
 
-## <span>Summary</span>
+## Summary
 
 Returns the day of the month for the specified date according to local time.
 
-## <span>Syntax</span>
+## Syntax
 
 getDate()
 
-## <span>Parameters</span>
+## Parameters
 
 `fakeparam1`
 :   Description 1
@@ -33,18 +33,18 @@ getDate()
 `fakeparam2`
 :   Description 2
 
-## <span>Return values</span>
+## Return values
 
 `fake return value 1`
 :   Some description.
 
-## <span>Description/Remarks</span>
+## Description/Remarks
 
 The value returned by getDate is an integer between 1 and 31.
 
-## <span>Browser compatibility</span>
+## Browser compatibility
 
-## <span>See also</span>
+## See also
 
 [getUTCDate](/w/index.php?title=javascript/methods/getUTCDate&action=edit&redlink=1), [getUTCDay](/w/index.php?title=javascript/methods/getUTCDay&action=edit&redlink=1), [setDate](/w/index.php?title=javascript/methods/setDate&action=edit&redlink=1)
 

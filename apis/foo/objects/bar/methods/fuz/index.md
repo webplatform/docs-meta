@@ -21,19 +21,19 @@ tags:
 uri: 'Meta:apis/foo/objects/bar/methods/fuz'
 
 ---
-## <span>Summary</span>
+## Summary
 
 Indicates whether a flow's contents exceeds available space within a region chain
 
 Method of [css/cssom/NamedFlow](/css/cssom/NamedFlow)[css/cssom/NamedFlow](/css/cssom/NamedFlow)
 
-## <span>Syntax</span>
+## Syntax
 
 ``` js
 var result = element.();
 ```
 
-## <span>Return Value</span>
+## Return Value
 
 Returns an object of type BooleanBoolean
 
@@ -41,16 +41,16 @@ Indicates whether a flow's contents exceeds available space within a region chai
 
 **Needs Examples**: This section should include examples.
 
-## <span>Related specifications</span>
+## Related specifications
 
 [CSS Regions Module Level 3](http://dev.w3.org/csswg/css3-regions/)
 :
 
-## <span>See also</span>
+## See also
 
-### <span>Related articles</span>
+### Related articles
 
-#### <span>CSS Layout</span>
+#### CSS Layout
 
 -   [Responsive Web Design](/concepts/mobile_web/responsive_design)
 
@@ -96,7 +96,7 @@ Indicates whether a flow's contents exceeds available space within a region chai
 
 -   [baseline-shift](/svg/attributes/baseline-shift)
 
-#### <span>Regions</span>
+#### Regions
 
 -   [CSS Regions API](/apis/css-regions)
 

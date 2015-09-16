@@ -10,7 +10,7 @@ todo_broken_links:
 uri: 'Meta:web platform wednesday/past reports/css properties/2013-May'
 
 ---
-### <span>29 May 2013</span>
+### 29 May 2013
 
 The basics of the box model and layout: margins, padding, positioning, floats, display, and z-index.
 
@@ -81,7 +81,7 @@ The basics of the box model and layout: margins, padding, positioning, floats, d
 **In progress**|[Hiroki](/User:Hiroki)
 **In progress**||**Verified: DONE IN JUN**|
 
-### <span>15 May 2013</span>
+### 15 May 2013
 
 Border-image and longhands, break and flow properties, font properties, including longhands and related, and list-style and longhands
 
@@ -402,7 +402,7 @@ Border-image and longhands, break and flow properties, font properties, includin
 </tbody>
 </table>
 
-### <span>8 May 2013</span>
+### 8 May 2013
 
 Outline properties, and border properties for color, style, width, and shorthands.
 
@@ -478,7 +478,7 @@ Outline properties, and border properties for color, style, width, and shorthand
 **Done!**|[Rishabhs Rao](/User:Rishabhsrao)|[Scottrowe](/User:Scottrowe)
 **Done!**|||
 
-### <span>22 May 2013</span>
+### 22 May 2013
 
 A variety of text properties: text-wrapping, white-space, justification and alignment, spacing, edge, decoration, emphasis, and shadow.
 
@@ -591,7 +591,7 @@ A variety of text properties: text-wrapping, white-space, justification and alig
 **Done!**||
 |[text-shadow](/css/properties/text-shadow)|[Doug](/User:Shepazu)|text properties, shadow properties|[CSS Text Decoration L3](http://www.w3.org/TR/2012/WD-css3-text-20121113/#text-shadow)|Trever Santora|Trever Santora|Trever Santora|Trever Santora|Seattle Doc Sprint||
 
-### <span>29 May 2013</span>
+### 29 May 2013
 
 Flex it!
 

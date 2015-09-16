@@ -76,45 +76,45 @@ uri: 'Meta:javascript'
 ---
 This page and all subpages are in the process of replacement. They constitute the locus of bulk page importing, one of the first steps of the Web Platform [JavaScript Project](/WPD:Projects/javascript).
 
-## <span>Summary</span>
+## Summary
 
 JavaScript is the scripting language of the Web, enabling us to implement all kinds of powerful dynamic features.
 
 The usage of JavaScript is not limited inside browsers. You can use it in server and console environments with [Node.js](http://nodejs.org) or [Rhino](https://developer.mozilla.org/en-US/docs/Rhino).
 
-## <span>Explore our JavaScript docs</span>
+## Explore our JavaScript docs
 
-### <span>[JavaScript learning material](/w/index.php?title=javascript/tutorials&action=edit&redlink=1)</span>
+### [JavaScript learning material](/w/index.php?title=javascript/tutorials&action=edit&redlink=1)
 
 Tutorials and concept articles to teach you JavaScript from the ground up.
 
-### <span>[Language features](/w/index.php?title=javascript/tutorials&action=edit&redlink=1)</span>
+### [Language features](/w/index.php?title=javascript/tutorials&action=edit&redlink=1)
 
 A reference guide to JavaScript language fundamentals, including high level browser support for different language versions, data types, statements, and operators.
 
-### <span>[Functions](/javascript/functions)</span>
+### [Functions](/javascript/functions)
 
 A reference guide to all the functions available natively to JavaScript.
 
-### <span>[Objects](/javascript/objects)</span>
+### [Objects](/javascript/objects)
 
 A reference guide to all the native JavaScript objects.
 
-### <span>[Events](/events)</span>
+### [Events](/events)
 
 A reference guide to the different events available in JavaScript.
 
-### <span>[Libraries](/w/index.php?title=javascript/libraries&action=edit&redlink=1)</span>
+### [Libraries](/w/index.php?title=javascript/libraries&action=edit&redlink=1)
 
 A reference guide to the different 3rd party JavaScript libraries available for templating, feature detection, cross browser functionality, and more.
 
-### <span>[Regular expressions](/concepts/programming/javascript/regex)</span>
+### [Regular expressions](/concepts/programming/javascript/regex)
 
 A reference guide to the regular expressions available in JavaScript.
 
  Note: If you are completely new to web development, you may want to review [JavaScript Beginner Tutorials](http://www.afterhoursprogramming.com/tutorial/JavaScript/Overview/).
 
-## <span>Background</span>
+## Background
 
 JavaScript is the scripting language of the web, allowing you to add dynamic behaviour to web documents. It was originally used for simple DOM manipulation, style switching and animated effects, but in recent times it has become so much more, with the advent of powerful APIs through the HTML5 specification, and the popularity of 3rd party libraries and applications such as jQuery, Node.js and Backbone.js.
 
@@ -122,7 +122,7 @@ JavaScript is the scripting language of the web, allowing you to add dynamic beh
 -   Current stable version: JavaScript is based on the ECMAScript specification, published by Ecma international. [ECMAScript version 5.1](http://www.ecma-international.org/ecma-262/5.1/) is seen as the current stable version.
 -   Current and future work: ECMAScript version 6 is currently being worked on, but the development of JavaScript goes far beyond that. There are new APIs being worked on all the time, in places such as the [W3C HTML working group](http://www.w3.org/html/wg/), and new JavaScript libraries appear all the time, on places like [Github](https://github.com/).
 
-## <span>Contributing to the JavaScript technology</span>
+## Contributing to the JavaScript technology
 
 <http://www.ecmascript.org/dev.php>
 
@@ -130,7 +130,7 @@ The standardisation of the ECMAScript language is handled by ECMA TC39, and is c
 
 To contribute to other JavaScript-related technologies such as HTML5, jQuery, and other 3rd party libraries and frameworks, search for the appropriate working group, core team or developers!
 
-## <span>Index of all JavaScript topics</span>
+## Index of all JavaScript topics
 
 ||
 |[javascript/Array](/javascript/Array)|[javascript/Array/concat](/javascript/Array/concat)|[javascript/Array/constructor](/javascript/Array/constructor)|

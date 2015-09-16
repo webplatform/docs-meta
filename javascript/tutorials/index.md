@@ -12,11 +12,11 @@ uri: 'Meta:javascript/tutorials'
 ---
 **Merge Candidate**: This page is a candidate for merge with the following pages: [[[1]](http://docs.webplatform.org/wiki/javascript/tutorials)]
 
-## <span>Summary</span>
+## Summary
 
 Index page for JavaScript tutorials.
 
-## <span>JavaScript fundamentals</span>
+## JavaScript fundamentals
 
 You can start studying JavaScript with the following articles:
 
@@ -30,13 +30,13 @@ You can start studying JavaScript with the following articles:
 -   [Manipulating CSS with JavaScript](/tutorials/manipulating_css_with_javascript)
 -   [Events in JavaScript](/tutorials/events_in_javascript)
 
-## <span>Tips and best practices</span>
+## Tips and best practices
 
 -   [Graceful degradation vs. progressive enhancement](/tutorials/graceful_degradation_versus_progressive_enhancement)
 -   [JavaScript best practices](/tutorials/javascript_best_practices)
 -   [The principles of unobtrusive JavaScript](/concepts/programming/the_principles_of_unobtrusive_javascript)
 
-## <span>Available JavaScript topic areas</span>
+## Available JavaScript topic areas
 
 Drilldown more deeply into JavaScript with these detailed topic areas:
 
@@ -47,7 +47,7 @@ Drilldown more deeply into JavaScript with these detailed topic areas:
 -   [Testing and debugging](/tutorials/testing_and_debugging)
 -   [Dynamic UI effects](/tutorials/dynamic_ui_effects)
 
-## <span>JavaScript tutorials</span>
+## JavaScript tutorials
 
 API Name
 :   Summary

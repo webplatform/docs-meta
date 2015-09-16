@@ -17,11 +17,11 @@ uri: 'Meta:HTML/Elements'
 
 This is the list of HTML and related Elements from the past to the present.
 
-## <span>The root element</span>
+## The root element
 
 -   [html](/Meta:HTML/Elements/html)
 
-## <span>Document metadata</span>
+## Document metadata
 
 -   [head](/Meta:HTML/Elements/head)
 -   [title](/Meta:HTML/Elements/title)
@@ -31,12 +31,12 @@ This is the list of HTML and related Elements from the past to the present.
 -   [meta](/Meta:HTML/Elements/meta)
 -   [style](/Meta:HTML/Elements/style)
 
-## <span>Scripting</span>
+## Scripting
 
 -   [script](/Meta:HTML/Elements/script)
 -   [noscript](/Meta:HTML/Elements/noscript)
 
-## <span>Sections</span>
+## Sections
 
 -   [body](/Meta:HTML/Elements/body)
 -   [section](/Meta:HTML/Elements/section)
@@ -49,7 +49,7 @@ This is the list of HTML and related Elements from the past to the present.
 -   [footer](/Meta:HTML/Elements/footer)
 -   [address](/Meta:HTML/Elements/address)
 
-## <span>Grouping content</span>
+## Grouping content
 
 -   [p](/Meta:HTML/Elements/p)
 -   [hr](/Meta:HTML/Elements/hr)
@@ -66,7 +66,7 @@ This is the list of HTML and related Elements from the past to the present.
 -   [div](/Meta:HTML/Elements/div)
 -   [center](/Meta:HTML/Elements/center)
 
-## <span>Text-level semantics</span>
+## Text-level semantics
 
 -   [a](/Meta:HTML/Elements/a)
 -   [abbr](/Meta:HTML/Elements/abbr)
@@ -108,12 +108,12 @@ This is the list of HTML and related Elements from the past to the present.
 -   [wbr](/Meta:HTML/Elements/wbr)
 -   [xmp](/Meta:HTML/Elements/xmp)
 
-## <span>Edits</span>
+## Edits
 
 -   [ins](/Meta:HTML/Elements/ins)
 -   [del](/Meta:HTML/Elements/del)
 
-## <span>Embedded content</span>
+## Embedded content
 
 -   [img](/Meta:HTML/Elements/img)
 -   [iframe](/Meta:HTML/Elements/iframe)
@@ -137,7 +137,7 @@ This is the list of HTML and related Elements from the past to the present.
 -   [noembed](/Meta:HTML/Elements/noembed)
 -   [plaintext](/Meta:HTML/Elements/plaintext)
 
-## <span>Tables</span>
+## Tables
 
 -   [table](/Meta:HTML/Elements/table)
 -   [caption](/Meta:HTML/Elements/caption)
@@ -150,7 +150,7 @@ This is the list of HTML and related Elements from the past to the present.
 -   [td](/Meta:HTML/Elements/td)
 -   [th](/Meta:HTML/Elements/th)
 
-## <span>Forms</span>
+## Forms
 
 -   [form](/Meta:HTML/Elements/form)
 -   [fieldset](/Meta:HTML/Elements/fieldset)
@@ -168,14 +168,14 @@ This is the list of HTML and related Elements from the past to the present.
 -   [progress](/Meta:HTML/Elements/progress)
 -   [meter](/Meta:HTML/Elements/meter)
 
-## <span>Interactive</span>
+## Interactive
 
 -   [details](/Meta:HTML/Elements/details)
 -   [summary](/Meta:HTML/Elements/summary)
 -   [command](/Meta:HTML/Elements/command)
 -   [menu](/Meta:HTML/Elements/menu)
 
-## <span>Previous HTML Elements</span>
+## Previous HTML Elements
 
 -   [acronym](/Meta:HTML/Elements/acronym)
 -   [applet](/Meta:HTML/Elements/applet) (deprecated in [HTML 4.01](http://www.w3.org/TR/html401/), non conformant in [HTML5](http://www.w3.org/TR/html5))
@@ -202,7 +202,7 @@ This is the list of HTML and related Elements from the past to the present.
 -   [u](/Meta:HTML/Elements/u) (deprecated in [HTML 4.01](http://www.w3.org/TR/html401/), non conformant in [HTML5](http://www.w3.org/TR/html5))
 -   [xmp](/Meta:HTML/Elements/xmp)
 
-## <span>See also</span>
+## See also
 
 -   [HTML: The Markup Language Reference](http://www.w3.org/TR/html-markup/)
 -   [HTML Educational material for beginners](/w/index.php?title=Meta:HTML/Training&action=edit&redlink=1)

@@ -21,11 +21,11 @@ todo_broken_links:
 uri: 'Meta:HTML/Elements/ol'
 
 ---
-## <span>Summary</span>
+## Summary
 
 The ol element makes an ordered list from the li (list item) elements it contains. Typically, each item is rendered with a number before it.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [?](/w/index.php?title=%3F&action=edit&redlink=1)
@@ -47,7 +47,7 @@ The ol element makes an ordered list from the li (list item) elements it contain
         -   [div](/Meta:HTML/Elements/div)
         -   [center](/Meta:HTML/Elements/center)
 
-# <span>\<ol\></span>
+# \<ol\>
 
 The \<ol\> element represents an *ordered list*. By default, most browsers add an integer as a marker before each list item:
 
@@ -59,7 +59,7 @@ The \<ol\> element represents an *ordered list*. By default, most browsers add a
 
 Use an ordered list where there's meaning to the order in which the list items appear. If the order is not important, it is more appropriate to use a [\<ul\>](/Meta:HTML/Elements/ul) unordered list element.
 
-## <span>HTML Attributes</span>
+## HTML Attributes
 
 -   `reversed`
     Renders numbers for the items in descending order list (...3, 2, 1), instead of the default ascending order (1, 2, 3...). [[Example B]](#Example_B)
@@ -105,9 +105,9 @@ Use an ordered list where there's meaning to the order in which the list items a
 
  See also [global attributes](/w/index.php?title=HTML/Attributes/_Global&action=edit&redlink=1).
 
-## <span>Examples</span>
+## Examples
 
-### <span>Example A</span>
+### Example A
 
 [try it]
 
@@ -119,7 +119,7 @@ Use an ordered list where there's meaning to the order in which the list items a
 
 [File:Ol01.png](/w/index.php?title=Special:Upload&wpDestFile=Ol01.png)
 
-### <span>Example B</span>
+### Example B
 
 With the reversed attribute [try it]:
 
@@ -131,7 +131,7 @@ With the reversed attribute [try it]:
 
 [File:Li02.png](/w/index.php?title=Special:Upload&wpDestFile=Li02.png)
 
-### <span>Example C</span>
+### Example C
 
 With the start attribute [try it]:
 
@@ -143,7 +143,7 @@ With the start attribute [try it]:
 
 [File:Ol03.png](/w/index.php?title=Special:Upload&wpDestFile=Ol03.png)
 
-### <span>Example D</span>
+### Example D
 
 With the type attribute [try it]:
 
@@ -155,21 +155,21 @@ With the type attribute [try it]:
 
 [File:Ol04.png](/w/index.php?title=Special:Upload&wpDestFile=Ol04.png)
 
-## <span>HTML Reference</span>
+## HTML Reference
 
 The HTML5 specification defines the \<ol\> element in [4.5.5 The ol element](http://www.w3.org/TR/html5/grouping-content.html#the-ol-element).
 
-## <span>See also</span>
+## See also
 
 -   [HTML Lists](/guides/html_lists)
 
 **Needs Examples**: This section should include examples.
 
-## <span>See also</span>
+## See also
 
-### <span>Related articles</span>
+### Related articles
 
-#### <span>HTML</span>
+#### HTML
 
 -   [user-modify](/css/properties/user-modify)
 

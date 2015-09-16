@@ -56,7 +56,7 @@ uri: 'Meta:HTML/Elements/input'
 ---
 **Needs Summary**: This article does not have a summary. Summaries give a brief overview of the topic and are automatically included on some listing pages that link to this article.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [?](/w/index.php?title=%3F&action=edit&redlink=1)
@@ -79,11 +79,11 @@ uri: 'Meta:HTML/Elements/input'
         -   [progress](/w/index.php?title=HTML/Elements/progress&action=edit&redlink=1)
         -   [meter](/w/index.php?title=HTML/Elements/meter&action=edit&redlink=1)
 
-# <span>\<input\></span>
+# \<input\>
 
 The \<input\> element represents a typed data field, usually with a form control to allow the user to edit the data.
 
-## <span>Point</span>
+## Point
 
 -   The type attribute controls the data type (and associated control) of the element. It is an enumerated attribute.
 
@@ -116,7 +116,7 @@ The \<input\> element represents a typed data field, usually with a form control
 |`reset`|Reset Button|n/a|A button|
 |`button`|Button|n/a|A button|
 
-## <span>HTML Attributes</span>
+## HTML Attributes
 
 -   Which of the attributes apply to an input element depends on the state of its type attribute. The following table is summarizes which of those content attributes.
 
@@ -1521,7 +1521,7 @@ Yes
 
 See also [global attributes](/w/index.php?title=HTML/Attributes/_Global&action=edit&redlink=1).
 
-## <span>HTML Reference</span>
+## HTML Reference
 
 The HTML5 specification defines the \<input\> element in [4.10.7 The input element](http://www.w3.org/TR/html5/the-input-element.html#the-input-element).
 

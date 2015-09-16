@@ -3,7 +3,7 @@ title: Meta:web platform wednesday
 uri: 'Meta:web platform wednesday'
 
 ---
-## <span>Welcome to **Web Platform Wednesdays**!</span>
+## Welcome to **Web Platform Wednesdays**!
 
 This is a description of the specific focus we have for each week in our effort to review and improve the JavaScript reference pages.
 
@@ -11,7 +11,7 @@ If this is your first time contributing in Web Platform Wednesdays, please read 
 
 **To get started, pick a task for an article, and email the [public-webplatform email list](mailto:public-webplatform@w3.org?subject=(WPW)) to reserve that task for yourself!**
 
-## <span>Week 1-3</span>
+## Week 1-3
 
 |Article Name|Spec URL|Coordinator|Basic facts|Explanatory text|Examples|Links|Review|Notes|
 |:-----------|:-------|:----------|:----------|:---------------|:-------|:----|:-----|:----|
@@ -32,7 +32,7 @@ The article should already have a page created, linked from the article name; if
 
 Some of these articles need to be created, some need improvements and thorough review, some need the best examples and best practices add. All of these tasks are critical! Once you're finished your tasks, notify the coordinator by emailing the public-webplatform@w3.org. And don't forget to tweet about it, @webplatform and hashtag \#wpw.
 
-## <span>Getting involved</span>
+## Getting involved
 
 You don't have to be an expert to participate! For example of some general tasks, check out some of the [basic-facts tasks](/Meta:web_platform_wednesday/js_basic_facts_tasks).
 
@@ -44,7 +44,7 @@ We only have 1 week to get each set of articles done, so only bite off as much a
 
 If you don't have time this week, check back next week... there's plenty of work to be done!
 
-## <span>Tasks</span>
+## Tasks
 
 -   **Basic facts**, such as overview table, syntax, and values. See [basic-facts tasks](/Meta:web_platform_wednesday/js_basic_facts_tasks).
 -   **Explanatory text**, such as the introduction (summary), usage, and notes
@@ -64,7 +64,7 @@ We also ask that you consider keeping a rough estimate of how much time each tas
 
 **Note:** Currently, we are asking contributors *not* to change the information in the **compatibility tables**, since we are working on an automated system that will pull data from CanIUse.com, Quirksmode, MDN, and other reliable sources, and any changes will be lost.
 
-## <span>Coordinator</span>
+## Coordinator
 
 An advisor is assigned to one or more articles as be the point person in charge of making sure the work happens, and reporting on its status. When a contributor express willingness to do a task for an article, the coordinator marks that item as having an assignee, trains the contributor in editing the wiki (if necessary), answers any questions that might arise, follows up to see if the work is being done in a timely way, and ensures that final review is done.
 
@@ -74,6 +74,6 @@ At the end of the work period (the Tuesday before the weekly meeting), the coord
 
 If you are a contributor who has shown yourself to be reliable and have good judgment, we encourage you to become a coordinator yourself. Coordinators get a special badge for their profile available only to the truly dedicated.
 
-## <span>Past Reports</span>
+## Past Reports
 
 [Meta:web\_platform\_wednesday/past\_reports](/Meta:web_platform_wednesday/past_reports)

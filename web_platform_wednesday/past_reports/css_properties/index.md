@@ -3,11 +3,11 @@ title: css properties
 uri: 'Meta:web platform wednesday/past reports/css properties'
 
 ---
-## <span>CSS properties WPW project DONE</span>
+## CSS properties WPW project DONE
 
 **Note**: While some engineering work still needs to be finished for these pages to be final (e.g.: including compatibility information), the content we signed up to do is DONE.
 
-## <span>Welcome to **Web Platform Wednesdays**!</span>
+## Welcome to **Web Platform Wednesdays**!
 
 This is a description of the specific focus we have for each week in our effort to get to **Beta** status for CSS properties by the end of **July 2013**.
 
@@ -15,11 +15,11 @@ If this is your first time contributing in Web Platform Wednesdays, please read 
 
 **To get started, pick a task for an article, and email the [public-webplatform email list](mailto:public-webplatform@w3.org?subject=(WPW)) to reserve that task for yourself!**
 
-## <span>End game!</span>
+## End game!
 
 We're reviewing the properties we've worked on, removing some legacy imported sections, and preparing for compatibility table imports! Please email the [public-webplatform email list](mailto:public-webplatform@w3.org?subject=(WPW)) if you want to participate in this endgame!
 
-## <span>Getting involved</span>
+## Getting involved
 
 If you are interested in contributing to this effort, please pick one or more articles or topics for the current week in the table below. Each week, we will report on the previous week, and note all who have contributed. Contributors to our Beta push will receive a unique “[badge](http://docs.webplatform.org/w/images/a/aa/css-firestarter-badge-simple.png)” for their profile page and website that shows them as one of the CSS Beta Heroes, and a Web Platform sticker; these badges will not be available after the CSS beta push, so people will see that you were one of the special early contributors.
 
@@ -29,18 +29,18 @@ We only have 1 week to get each set of articles done, so only bite off as much a
 
 If you don't have time this week, check back next week... there's plenty of work to be done!
 
-### <span>Video Tutorial</span>
+### Video Tutorial
 
 Watch this 12 minute tutorial to get started with editing CSS properties. It covers some of the fine points as well as do's and don't's.
 
 [![WPW CSS Properties.png](/assets/thumb/b/b0/WPW_CSS_Properties.png/500px-WPW_CSS_Properties.png)](http://www.youtube.com/watch?feature=player_embedded&v=T-rOtfAsHNw)
 [](/File:WPW_CSS_Properties.png)
 
-### <span>CSS properties editing guide</span>
+### CSS properties editing guide
 
 The [CSS properties editing guide](/WPD:CSS_property_guide), mentioned in the video, above, provides information and tips on how to proceed with editing a CSS properties page.
 
-## <span>Tasks</span>
+## Tasks
 
 -   **Basic facts**, such as overview table, syntax, and values
 -   **Explanatory text**, such as the introduction (summary), usage, and notes
@@ -60,7 +60,7 @@ We also ask that you consider keeping a rough estimate of how much time each tas
 
 **Note:** Currently, we are asking contributors *not* to change the information in the **compatibility tables**, since we are working on an automated system that will pull data from CanIUse.com, Quirksmode, MDN, and other reliable sources, and any changes will be lost.
 
-## <span>Coordinator</span>
+## Coordinator
 
 An advisor is assigned to one or more articles as be the point person in charge of making sure the work happens, and reporting on its status. When a contributor express willingness to do a task for an article, the coordinator marks that item as having an assignee, trains the contributor in editing the wiki (if necessary), answers any questions that might arise, follows up to see if the work is being done in a timely way, and ensures that final review is done.
 
@@ -70,7 +70,7 @@ At the end of the work period (the Tuesday before the weekly meeting), the coord
 
 If you are a contributor who has shown yourself to be reliable and have good judgment, we encourage you to become a coordinator yourself. Coordinators get a special badge for their profile available only to the truly dedicated.
 
-## <span>Current Articles</span>
+## Current Articles
 
 Please pick any open task for one of the articles list below, and notify the coordinator by emailing the public-webplatform@w3.org. If the table cell for a task has a user name in it, then that task has already been chosen by someone else, so please pick another.
 
@@ -82,6 +82,6 @@ Some of these articles need to be created, and some need improvements and thorou
 
 Once you're finished your tasks, notify the coordinator by emailing the public-webplatform@w3.org. And don't forget to tweet about it, @webplatform and hashtag \#wpw.
 
-## <span>Past Reports</span>
+## Past Reports
 
 \<subpages /\>

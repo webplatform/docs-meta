@@ -16,7 +16,7 @@ todo_broken_links:
 uri: 'Meta:web platform wednesday/past reports/css properties/2013-October'
 
 ---
-### <span>Stragglers</span>
+### Stragglers
 
 The following table lists those properties that we have left to document within the scope of this project. We're closing in!
 
@@ -36,7 +36,7 @@ Needs review**|||
 |[table-layout](/css/properties/table-layout)|Seattle Doc Sprint|[Julee](/User:Julee)|[tables width-layout](http://www.w3.org/TR/CSS2/tables.html#width-layout)|[Vivienne](/User:Vivienne) - **done**|[Vivienne](/User:Vivienne) - **done**|[Vivienne](/User:Vivienne) - **done**|[Vivienne](/User:Vivienne) - **done**|[Julee](/User:Julee) - **done**||
 |[vertical-align](/css/properties/vertical-align)|Seattle Doc Sprint|text-line properties|[Visual formatting model details](http://www.w3.org/TR/CSS2/visudet.html#propdef-vertical-align)|[Gaodl](/w/index.php?title=User:Gaodl&action=edit&redlink=1) - **done**|[Gaodl](/w/index.php?title=User:Gaodl&action=edit&redlink=1) - **done**|[html5test](/w/index.php?title=User:Html5test&action=edit&redlink=1) - **done**|[Gaodl](/w/index.php?title=User:Gaodl&action=edit&redlink=1) - **done**|[html5test](/w/index.php?title=User:Html5test&action=edit&redlink=1) - **done**||
 
-### <span>Extras</span>
+### Extras
 
 <table class="wikitable sortable">
 <tr>
@@ -1292,7 +1292,7 @@ Seattle Doc Sprint
 </td>
 </tr>
 </table>
-## <span>Amsterdam Doc Sprint</span>
+## Amsterdam Doc Sprint
 
 <table class="wikitable sortable">
 <tr>

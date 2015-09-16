@@ -9,7 +9,7 @@ If you are looking for a task to work on, we ask that you first consider working
 
 If you are not a coordinator, please **do not edit this page**. If you have suggestions for improvements, please make a suggestion on the community mailing list, [public-webplatform@w3.org](mailto:public-webplatform@w3.org?subject=(Masterlist)).
 
-## <span>Weekly Themes</span>
+## Weekly Themes
 
 |Theme Group|Theme Topics|
 |:----------|:-----------|
@@ -26,7 +26,7 @@ If you are not a coordinator, please **do not edit this page**. If you have sugg
 |W|Properties not in the original master list. Doc?|
 |X|Not implemented, we won't doc for now.|
 
-## <span>Master List</span>
+## Master List
 
 This is the list of all CSS properties that are not yet done.
 

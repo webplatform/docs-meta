@@ -11,7 +11,7 @@ uri: 'Meta:web platform wednesday/2013-05-15'
 
 If you are not a coordinator, please **do not edit this page**. If you want to commit to a task, please contact the coordinator on the community mailing list, [public-webplatform@w3.org](mailto:public-webplatform@w3.org?subject=(WPW)).
 
-## <span>Border-image properties</span>
+## Border-image properties
 
 **Coordinator:** [Doug Schepers](/User:Shepazu)
 
@@ -24,7 +24,7 @@ If you are not a coordinator, please **do not edit this page**. If you want to c
 |[border-image-source](/css/properties/border-image-source)|border-image properties|<http://www.w3.org/TR/css3-background/#border-images>|[Hiroki](/User:Hiroki)|[Hiroki](/User:Hiroki)|[Hiroki](/User:Hiroki)|[Hiroki](/User:Hiroki)|[Shepazu](/User:Shepazu)||
 |[border-image-width](/css/properties/border-image-width)|border-image properties|<http://www.w3.org/TR/css3-background/#border-images>|[Hiroki](/User:Hiroki)|[Hiroki](/User:Hiroki)|[Hiroki](/User:Hiroki)|[Hiroki](/User:Hiroki)|[Shepazu](/User:Shepazu)||
 
-## <span>Break and flow properties</span>
+## Break and flow properties
 
 **Coordinator:** [Julee](/User:Julee)
 
@@ -36,7 +36,7 @@ If you are not a coordinator, please **do not edit this page**. If you want to c
 |[flow-from](/css/properties/flow-from)|Break and flow properties|<http://dev.w3.org/csswg/css-regions/>|Done: [Sierra](/User:Sierra)|Done: [Sierra](/User:Sierra)|Done: [Sierra](/User:Sierra)|Done: [Sierra](/User:Sierra)|Done: [Julee](/User:Julee)||
 |[flow-into](/css/properties/flow-into)|Break and flow properties|<http://dev.w3.org/csswg/css-regions/>|Done: [Sierra](/User:Sierra)|Done: [Sierra](/User:Sierra)|Done: [Sierra](/User:Sierra)|Done: [Sierra](/User:Sierra)|Done: [Julee](/User:Julee)||
 
-## <span>Font properties</span>
+## Font properties
 
 **Coordinator:** [Chris Mills](/User:Cmills)
 
@@ -53,7 +53,7 @@ Note: there are a number of properties in the CSS Fonts module Level 3 that are 
 |[font-variant](/css/properties/font-variant)|Font properties|<http://www.w3.org/TR/css3-fonts/>|||||||
 |[font-weight](/css/properties/font-weight)|Font properties|<http://www.w3.org/TR/css3-fonts/>|||||||
 
-## <span>List-style properties</span>
+## List-style properties
 
 **Coordinator:** [Eliot Graff](/User:Eliot-MSFT)
 

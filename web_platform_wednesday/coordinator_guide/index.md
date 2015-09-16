@@ -9,14 +9,14 @@ uri: 'Meta:web platform wednesday/coordinator guide'
 ---
 **Note:** The **review** task should not be assigned to the same person assigned to any other task for this article.
 
-## <span>Dashboard Page</span>
+## Dashboard Page
 
 |Article|Coordinator|Details|Basic facts|Explanatory text|Examples|Links|Review|
 |:------|:----------|:------|:----------|:---------------|:-------|:----|:-----|
 |*article name*|*name of person facilitating and verifying article*|*link to coordination page with current article contributors*|*checkmark if task is assigned*|*checkmark if task is assigned*|*checkmark if task is assigned*|*checkmark if task is assigned*|*checkmark if task is assigned*|
 |[foo](/w/index.php?title=foo&action=edit&redlink=1)|*name of and profile link of person facilitating and verifying article*|*link to coordination page with current article contributors*|✓||✓|✓||
 
-## <span>Detail Report Page</span>
+## Detail Report Page
 
 For each task of an article, at the end of the week, include the final status and time taken.
 

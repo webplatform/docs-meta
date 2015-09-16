@@ -10,7 +10,7 @@ todo_broken_links:
 uri: 'Meta:web platform wednesday/past reports/css properties/2013-August'
 
 ---
-## <span>21 August 2013 - Week J</span>
+## 21 August 2013 - Week J
 
 |Article Name|Coordinator|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
 |:-----------|:----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
@@ -94,7 +94,7 @@ uri: 'Meta:web platform wednesday/past reports/css properties/2013-August'
 Needs review**||[Rishabhsrao](/User:Rishabhsrao)
 **DONE**||||
 
-## <span>14 August 2013 Week I</span>
+## 14 August 2013 Week I
 
 |Article Name|Coordinator|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
 |:-----------|:----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
@@ -246,7 +246,7 @@ Needs review**|||
 **In progress**|[Dave Gash](/User:Dgash)
 **In progress**|||duplicate - pickup|
 
-## <span>07 Aug 2013 (Week H)</span>
+## 07 Aug 2013 (Week H)
 
 |Article Name|Coordinator|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
 |:-----------|:----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|

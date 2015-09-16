@@ -3,9 +3,9 @@ title: Examples
 uri: 'Meta:Editors Guide/Topic Hierarchy/Topic Clusters/Examples'
 
 ---
-## <span>SitePoint</span>
+## SitePoint
 
-### <span>CSS</span>
+### CSS
 
 [SitePoint's CSS Reference](http://reference.sitepoint.com/css) has an excellent and logical topic cluster for CSS:
 
@@ -183,7 +183,7 @@ uri: 'Meta:Editors Guide/Topic Hierarchy/Topic Clusters/Examples'
     -   @font-face
     -   @namespace
 
-### <span>HTML</span>
+### HTML
 
 [SitePoint's HTML Reference](http://reference.sitepoint.com/HTML) also has an a logical topic cluster for HTML:
 

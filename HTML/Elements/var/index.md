@@ -63,7 +63,7 @@ uri: 'Meta:HTML/Elements/var'
 ---
 **Needs Summary**: This article does not have a summary. Summaries give a brief overview of the topic and are automatically included on some listing pages that link to this article.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [?](/w/index.php?title=%3F&action=edit&redlink=1)
@@ -111,21 +111,21 @@ uri: 'Meta:HTML/Elements/var'
         -   [xmp](/w/index.php?title=HTML/Elements/xmp&action=edit&redlink=1)
         -   [nextid](/w/index.php?title=HTML/Elements/nextid&action=edit&redlink=1)
 
-# <span>\<var\></span>
+# \<var\>
 
 The \<var\> element represents a variable.
 
-## <span>Point</span>
+## Point
 
 -   This element could be an actual variable in a mathematical expression or programming context.
 
-## <span>HTML Attributes</span>
+## HTML Attributes
 
 See [global attributes](/w/index.php?title=HTML/Attributes/_Global&action=edit&redlink=1).
 
-## <span>Examples</span>
+## Examples
 
-### <span>Example A</span>
+### Example A
 
 In the paragraph below, the letter "n" is being used as a variable in prose [try it]:
 
@@ -135,7 +135,7 @@ In the paragraph below, the letter "n" is being used as a variable in prose [try
 
 [File:Var01.png](/w/index.php?title=Special:Upload&wpDestFile=Var01.png)
 
-### <span>Example B</span>
+### Example B
 
 In this example, an equation is shown, with a legend that references the variables in the equation. The expression itself is marked up with MathML, but the variables are mentioned in the figure's legend using a var element [try it]:
 
@@ -157,7 +157,7 @@ In this example, an equation is shown, with a legend that references the variabl
 
 [File:Var02.png](/w/index.php?title=Special:Upload&wpDestFile=Var02.png)
 
-## <span>HTML Reference</span>
+## HTML Reference
 
 The HTML5 specification defines the \<var\> element in [4.6.12 The var element](http://www.w3.org/TR/html5/text-level-semantics.html#the-var-element).
 

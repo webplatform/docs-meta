@@ -3,7 +3,7 @@ title: past reports
 uri: 'Meta:web platform wednesday/past reports'
 
 ---
-## <span>Web Platform Wednesdays Past Reports</span>
+## Web Platform Wednesdays Past Reports
 
 -   [css properties](/Meta:web_platform_wednesday/past_reports/css_properties)
     -   [2013-August](/Meta:web_platform_wednesday/past_reports/css_properties/2013-August)

@@ -74,45 +74,45 @@ uri: 'Meta:javascript/pt-br'
 ---
 **Merge Candidate**: This page is a candidate for merge with the following pages: [[[1]](http://docs.webplatform.org/wiki/javascript/pt-br)]
 
-## <span>Sumário</span>
+## Sumário
 
 JavaScript é a linguagem de script da Web, que nos permite implementar todo tipo de recursos dinâmicos poderosos.
 
 Mas a utilização do JavaScript não está limitada internamente aos navegadores. Você pode utilizar o ambiente de console com o [Rhino](https://developer.mozilla.org/en-US/docs/Rhino) ou o ambiente de servidor com o [node.js](http://nodejs.org).
 
-## <span>Explore nossa documentação JavaScript</span>
+## Explore nossa documentação JavaScript
 
-### <span>[Material de aprendizado JavaScript](/w/index.php?title=javascript/tutorials&action=edit&redlink=1)</span>
+### [Material de aprendizado JavaScript](/w/index.php?title=javascript/tutorials&action=edit&redlink=1)
 
 Tutoriais e artigos com conceitos para ensinar à você JavaScript do começo ao fim.
 
-### <span>[Recursos da linguagem](/w/index.php?title=javascript/tutorials&action=edit&redlink=1)</span>
+### [Recursos da linguagem](/w/index.php?title=javascript/tutorials&action=edit&redlink=1)
 
 Um guia de referência para os fundamentos da linguagem JavaScript, incluindo um suporte de alto nível do navegador para diferentes versões da linguagem, tipos de dados, declarações e operadores..
 
-### <span>[Funções](/javascript/functions)</span>
+### [Funções](/javascript/functions)
 
 Um guia de referência para todas as funções disponíveis nativamente para JavaScript.
 
-### <span>[Objetos](/javascript/objects)</span>
+### [Objetos](/javascript/objects)
 
 Um guia de referência para todos os objetos nativos do JavaScript.
 
-### <span>[Eventos](/events)</span>
+### [Eventos](/events)
 
 Um guia de referência para os diferentes eventos disponíveis em JavaScript.
 
-### <span>[Bibliotecas](/w/index.php?title=javascript/libraries&action=edit&redlink=1)</span>
+### [Bibliotecas](/w/index.php?title=javascript/libraries&action=edit&redlink=1)
 
 Um guia de referência para diferentes bibliotecas JavaScript de terceiros disponíveis para modelagem, detecção de recursos, funcionalidades entre navegadores e mais.
 
-### <span>[Expressões regulares](/concepts/programming/javascript/regex)</span>
+### [Expressões regulares](/concepts/programming/javascript/regex)
 
 Um guia de referência para as expressões regulares disponíveis em JavaScript.
 
  Nota: Se você é completamente novo em desenvolvimento web, você pode querer dar uma olhada nos [Tutoriais para Iniciantes em JavaScript](http://www.afterhoursprogramming.com/tutorial/JavaScript/Overview/).
 
-## <span>Plano de Fundo</span>
+## Plano de Fundo
 
 JavaScript é a linguagem de script da web, permitindo à você adicionar comportamentos dinâmicos aos documentos web. Ela foi usada originalmente para simples manipulação do DOM, troca de estilos e efeitos animados, mas recentemente ela tornou-se mais poderosa, com o advento de APIs poderosas para a especificação HTML5 e a popularização de bibliotecas e aplicações de terceiros como jQuery, Node.js e Backbone.js.
 
@@ -120,7 +120,7 @@ JavaScript é a linguagem de script da web, permitindo à você adicionar compor
 -   Versão atual: JavaScript é baseada na especificação do ECMAScript, publicada pela Ecma international. [ECMAScript versão 5.1](http://www.ecma-international.org/ecma-262/5.1/) é vista como a versão estável.
 -   Trabalho atual e futuro: Atualmente, está sendo trabalhado na ECMAScript versão 6, mas o desenvolvimento do JavaScript vai muito além. Há novas APIs sendo feitas todo o tempo, em lugares como [Grupo de trabalho da W3C HTML](http://www.w3.org/html/wg/) e as novas bibliotecas JavaScript aparecerão todo o tempo, em lugares como o [Github](https://github.com/).
 
-## <span>Contribuindo para a tecnologia JavaScript</span>
+## Contribuindo para a tecnologia JavaScript
 
 <http://www.ecmascript.org/dev.php>
 
@@ -128,7 +128,7 @@ A padronização da linguagem ECMAScript é feita pela ECMA TC39, e é chamada d
 
 Para contribuiar com outras tecnologias relacionadas a JavaScript, como HTML, jQuery e outras bibliotecas e frameworks de terceiros, procure pelo grupo, time ou desenvolvedores apropriados!
 
-## <span>Índice de todos os tópicos sobre JavaScript</span>
+## Índice de todos os tópicos sobre JavaScript
 
 ||
 |[javascript/Array](/javascript/Array)|[javascript/Array/concat](/javascript/Array/concat)|[javascript/Array/constructor](/javascript/Array/constructor)|

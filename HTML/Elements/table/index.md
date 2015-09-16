@@ -34,7 +34,7 @@ uri: 'Meta:HTML/Elements/table'
 ---
 **Needs Summary**: This article does not have a summary. Summaries give a brief overview of the topic and are automatically included on some listing pages that link to this article.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [?](/w/index.php?title=%3F&action=edit&redlink=1)
@@ -52,25 +52,25 @@ uri: 'Meta:HTML/Elements/table'
         -   [td](/w/index.php?title=HTML/Elements/td&action=edit&redlink=1)
         -   [th](/w/index.php?title=HTML/Elements/th&action=edit&redlink=1)
 
-# <span>\<table\></span>
+# \<table\>
 
 The \<table\> element represents data with more than one dimension, in the form of a table.
 
-## <span>Point</span>
+## Point
 
 -   Tables must not be used as layout aids. There are a variety of alternatives to using HTML tables for layout, primarily using CSS positioning and the CSS table model.
 -   Users might have difficulty understanding the content, authors should include explanatory information introducing the table. This information is useful for all users, but is especially useful for users who cannot see the table, e.g. users of screen readers.[[Example B]](#Example_B)
 -   Tables have rows and columns given by their descendants. A table must not have an empty row or column.
 
-## <span>HTML Attributes</span>
+## HTML Attributes
 
 -   `summary` = explanatory information introducing the table
 
 See also [global attributes](/w/index.php?title=HTML/Attributes/_Global&action=edit&redlink=1).
 
-## <span>Examples</span>
+## Examples
 
-### <span>Example A</span>
+### Example A
 
 [try it]:
 
@@ -99,7 +99,7 @@ See also [global attributes](/w/index.php?title=HTML/Attributes/_Global&action=e
 
 [File:Table01.png](/w/index.php?title=Special:Upload&wpDestFile=Table01.png)
 
-### <span>Example B</span>
+### Example B
 
 The following example is including explanatory information introducing the table by next to the table in the same figure [try it]:
 
@@ -132,11 +132,11 @@ The following example is including explanatory information introducing the table
 
 [File:Table02.png](/w/index.php?title=Special:Upload&wpDestFile=Table02.png)
 
-## <span>HTML Reference</span>
+## HTML Reference
 
 The HTML5 specification defines the \<table\> element in [4.9.1 The table element](http://www.w3.org/TR/html5/tabular-data.html#the-table-element).
 
-## <span>See also</span>
+## See also
 
 -   [HTML tables](/w/index.php?title=HTML_tables&action=edit&redlink=1)
 

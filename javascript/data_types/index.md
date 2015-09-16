@@ -8,13 +8,13 @@ tags:
 uri: 'Meta:javascript/data types'
 
 ---
-## <span>Summary</span>
+## Summary
 
 Index page for JavaScript data types
 
 **Merge Candidate**: This page is a candidate for merge with the following pages:
 
-## <span>Introduction</span>
+## Introduction
 
 Unlike other programming languages every thing in JavaScript is a object, this includes arrays(lists), functions, strings, and numbers. There are 6 types defined by ECMAScript: `Undefined`, `Null`, `Boolean`, `String`, `Number` and `Object`.
 

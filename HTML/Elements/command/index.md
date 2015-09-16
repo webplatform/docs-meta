@@ -19,20 +19,20 @@ uri: 'Meta:HTML/Elements/command'
 ---
 **Needs Summary**: This article does not have a summary. Summaries give a brief overview of the topic and are automatically included on some listing pages that link to this article.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [[|]]
 
-# <span>\<command\></span>
+# \<command\>
 
 The \<command\> element represents a command that the user can invoke.
 
-## <span>Point</span>
+## Point
 
 -   A command can be part of a context menu or toolbar, using the menu element, or can be put anywhere else in the page, to define a keyboard shortcut.
 
-## <span>HTML Attributes</span>
+## HTML Attributes
 
 -   `type` = command/ checkbox/ radio
     Indicates the kind of command:
@@ -64,9 +64,9 @@ The \<command\> element represents a command that the user can invoke.
 
 Also, the title attribute has special semantics on this element.
 
-## <span>Examples</span>
+## Examples
 
-### <span>Example A</span>
+### Example A
 
 [try it]:
 
@@ -82,7 +82,7 @@ Also, the title attribute has special semantics on this element.
               label="Publish" icon="icons/pub.png" onclick="publish()">
     </menu>
 
-## <span>HTML Reference</span>
+## HTML Reference
 
 The HTML5 specification defines the \<command\> element in [4.12.3 The command element](http://www.w3.org/TR/html5/interactive-elements.html#the-command-element).
 

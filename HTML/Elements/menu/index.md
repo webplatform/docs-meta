@@ -27,7 +27,7 @@ uri: 'Meta:HTML/Elements/menu'
 ---
 **Needs Summary**: This article does not have a summary. Summaries give a brief overview of the topic and are automatically included on some listing pages that link to this article.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [?](/w/index.php?title=%3F&action=edit&redlink=1)
@@ -39,11 +39,11 @@ uri: 'Meta:HTML/Elements/menu'
         -   [command](/w/index.php?title=HTML/Elements/command&action=edit&redlink=1)
         -   [menu](/w/index.php?title=HTML/Elements/menu&action=edit&redlink=1)
 
-# <span>\<menu\></span>
+# \<menu\>
 
 The \<menu\> element represents a list of commands.
 
-## <span>HTML Attributes</span>
+## HTML Attributes
 
 -   `type` = context/ toolbar/ list
     Indicates the kind of menu being declared:
@@ -59,9 +59,9 @@ The \<menu\> element represents a list of commands.
 
  See also [global attributes](/w/index.php?title=HTML/Attributes/_Global&action=edit&redlink=1).
 
-## <span>Examples</span>
+## Examples
 
-### <span>Example A</span>
+### Example A
 
 For example, the following represents a toolbar with three menu buttons on it, each of which has a dropdown menu with a series of options [try it]:
 
@@ -91,7 +91,7 @@ For example, the following represents a toolbar with three menu buttons on it, e
 
 [File:Menu01.png](/w/index.php?title=Special:Upload&wpDestFile=Menu01.png)
 
-### <span>Example B</span>
+### Example B
 
 Here is an example of a context menu for an input control [try it]:
 
@@ -105,7 +105,7 @@ Here is an example of a context menu for an input control [try it]:
        </menu>
     </form>
 
-## <span>HTML Reference</span>
+## HTML Reference
 
 The HTML5 specification defines the \<menu\> element in [4.12.4 The menu element](http://www.w3.org/TR/html5/interactive-elements.html#the-menu-element).
 

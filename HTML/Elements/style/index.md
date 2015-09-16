@@ -30,11 +30,11 @@ todo_broken_links:
 uri: 'Meta:HTML/Elements/style'
 
 ---
-## <span>Summary</span>
+## Summary
 
 Style element contains style information for a document. Style information should go inside of this element, usually in the CSS language.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [HTMLStyleElement](/dom/HTMLStyleElement)
@@ -51,11 +51,11 @@ Style element contains style information for a document. Style information shoul
         -   [meta](/w/index.php?title=HTML/Elements/meta&action=edit&redlink=1)
         -   [style](/w/index.php?title=HTML/Elements/style&action=edit&redlink=1)
 
-# <span>\<style\></span>
+# \<style\>
 
 The \<style\> element allows authors to embed style information in their documents.
 
-## <span>HTML Attributes</span>
+## HTML Attributes
 
 -   `media` = media-query list
     Specifies which media the styles apply to.
@@ -73,9 +73,9 @@ The \<style\> element allows authors to embed style information in their documen
 
  See also [global attributes](/w/index.php?title=HTML/Attributes/_Global&action=edit&redlink=1).
 
-## <span>Example</span>
+## Example
 
-### <span>Example A</span>
+### Example A
 
 The following document has its emphasis styled as bright red text rather than italics text, while leaving titles of works and Latin words in their default italics. It shows how using appropriate elements enables easier restyling of documents. [try it]:
 
@@ -98,7 +98,7 @@ The following document has its emphasis styled as bright red text rather than it
 
 [File:Style01.png](/w/index.php?title=Special:Upload&wpDestFile=Style01.png)
 
-### <span>Example B</span>
+### Example B
 
 In the following example, the style element influences only a p element in section element. [try it]:
 
@@ -128,7 +128,7 @@ The following example is use to present markup to user agents that don't support
 
 [File:Style03.png](/w/index.php?title=Special:Upload&wpDestFile=Style03.png)
 
-## <span>HTML Reference</span>
+## HTML Reference
 
 The HTML5 specification defines the \<style\> element in [4.2.6 The style element](http://www.w3.org/TR/html5/semantics.html#the-style-element).
 

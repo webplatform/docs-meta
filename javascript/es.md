@@ -74,43 +74,43 @@ uri: 'Meta:javascript/es'
 ---
 **Merge Candidate**: This page is a candidate for merge with the following pages: [[[1]](http://docs.webplatform.org/wiki/javascript/es)]
 
-## <span>Resumen</span>
+## Resumen
 
 JavaScript es el lenguaje de programación de la web que nos permite implementar todo tipo de poderosas características dinámicas.
 
-## <span>Explora nuestros documentos sobre JavaScript</span>
+## Explora nuestros documentos sobre JavaScript
 
-### <span>[Material didáctico de JavaScript](/w/index.php?title=javascript/tutorials&action=edit&redlink=1)</span>
+### [Material didáctico de JavaScript](/w/index.php?title=javascript/tutorials&action=edit&redlink=1)
 
 Tutoriales y artículos didácticos para que aprendas JavaScript desde la base.
 
-### <span>[Características del lenguaje](/w/index.php?title=javascript/tutorials&action=edit&redlink=1)</span>
+### [Características del lenguaje](/w/index.php?title=javascript/tutorials&action=edit&redlink=1)
 
 Una guía de referencia de los fundamentos del lenguaje JavaScript, incluyendo el soporte de navegadores de alto nivel para las diferentes versiones del lenguaje, tipos de datos, instrucciones y operadores.
 
-### <span>[Funciones](/javascript/functions)</span>
+### [Funciones](/javascript/functions)
 
 Una guía de referencia de todas las funciones disponibles de manera nativa en JavaScript.
 
-### <span>[Objetos](/javascript/objects)</span>
+### [Objetos](/javascript/objects)
 
 Una guía de referencia de todos los objetos nativos de JavaScript.
 
-### <span>[Eventos](/events)</span>
+### [Eventos](/events)
 
 Una guía de referencia de los diferentes eventos disponibles en JavaScript.
 
-### <span>[Bibliotecas](/w/index.php?title=javascript/libraries&action=edit&redlink=1)</span>
+### [Bibliotecas](/w/index.php?title=javascript/libraries&action=edit&redlink=1)
 
 Una guía de referencia de las diferentes bibliotecas de Javascript de terceros disponibles para la creación de plantillas, detección de características, funcionalidades multi-navegador y más.
 
-### <span>[Expresiones regulares](/concepts/programming/javascript/regex)</span>
+### [Expresiones regulares](/concepts/programming/javascript/regex)
 
 Una guía de referencia de las expresiones regulares disponibles en JavaScript.
 
  Nota: Si eres completamente nuevo en el desarrollo web, puede que desees revisar [Tutoriales de Javascript para principiantes](http://www.afterhoursprogramming.com/tutorial/JavaScript/Overview/).
 
-## <span>Antecedentes</span>
+## Antecedentes
 
 JavaScript es el lenguaje de programación de la web que nos permite añadir comportamiento dinámico a los documentos web. Fue utilizado originalmente para la manipulación simple del DOM, el cambio de estilos y efectos de animación, pero en los últimos tiempos se ha convertido en mucho más con la llegada de potentes APIs a través de la especificación de HTML5 y la popularidad de bibliotecas y aplicaciones de terceros como jQuery, Node.js y Backbone.js.
 
@@ -118,7 +118,7 @@ JavaScript es el lenguaje de programación de la web que nos permite añadir com
 -   La versión estable actual: JavaScript se basa en la especificación ECMAScript publicada por Ecma internacional. La [versión 5.1 de ECMAScript](http://www.ecma-international.org/ecma-262/5.1/) es vista como la versión estable actual.
 -   El trabajo actual y futuro: Actualmente se está trabajando en la versión 6 de ECMAScript, pero el desarrollo de JavaScript va mucho más allá de eso. Hay nuevas APIs en las que se está trabajando todo el tiempo en lugares como el [Grupo de trabajo del HTML del W3C](http://www.w3.org/html/wg/) y continuamente aparecen nuevas bibliotecas de JavaScript en lugares como [Github](https://github.com/).
 
-## <span>Contribuir con la tecnología JavaScript</span>
+## Contribuir con la tecnología JavaScript
 
 <http://www.ecmascript.org/dev.php>
 
@@ -126,7 +126,7 @@ La estandarización del lenguaje ECMAScript es conducida por la ECMA TC39 y se c
 
  Para contribuir con otras tecnologías relacionadas al JavaScript como HTML5, jQuery y otras bibliotecas y entornos de terceros, ¡busca al grupo de trabajo correspondiente, el equipo principal de desarrollo o a otros desarrolladores!.
 
-## <span>Indice de todos los temas de JavaScript</span>
+## Indice de todos los temas de JavaScript
 
 ||
 |[javascript/Array](/javascript/Array)|[javascript/Array/concat](/javascript/Array/concat)|[javascript/Array/constructor](/javascript/Array/constructor)|

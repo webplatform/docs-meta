@@ -22,7 +22,7 @@ uri: 'Meta:HTML/Elements/summary'
 ---
 **Needs Summary**: This article does not have a summary. Summaries give a brief overview of the topic and are automatically included on some listing pages that link to this article.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [?](/w/index.php?title=%3F&action=edit&redlink=1)
@@ -34,17 +34,17 @@ uri: 'Meta:HTML/Elements/summary'
         -   [command](/w/index.php?title=HTML/Elements/command&action=edit&redlink=1)
         -   [menu](/w/index.php?title=HTML/Elements/menu&action=edit&redlink=1)
 
-# <span>\<summary\></span>
+# \<summary\>
 
 The \<summary\> element represents a summary, caption, or legend for the rest of the contents of the summary element's parent details element, if any.
 
-## <span>HTML Attributes</span>
+## HTML Attributes
 
 See [global attributes](/w/index.php?title=HTML/Attributes/_Global&action=edit&redlink=1).
 
-## <span>Examples</span>
+## Examples
 
-### <span>Example A</span>
+### Example A
 
 [try it]:
 
@@ -54,7 +54,7 @@ See [global attributes](/w/index.php?title=HTML/Attributes/_Global&action=edit&r
       <p><label><input type=checkbox name=ext checked> Hide extension</label>
     </details>
 
-## <span>HTML Reference</span>
+## HTML Reference
 
 The HTML5 specification defines the \<summary\> element in [4.12.2 The summary element](http://www.w3.org/TR/html5/interactive-elements.html#the-summary-element).
 

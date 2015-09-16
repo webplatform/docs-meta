@@ -9,15 +9,15 @@ uri: 'Meta:javascript/objects/Date'
 ---
 **Merge Candidate**: This page is a candidate for merge with the following pages: [[[1]](http://docs.webplatform.org/wiki/javascript/objects/Date)]
 
-## <span>Summary</span>
+## Summary
 
 Holds dates.
 
-## <span>Syntax</span>
+## Syntax
 
 ` new Date(); new Date(string);`
 
-## <span>Parameters</span>
+## Parameters
 
 `date <string>`
 :   A date in a format recognised by the date.parse() method.
@@ -34,15 +34,15 @@ Holds dates.
 :   Second, integer representing second of minute.
 :   Millisecond, integer representing millisecond of second.
 
-## <span>Properties</span>
+## Properties
 
 `property 1`
 :   Description...
 
-## <span>Functions</span>
+## Functions
 
-## <span>Methods</span>
+## Methods
 
-## <span>Description/Remarks</span>
+## Description/Remarks
 
 General text.

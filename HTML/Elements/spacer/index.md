@@ -57,7 +57,7 @@ uri: 'Meta:HTML/Elements/spacer'
 ---
 **Needs Summary**: This article does not have a summary. Summaries give a brief overview of the topic and are automatically included on some listing pages that link to this article.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [?](/w/index.php?title=%3F&action=edit&redlink=1)
@@ -105,15 +105,15 @@ uri: 'Meta:HTML/Elements/spacer'
         -   [xmp](/w/index.php?title=HTML/Elements/xmp&action=edit&redlink=1)
         -   [nextid](/w/index.php?title=HTML/Elements/nextid&action=edit&redlink=1)
 
-# <span>\<spacer\></span>
+# \<spacer\>
 
-## <span>HTML Reference</span>
+## HTML Reference
 
 The \<spacer\> element is a non-standard element.
 
 HTML5 classifies it as a [non-conforming feature](http://www.w3.org/TR/html5/obsolete.html#obsolete).
 
-## <span>Examples</span>
+## Examples
 
 No, really. don't use it.
 

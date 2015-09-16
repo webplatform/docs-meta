@@ -37,7 +37,7 @@ uri: 'Meta:HTML/Elements/track'
 ---
 **Needs Summary**: This article does not have a summary. Summaries give a brief overview of the topic and are automatically included on some listing pages that link to this article.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [?](/w/index.php?title=%3F&action=edit&redlink=1)
@@ -66,11 +66,11 @@ uri: 'Meta:HTML/Elements/track'
         -   [noembed](/w/index.php?title=HTML/Elements/noembed&action=edit&redlink=1)
         -   [plaintext](/w/index.php?title=HTML/Elements/plaintext&action=edit&redlink=1)
 
-# <span>\<track\></span>
+# \<track\>
 
 The \<track\> element allows authors to specify explicit external timed tracks for media elements. It does not represent anything on its own.
 
-## <span>HTML Attributes</span>
+## HTML Attributes
 
 -   `kind` = subtitles/ captions/ descriptions/ chapters/ metadata
     -   `subtitles`

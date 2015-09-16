@@ -38,7 +38,7 @@ uri: 'Meta:HTML/Elements/meter'
 ---
 **Needs Summary**: This article does not have a summary. Summaries give a brief overview of the topic and are automatically included on some listing pages that link to this article.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [?](/w/index.php?title=%3F&action=edit&redlink=1)
@@ -61,11 +61,11 @@ uri: 'Meta:HTML/Elements/meter'
         -   [progress](/w/index.php?title=HTML/Elements/progress&action=edit&redlink=1)
         -   [meter](/w/index.php?title=HTML/Elements/meter&action=edit&redlink=1)
 
-# <span>\<meter\></span>
+# \<meter\>
 
 The \<meter\> element represents a scalar measurement within a known range, or a fractional value.
 
-## <span>Point</span>
+## Point
 
 -   Example of meter:
     -   disk usage
@@ -78,7 +78,7 @@ The \<meter\> element represents a scalar measurement within a known range, or a
 
 -   Authors are encouraged to include a textual representation of the gauge's state in the element's contents, for users of user agents that do not support the meter element.
 
-## <span>HTML Attributes</span>
+## HTML Attributes
 
 -   `value` = valid floating point numbers
     Specifies the value to have the gauge indicate as the "measured" value.
@@ -104,9 +104,9 @@ The \<meter\> element represents a scalar measurement within a known range, or a
 
  See also [global attributes](/w/index.php?title=HTML/Attributes/_Global&action=edit&redlink=1).
 
-## <span>Examples</span>
+## Examples
 
-### <span>Example A</span>
+### Example A
 
 The following examples show three gauges that would all be three-quarters full [try it]:
 
@@ -116,7 +116,7 @@ The following examples show three gauges that would all be three-quarters full [
 
 [File:Meter01.png](/w/index.php?title=Special:Upload&wpDestFile=Meter01.png)
 
-### <span>Example B</span>
+### Example B
 
 There is no explicit way to specify units in the meter element, but the units may be specified in the title attribute in free-form text [try it]:
 
@@ -125,7 +125,7 @@ There is no explicit way to specify units in the meter element, but the units ma
       <dt>Height: <dd> <meter min=0 max=10 value=2 title="centimeters">2cm</meter>
     </dl>
 
-### <span><span style="color:#9c0037;">Example of bad usage</span></span>
+### <span style="color:#9c0037;">Example of bad usage</span>
 
 The following example is incorrect use of the element, because it doesn't give a range (and since the default maximum is 1, both of the gauges would end up looking maxed out)
 
@@ -135,7 +135,7 @@ The following example is incorrect use of the element, because it doesn't give a
 and a height of <meter value=2>2cm</meter>.</p>
 ```
 
-## <span>HTML Reference</span>
+## HTML Reference
 
 The HTML5 specification defines the \<meter\> element in [4.10.17 The meter element](http://www.w3.org/TR/html5/the-button-element.html#the-meter-element).
 

@@ -12,7 +12,7 @@ todo_broken_links:
 uri: 'Meta:web platform wednesday/past reports/css properties/2013-June'
 
 ---
-### <span>28 June 2013</span>
+### 28 June 2013
 
 This is really a set of properties that were done throughout this project, but somehow did not get updated. I've reviewed all pages for cleared flags, examples, and so on, and found the pages to be sufficient.
 
@@ -59,7 +59,7 @@ This is really a set of properties that were done throughout this project, but s
 |writing-mode|[Julee](/User:Julee)||<http://dev.w3.org/csswg/css3-writing-modes/>|**DONE!**|**DONE!**|**DONE!**|**DONE!**|[Julee](/User:Julee)
 **DONE!**|Sufficiently worked on to report as Done.|
 
-### <span>21 June 2013 Seattle Doc Sprint</span>
+### 21 June 2013 Seattle Doc Sprint
 
 All topics edited should be reviewed as a buddy-check to ensure completeness.
 
@@ -764,7 +764,7 @@ All topics edited should be reviewed as a buddy-check to ensure completeness.
 </tbody>
 </table>
 
-### <span>19 June 2013</span>
+### 19 June 2013
 
 Text, shapes, and exclusions (text shapes)
 
@@ -1475,11 +1475,11 @@ Seattle Doc Sprint
 </td>
 </tr>
 </table>
-### <span>05 June 2013</span>
+### 05 June 2013
 
 **Note**: Examples flash! This week, we're going to ask contributors to go back over the properties we've done thus far. Work up some examples, get your twitter followers to scour the web for the best tuts, and add those examples and links to those tuts to the property page.
 
-#### <span>Examples flash</span>
+#### Examples flash
 
 Let's get the best examples for each property!
 
@@ -1493,7 +1493,7 @@ On Twitter, tweet something like: "Working on \#CSS Flex examples @webplatform f
 
 4. Let us know you're done @webplatform on Twitter or email public-webplatform@w3.org.
 
-#### <span>Catch up!</span>
+#### Catch up!
 
 Also, it's time to play catch-up. Here are some of the properties from previous weeks that we'll make sure are completed:
 
@@ -1682,7 +1682,7 @@ Also, it's time to play catch-up. Here are some of the properties from previous 
 </tbody>
 </table>
 
-### <span>12 June 2013</span>
+### 12 June 2013
 
 Text properties
 

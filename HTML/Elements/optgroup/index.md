@@ -33,7 +33,7 @@ uri: 'Meta:HTML/Elements/optgroup'
 ---
 **Needs Summary**: This article does not have a summary. Summaries give a brief overview of the topic and are automatically included on some listing pages that link to this article.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [?](/w/index.php?title=%3F&action=edit&redlink=1)
@@ -56,15 +56,15 @@ uri: 'Meta:HTML/Elements/optgroup'
         -   [progress](/w/index.php?title=HTML/Elements/progress&action=edit&redlink=1)
         -   [meter](/w/index.php?title=HTML/Elements/meter&action=edit&redlink=1)
 
-# <span>\<optgroup\></span>
+# \<optgroup\>
 
 The \<optgroup\> element represents a group of option elements with a common label.
 
-## <span>Point</span>
+## Point
 
 -   The label attribute must be specified. [[Example A]](#Example_A)
 
-## <span>HTML Attributes</span>
+## HTML Attributes
 
 -   `disabled` = boolean
     if present, disable a group of option elements together.
@@ -74,9 +74,9 @@ The \<optgroup\> element represents a group of option elements with a common lab
 
  See [global attributes](/w/index.php?title=HTML/Attributes/_Global&action=edit&redlink=1).
 
-## <span>Examples</span>
+## Examples
 
-### <span>Example A</span>
+### Example A
 
 [try it]:
 
@@ -104,7 +104,7 @@ The \<optgroup\> element represents a group of option elements with a common lab
       <p><input type=submit value="▶ Play">
     </form>
 
-## <span>HTML Reference</span>
+## HTML Reference
 
 The HTML5 specification defines the \<optgroup\> element in [4.10.11 The optgroup element](http://www.w3.org/TR/html5/the-button-element.html#the-optgroup-element).
 

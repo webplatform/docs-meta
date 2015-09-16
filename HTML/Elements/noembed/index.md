@@ -38,7 +38,7 @@ uri: 'Meta:HTML/Elements/noembed'
 ---
 **Needs Summary**: This article does not have a summary. Summaries give a brief overview of the topic and are automatically included on some listing pages that link to this article.
 
-## <span>Overview Table</span>
+## Overview Table
 
 [DOM Interface](/dom/interface)
 :   [?](/w/index.php?title=%3F&action=edit&redlink=1)
@@ -67,15 +67,15 @@ uri: 'Meta:HTML/Elements/noembed'
         -   [noembed](/w/index.php?title=HTML/Elements/noembed&action=edit&redlink=1)
         -   [plaintext](/w/index.php?title=HTML/Elements/plaintext&action=edit&redlink=1)
 
-# <span>\<noembed\></span>
+# \<noembed\>
 
-## <span>HTML Reference</span>
+## HTML Reference
 
 The \<noembed\> element is a non-standard element.
 
 HTML5 classifies it as a [non-conforming feature](http://www.w3.org/TR/html5/obsolete.html#obsolete).
 
-## <span>Examples</span>
+## Examples
 
 No, really. don't use it.
 

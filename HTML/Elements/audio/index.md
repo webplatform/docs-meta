@@ -3,7 +3,7 @@ title: audio
 uri: 'Meta:HTML/Elements/audio'
 
 ---
-## <span>Media Events</span>
+## Media Events
 
 |Event name|Dispatched when...|
 |:---------|:-----------------|
@@ -30,7 +30,7 @@ uri: 'Meta:HTML/Elements/audio'
 |`durationchange`|The `duration` attribute has just been updated.|
 |`volumechange`|Either the `volume` attribute or the `muted` attribute has changed. Fired after the relevant attribute's setter has returned.|
 
-## <span>See also</span>
+## See also
 
 1.  [Audio in the browser](http://html5doctor.com/native-audio-in-the-browser/)
 2.  [HTML5 Canvas and Audio Experiment](http://9elements.com/io/projects/html5/canvas/)

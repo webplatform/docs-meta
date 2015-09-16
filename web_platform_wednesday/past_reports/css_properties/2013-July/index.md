@@ -23,7 +23,7 @@ todo_broken_links:
 uri: 'Meta:web platform wednesday/past reports/css properties/2013-July'
 
 ---
-## <span>31 July 2013</span>
+## 31 July 2013
 
 |Article Name|Coordinator|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
 |:-----------|:----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
@@ -68,7 +68,7 @@ uri: 'Meta:web platform wednesday/past reports/css properties/2013-July'
 |[text-script](/css/properties/text-script)|[Julee](/User:Julee)|topic cluster|[CSS3 Text WD](http://www.w3.org/TR/2003/CR-css3-text-20030514/)
 [CSS3 Text ED](http://dev.w3.org/csswg/css-text/)|DO NOT ASSIGN|DO NOT ASSIGN|DO NOT ASSIGN|DO NOT ASSIGN|DO NOT ASSIGN|Since 10/2010: "The text-script property has been dropped, since it does not belong in the style layer." [CSS3 Text ED](http://dev.w3.org/csswg/css-text/)|
 
-## <span>24 July 2013</span>
+## 24 July 2013
 
 |Article Name|Coordinator|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examples|Links|Review|Notes|
 |:-----------|:----------|:------------|:-------|:----------|:---------------|:-------|:----|:-----|:----|
@@ -315,7 +315,7 @@ uri: 'Meta:web platform wednesday/past reports/css properties/2013-July'
 |[transform-origin](/css/properties/transform-origin)|[Julee](/User:Julee)|transform properties|[css3-transforms](http://www.w3.org/TR/css3-transforms/)|||||||
 |[transform-style](/css/properties/transform-style)|[Julee](/User:Julee)|transform properties|[css3-transforms](http://www.w3.org/TR/css3-transforms/)|||||||
 
-### <span>17 July 2013</span>
+### 17 July 2013
 
 We're getting close!
 
@@ -462,7 +462,7 @@ Needs review**|[Dave Gash](/User:Dgash)
 **Done
 Needs review**|||
 
-### <span>10 July 2013</span>
+### 10 July 2013
 
 |Article Name|Coordinator|Topic Cluster|Spec URL|Basic facts|Explanatory text|Examplesf|Links|Review|Notes|
 |:-----------|:----------|:------------|:-------|:----------|:---------------|:--------|:----|:-----|:----|

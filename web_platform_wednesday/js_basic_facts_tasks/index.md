@@ -3,7 +3,7 @@ title: js basic facts tasks
 uri: 'Meta:web platform wednesday/js basic facts tasks'
 
 ---
-### <span>Compare the WPD page to the original Microsoft Developer Network article linked from the bottom of the page</span>
+### Compare the WPD page to the original Microsoft Developer Network article linked from the bottom of the page
 
 If any content didn't make it through the import, add it to WPD page.
 
@@ -16,13 +16,13 @@ The Requirements section on MSDN were dropped.
 
 Add them to the Import Notes section.
 
-### <span>Review all content in "Main content" field</span>
+### Review all content in "Main content" field
 
 If there are any constructor, properties, functions, or methods lists, compare them to the automatically generated one. Delete duplicates from the "Main content" field.
 
 This "Main content" field will be removed after our review. Move any remaining content out of this field and to either Usage, Notes, or Import Notes.
 
-### <span>Compare the syntax values to the ones in the specification</span>
+### Compare the syntax values to the ones in the specification
 
 Make sure all syntax variations are reflected.
 
@@ -39,7 +39,7 @@ Under Section 15.4 of the spec:
     -   `new Array ( [ item0 [ , item1 [ , … ] ] ] )`
     -   `new Array (len)`
 
-### <span>Remove lefthand assignment from the parameters list</span>
+### Remove lefthand assignment from the parameters list
 
 For example:
 
@@ -54,7 +54,7 @@ Then, remove `arrayObj` from the list of parameters.
 
 Move any return values to the Return Value section
 
-### <span>Add the specification to the WPD page</span>
+### Add the specification to the WPD page
 
 In the Manual sections, add a link to the spec
 
@@ -66,7 +66,7 @@ For example:
     Standard ECMA-262
     5.1 Edition / June 2011
 
-### <span>Add the page type to the WPD page</span>
+### Add the page type to the WPD page
 
 In the form edit view, in the JavaScript Page section, select the page type.
 

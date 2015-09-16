@@ -15,7 +15,7 @@ todo_broken_links:
 uri: 'Meta:Editors Guide/content/types'
 
 ---
-## <span>Summary</span>
+## Summary
 
 As summarised on the WPD:Editors\_Guide, we have three page types to enter standard documentation content into:
 
@@ -29,7 +29,7 @@ In all cases, you should whether a suitable page exists already before you start
 
 Please note that when creating a new page, you should make all characters in the URL lower case.
 
-## <span>Reference material</span>
+## Reference material
 
 The way reference documents work together is pretty simple. There are many different types of reference page available, as shown on [WPD:New\_Page](/WPD:New_Page); you just have to choose the correct one for the item you are documenting, be it a CSS property, or an API object property or method. You then have to fill in the correct location for the page to go — this should be self explanatory after reading the explanation below each page type.
 
@@ -39,7 +39,7 @@ The reference pages don't need to be given much thought in terms of how they wil
 
 There is a good resource to help with creating new API pages, available at [WPD:Creating\_API\_pages](/WPD:Creating_API_pages).
 
-## <span>Concepts</span>
+## Concepts
 
 A concept article should be created using the Concept page type. You should put it in a sensible place, as informed by [WPD:Content/Topic\_Hierarchy](/WPD:Content/Topic_Hierarchy). A concept article should provide an overview of whatever concept or technology you want to write about. What it's used for and/or entails, what the basic syntax is, gotcha and caveats, etc. If there are a lot of subtopics related to this one, you should create subpages
 
@@ -51,7 +51,7 @@ A concept article should be created using the Concept page type. You should put 
 
 Concepts shouldn't contain step by step tutorial sections - these should be saved for tutorials!
 
-## <span>Tutorials</span>
+## Tutorials
 
 A tutorial article should contain step-by-step instructions for building some kind of app or feature, to demonstrate usage of a specific technology or technique. Tutorials should not contain all the high level purpose, background details and syntax that a concept article contains; it should just contain enough detail to allow the reader to work through the tutorial, along with further links to concept and reference articles for more details.
 
@@ -61,7 +61,7 @@ Tutorial articles should be created using the Tutorial page type, and put in a s
 -   css/tutorials/creating basic lists
 -   css/tutorials/implementing a basic HTML image
 
-## <span>Tutorials working together with concepts</span>
+## Tutorials working together with concepts
 
 In many situations, a group of concept articles will exist on it's own, without tutorials, for example many of the articles at [concepts](/concepts) don't require accompanying tutorials. However, for more practical subjects such as [css](/css), a hybrid approach is needed, as you ought to explain the high level concepts in separate articles, and then have stand alone tutorials to teach their application. A tutorial might relate to more than one concept articles, and a concept article might point to a number of related tutorials, to learn about the different practical applications of those concepts.
 
@@ -75,7 +75,7 @@ For example
 
 In general, you should think of concept articles as being the core/nucleus articles, and the tutorials as being follow-ons from those concepts — this should inform the document hierarchy for different content domains. But different domains should definitely have a mix of tutorials and concepts where appropriate.
 
-## <span>Usage of exercise questions</span>
+## Usage of exercise questions
 
 A number of people are in favour of having exercise questions at the end of articles, as seen in [tutorials/using\_selectors](/tutorials/using_selectors). These originated in articles taken from the Opera web standards curriculum, so will not be found on many pages. But we should add some short test questions to as many concept and tutorial articles as we can.
 
@@ -85,7 +85,7 @@ One question to answer is whether we should put these in the actual articles, or
 
 We should definitely have inline questions in the proposed beginner's articles.
 
-## <span>Future plans</span>
+## Future plans
 
 -   Make views available for readers to look at and work through just tutorials.
 -   Update the naming/IA of the landing pages. The "Concepts" page should renamed to something like "General web concepts" or "Web theory". The tutorials pages should be renamed, as they are not just tutorials.

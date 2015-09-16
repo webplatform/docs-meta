@@ -11,7 +11,7 @@ uri: 'Meta:web platform wednesday/2013-05-08'
 
 If you are not a coordinator, please **do not edit this page**. If you want to commit to a task, please contact the coordinator on the community mailing list, [public-webplatform@w3.org](mailto:public-webplatform@w3.org?subject=(WW)).
 
-## <span>Outline properties</span>
+## Outline properties
 
 **Coordinator:** [Doug Schepers](/User:Shepazu)
 
@@ -23,7 +23,7 @@ If you are not a coordinator, please **do not edit this page**. If you want to c
 |[outline-style](/css/properties/outline-style)|outline properties|<http://dev.w3.org/csswg/css-ui/#outline-style>|[Hiroki](/User:Hiroki)|[Hiroki](/User:Hiroki)|[Piatra](/User:Piatra)|[Hiroki](/User:Hiroki)|[Doug Schepers](/User:Shepazu)||
 |[outline-width](/css/properties/outline-width)|outline properties|<http://dev.w3.org/csswg/css-ui/#outline-width>|[Hiroki](/User:Hiroki)|[Hiroki](/User:Hiroki)|[Piatra](/User:Piatra)|[Hiroki](/User:Hiroki)|[Doug Schepers](/User:Shepazu)||
 
-## <span>Border shorthand properties</span>
+## Border shorthand properties
 
 **Coordinator:** [Chris Mills](/User:Cmills)
 
@@ -35,7 +35,7 @@ If you are not a coordinator, please **do not edit this page**. If you want to c
 |[border-bottom](/css/properties/border-bottom)|border properties, border bottom properties|<http://www.w3.org/TR/css3-background/#the-border-shorthands>|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|||
 |[border-left](/css/properties/border-left)|border properties, border left properties|<http://www.w3.org/TR/css3-background/#the-border-shorthands>|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|[Chris Mills](/User:Cmills)|||
 
-## <span>Border color properties</span>
+## Border color properties
 
 **Coordinator:** [Julee](/User:Julee)
 
@@ -47,7 +47,7 @@ If you are not a coordinator, please **do not edit this page**. If you want to c
 |[border-bottom-color](/css/properties/border-bottom-color)|border properties, border bottom properties, border color properties, color properties|<http://www.w3.org/TR/css3-background/#the-border-color>|Done: [Julee](/User:Julee)|Done: [Julee](/User:Julee)|Done: [Rishabhs Rao](/User:Rishabhsrao)|Done: [Julee](/User:Julee)|Done: [Greg](/w/index.php?title=User:Gregwhitworth&action=edit&redlink=1), plus [User:Frozenice](/User:Frozenice), and @ravenzz on \#webplatform IRC channel||
 |[border-left-color](/css/properties/border-left-color)|border properties, border left properties, border color properties, color properties|<http://www.w3.org/TR/css3-background/#the-border-color>|Done: [Julee](/User:Julee)|Done: [Julee](/User:Julee)|Done: [Rishabhs Rao](/User:Rishabhsrao)|Done: [Julee](/User:Julee)|Done: [Greg](/w/index.php?title=User:Gregwhitworth&action=edit&redlink=1), plus [User:Frozenice](/User:Frozenice), and @ravenzz on \#webplatform IRC channel||
 
-## <span>Border style properties</span>
+## Border style properties
 
 **Coordinator:** [Scott Rowe](/User:Scottrowe)
 
@@ -59,7 +59,7 @@ If you are not a coordinator, please **do not edit this page**. If you want to c
 |[border-bottom-style](/css/properties/border-bottom-style)|border properties, border bottom properties, border style properties|<http://www.w3.org/TR/css3-background/#the-border-style>|done|done|done|done|||
 |[border-left-style](/css/properties/border-left-style)|border properties, border left properties, border style properties|<http://www.w3.org/TR/css3-background/#the-border-style>|done|done|done|done|||
 
-## <span>Border width properties</span>
+## Border width properties
 
 **Coordinator:** [Janet Swisher](/User:Jswisher)
 
