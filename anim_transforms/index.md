@@ -52,7 +52,7 @@ Transforms alter a block element's coordinates in several ways so that they vary
        transform         : translate(50%, 10%) rotate(20deg) scale(0.75);
     }
 
-![transform combo.png](/assets/public/4/4b/transform_combo.png)
+![transform combo.png](/Meta/assets/public/4/4b/transform_combo.png)
 
 Transform properties were implemented recently enough that many browsers only support them with *vendor prefixes* such as **-moz-**, **-o-**, and **-webkit-** as shown above. Throughout this tutorial, CSS examples only show the un-prefixed property name, but for widest support you should apply all of them.
 
@@ -85,7 +85,7 @@ The following isolates how each 2D function works. The [**translate()**](/css/fu
 
     transform: translate(50%, 10%);
 
-![transform translate.png](/assets/public/d/db/transform_translate.png)
+![transform translate.png](/Meta/assets/public/d/db/transform_translate.png)
 
 The [**translate()**](/css/functions/translate()) function accepts up to two *x* and *y* values to move to the right and downward. These can specify any CSS measurement, including negative values to move left and upward. Percentages refer to the size of the transformed element. If you specify a single value, it's interpreted as *x* and only moves the element horizontally. Otherwise you can specify separate [**translateX()**](/css/functions/translateX()) and [**translateY()**](/css/functions/translateY()) functions. Here's another way to express the same translation as above:
 
@@ -100,7 +100,7 @@ The [**scale()**](/css/functions/scale()) function sizes an element in decimal t
     transform: scale(0.75, 1.25);
     transform: scaleX(0.75) scaleY(1.25);
 
-![transform scale.png](/assets/public/2/20/transform_scale.png)
+![transform scale.png](/Meta/assets/public/2/20/transform_scale.png)
 
 The [**rotate()**](/css/functions/rotate()) function spins an element around its *z* axis. It accepts a degree (**deg**) or radian (**rad**) measurement. (Radians are equivalent to the number of degrees multiplied by π/180.) Radial measurements can wrap around, so the following values are equivalent:
 
@@ -108,7 +108,7 @@ The [**rotate()**](/css/functions/rotate()) function spins an element around its
     transform: rotate(380deg);  /*   360  + 20 */
     transform: rotate(-340deg); /* (-360) + 20 */
 
-![transform rotate.png](/assets/public/7/79/transform_rotate.png)
+![transform rotate.png](/Meta/assets/public/7/79/transform_rotate.png)
 
 The [**skew()**](/css/functions/skew()) function leans an element over, altering its corner angle relative to the default 90° and transforming the underlying rectangle into a parallelogram. It accepts up to two degree (**deg**) or radian (**rad**) measurements. The separate [**skewX()**](/css/functions/skewX()) function tips the side edges of the element, while [**skewY()**](/css/functions/skewY()) tips the top and bottom. Setting a single [**skew()**](/css/functions/skew()) value affects only the *x* axis.
 
@@ -117,7 +117,7 @@ The [**skew()**](/css/functions/skew()) function leans an element over, altering
     transform: skew(10deg, -30deg);        /* 3rd */
     transform: skewX(10deg) skewY(-30deg); /* 3rd, alternate syntax */
 
-![transform skew.png](/assets/public/3/34/transform_skew.png)
+![transform skew.png](/Meta/assets/public/3/34/transform_skew.png)
 
 Note that skewing along both *x* and *y* makes the element appear to move into three-dimensional space, but the transformation actually occurs within a flat plane. Skip below for information about 3D transforms.
 
@@ -138,7 +138,7 @@ This shows a series of transforms that rotate around a point near the bottom rig
     div:nth-of-type(2) { transform : rotate(20deg) ; }
     div:nth-of-type(3) { transform : rotate(30deg) ; }
 
-![origin rotate.png](/assets/public/1/16/origin_rotate.png)
+![origin rotate.png](/Meta/assets/public/1/16/origin_rotate.png)
 
 In this example, placing the origin of a skew transform at the bottom makes it appear to tip over:
 
@@ -147,7 +147,7 @@ In this example, placing the origin of a skew transform at the bottom makes it a
        transform-origin   : bottom;
     }
 
-![origin skew.png](/assets/public/6/60/origin_skew.png)
+![origin skew.png](/Meta/assets/public/6/60/origin_skew.png)
 
 The property accepts the keywords **top** and **left** for **0%**, **bottom** and **right** for **100%**, and **center** for **50% 50%**.
 
@@ -163,7 +163,7 @@ In the first of the following examples, placing the origin of a [**scaleX()**](/
        transform        : scale(0.5);
     }
 
-![origin scale.png](/assets/public/0/0f/origin_scale.png)
+![origin scale.png](/Meta/assets/public/0/0f/origin_scale.png)
 
 ## You need some perspective
 
@@ -184,7 +184,7 @@ The first scene in the example below shows a 3D rotation that appears flat befor
         transform       : rotateY(45deg);
     }
 
-![transform perspective.png](/assets/public/f/fa/transform_perspective.png)
+![transform perspective.png](/Meta/assets/public/f/fa/transform_perspective.png)
 
 While [**perspective**](/css/properties/perspective) affects the perceived distance to an object along the *z* axis, the [**perspective-origin**](/css/properties/perspective-origin) property allows you to shift the perceived location along *x* and *y* from which it is viewed. The second scene reflects the default **center** value in which the viewpoint is centered straight out from the screen. Altering these values positions the viewer diagonally from the scene. The third scene shows the same rotation, but with the viewpoint shifted to the right:
 
@@ -206,7 +206,7 @@ The [**scale3d()**](/css/functions/scale3d()) function accepts three *x*, *y* an
 
 The [**transform-origin**](/css/properties/transform-origin) property accepts an additional third **z** measurement to place the transformation point behind or in front of where the element displays, in absolute units. (Alternately, specify the [**transform-origin-z**](/css/properties/transform-origin-z) property.) This example shows a series of elements that rotate to various degrees from an origin point within the gray parent box that is far behind them:
 
-![3d originZ.png](/assets/public/4/4a/3d_originZ.png)
+![3d originZ.png](/Meta/assets/public/4/4a/3d_originZ.png)
 
     .parent {
        perspective          : 10000;
@@ -235,7 +235,7 @@ This example shows a pair of child elements positioned at the same coordinates w
  </div>
 ```
 
- ![3d backface.png](/assets/public/b/b0/3d_backface.png)
+ ![3d backface.png](/Meta/assets/public/b/b0/3d_backface.png)
 
     body {
         background      : #ddd;
@@ -312,7 +312,7 @@ The outermost *scene* element defines the overall perspective:
         outline-color : pink;
     }
 
-![3Dnest scene.png](/assets/public/8/80/3Dnest_scene.png)
+![3Dnest scene.png](/Meta/assets/public/8/80/3Dnest_scene.png)
 
 The next *dice* element is rotated arbitrarily:
 
@@ -322,7 +322,7 @@ The next *dice* element is rotated arbitrarily:
         outline-color   : lightgreen;
     }
 
-![3Dnest dice.png](/assets/public/1/18/3Dnest_dice.png)
+![3Dnest dice.png](/Meta/assets/public/1/18/3Dnest_dice.png)
 
 The **preserve-3d** above renders any child element's transforms in three dimensions relative to the *dice* element's own transformed space. Otherwise the default **flat** value would make them appear on the *dice* element's surface as if on a display screen.
 
@@ -334,7 +334,7 @@ In this case, the nested *centered* element is there simply as a convenience to 
         outline-color   : gold;
     }
 
-![3Dnest centered.png](/assets/public/e/ee/3Dnest_centered.png)
+![3Dnest centered.png](/Meta/assets/public/e/ee/3Dnest_centered.png)
 
 Various properties define the dice's edges with rounded corners, along with the small dot images that will be arranged to form a pattern on each face. Only one dot displays in the first face's pattern, and the rest are pushed outside the displaying area:
 
@@ -352,7 +352,7 @@ Various properties define the dice's edges with rounded corners, along with the 
                              -20px -20px, -20px -20px, -20px -20px;
     }
 
-![3Dnest face1.png](/assets/public/4/49/3Dnest_face1.png)
+![3Dnest face1.png](/Meta/assets/public/4/49/3Dnest_face1.png)
 
 The next four faces use [**transform-origin**](/css/properties/transform-origin) to pivot outward at right angles along each edge of the first face:
 
@@ -381,7 +381,7 @@ The next four faces use [**transform-origin**](/css/properties/transform-origin)
                               70px 10px, 40px 40px, 70px 70px;
     }
 
-![3Dnest face5.png](/assets/public/d/d9/3Dnest_face5.png)
+![3Dnest face5.png](/Meta/assets/public/d/d9/3Dnest_face5.png)
 
 Note that all the backfaces are visible, and only become hidden when other opaque boxes appear in front of them.
 
@@ -394,7 +394,7 @@ The sixth face simply uses **translateZ()** to drop it back to close off the cub
                               70px 10px, 70px 40px, 70px 70px;
     }
 
-![3Dnest face6.png](/assets/public/b/b7/3Dnest_face6.png)
+![3Dnest face6.png](/Meta/assets/public/b/b7/3Dnest_face6.png)
 
 Applying different rotations to the *dice* element causes nested transform spaces to render relative to it, thus spinning the entire object. Here is how a script can control the spin:
 
@@ -405,11 +405,11 @@ Applying different rotations to the *dice* element causes nested transform space
 
     function spin() { return( Math.floor( Math.random() * 360 ) + 'deg') }
 
-![3Dnest spin.png](/assets/public/2/2e/3Dnest_spin.png)
+![3Dnest spin.png](/Meta/assets/public/2/2e/3Dnest_spin.png)
 
 Once such a complex 3D object takes up space, the effect of the [**scaleZ()**](/css/functions/scaleZ()) or [**scale3d()**](/css/functions/scale3d()) functions becomes apparent. An animated transition between **scale3d(0,0,0)** and **scale3d(1,1,1)** sizes the object in all three dimensions:
 
-![scaleZ.png](/assets/public/a/a1/scaleZ.png)
+![scaleZ.png](/Meta/assets/public/a/a1/scaleZ.png)
 
 ## See also
 
