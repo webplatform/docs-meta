@@ -1,8 +1,5 @@
 ---
 title: 'command'
-compatibility:
-  feature: command
-  topic: html
 notes:
   - 'Can''t find a normative reference. Is this obsolete?'
 overview_table:

@@ -1,8 +1,5 @@
 ---
 title: 'fuz'
-compatibility:
-  feature: fuz
-  topic: apis
 notes:
   - 'goofed when trying to create css/cssom/NamedFlow/overset property; created method instead; want to start over'
 relationships:
