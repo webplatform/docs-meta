@@ -1,5 +1,5 @@
 ---
-title: javascript reference
+title: 'javascript reference'
 uri: 'Meta:web platform wednesday/past reports/javascript reference'
 
 ---

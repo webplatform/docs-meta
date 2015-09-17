@@ -1,5 +1,5 @@
 ---
-title: JavaScript
+title: 'JavaScript'
 lang: pt-br
 standardization_status: Unknown
 todo_broken_links:

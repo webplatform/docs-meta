@@ -1,5 +1,5 @@
 ---
-title: Examples
+title: 'Examples'
 uri: 'Meta:Editors Guide/Topic Hierarchy/Topic Clusters/Examples'
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: parseFloat
+title: 'parseFloat'
 tags:
   - JavaScript
 todo_broken_links:

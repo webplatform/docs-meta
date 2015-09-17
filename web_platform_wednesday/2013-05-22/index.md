@@ -1,5 +1,5 @@
 ---
-title: 2013-05-22
+title: '2013-05-22'
 uri: 'Meta:web platform wednesday/2013-05-22'
 
 ---

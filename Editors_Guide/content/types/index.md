@@ -1,5 +1,5 @@
 ---
-title: Content types explained
+title: 'Content types explained'
 summary: "As summarised on the WPD:Editors_Guide, we have three page types to enter standard documentation content into:\n"
 tags:
   - Basic

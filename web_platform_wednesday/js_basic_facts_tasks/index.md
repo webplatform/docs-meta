@@ -1,5 +1,5 @@
 ---
-title: js basic facts tasks
+title: 'js basic facts tasks'
 uri: 'Meta:web platform wednesday/js basic facts tasks'
 
 ---

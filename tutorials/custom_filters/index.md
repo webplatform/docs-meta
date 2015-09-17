@@ -1,5 +1,5 @@
 ---
-title: custom filters
+title: 'custom filters'
 uri: 'Meta:tutorials/custom filters'
 
 ---

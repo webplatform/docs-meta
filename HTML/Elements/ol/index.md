@@ -1,5 +1,8 @@
 ---
-title: ol
+title: 'ol'
+compatibility:
+  feature: ol
+  topic: html
 overview_table:
   '[DOM Interface](/dom/interface)': '[?](/w/index.php?title=%3F&action=edit&redlink=1)'
 summary: 'The ol element makes an ordered list from the li (list item) elements it contains. Typically, each item is rendered with a number before it.'

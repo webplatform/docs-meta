@@ -1,5 +1,5 @@
 ---
-title: past reports
+title: 'past reports'
 uri: 'Meta:web platform wednesday/past reports'
 
 ---

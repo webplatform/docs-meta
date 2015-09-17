@@ -1,5 +1,5 @@
 ---
-title: Sandbox Subpage
+title: 'Sandbox Subpage'
 uri: 'Meta:Sandbox/Sandbox Subpage'
 
 ---

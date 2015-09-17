@@ -1,5 +1,5 @@
 ---
-title: master list
+title: 'master list'
 uri: 'Meta:web platform wednesday/master list'
 
 ---

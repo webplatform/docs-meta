@@ -1,5 +1,5 @@
 ---
-title: parseInt
+title: 'parseInt'
 tags:
   - JavaScript
 uri: 'Meta:javascript/functions/parseInt'

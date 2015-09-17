@@ -1,5 +1,8 @@
 ---
-title: var
+title: 'var'
+compatibility:
+  feature: var
+  topic: html
 overview_table:
   '[DOM Interface](/dom/interface)': '[?](/w/index.php?title=%3F&action=edit&redlink=1)'
 tags:

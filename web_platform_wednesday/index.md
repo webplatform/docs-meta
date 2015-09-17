@@ -1,5 +1,5 @@
 ---
-title: Meta:web platform wednesday
+title: 'Meta:web platform wednesday'
 uri: 'Meta:web platform wednesday'
 
 ---

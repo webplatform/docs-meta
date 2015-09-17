@@ -1,5 +1,5 @@
 ---
-title: JavaScript Tutorials
+title: 'JavaScript Tutorials'
 summary: 'Index page for JavaScript tutorials.'
 tags:
   - JavaScript

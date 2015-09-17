@@ -1,5 +1,8 @@
 ---
-title: summary
+title: 'summary'
+compatibility:
+  feature: summary
+  topic: html
 overview_table:
   '[DOM Interface](/dom/interface)': '[?](/w/index.php?title=%3F&action=edit&redlink=1)'
 tags:

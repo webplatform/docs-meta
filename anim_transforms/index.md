@@ -1,5 +1,5 @@
 ---
-title: Manipulating content with CSS3 transforms
+title: 'Manipulating content with CSS3 transforms'
 notes:
   - 'import bug; real page is at css_transforms'
 summary: "CSS transforms allow you to dynamically manipulate\nthe space in which content elements appear. You can move them around\non the screen, shrink or expand them, rotate them, or combine all\nthese effects to produce complex movements.  By themselves, transforms\nproduce static visual effects, but they can be easily combined with\nCSS transitions and\nkeyframe animations to produce vibrant\nanimated interfaces. This tutorial first introduces simple\ntwo-dimensional transforms, then shows you how to extend transforms\ninto three-dimensional space.  It ends with step-by-step instructions\nto spin a cube in space.\n"

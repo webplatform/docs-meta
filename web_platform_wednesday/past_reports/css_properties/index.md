@@ -1,5 +1,5 @@
 ---
-title: css properties
+title: 'css properties'
 uri: 'Meta:web platform wednesday/past reports/css properties'
 
 ---

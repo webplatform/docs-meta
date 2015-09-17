@@ -1,5 +1,5 @@
 ---
-title: getDate
+title: 'getDate'
 tags:
   - javascript
   - methods

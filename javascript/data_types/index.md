@@ -1,5 +1,5 @@
 ---
-title: JavaScript data types
+title: 'JavaScript data types'
 summary: 'Index page for JavaScript data types'
 tags:
   - Basic

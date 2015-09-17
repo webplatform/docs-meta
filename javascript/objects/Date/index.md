@@ -1,5 +1,5 @@
 ---
-title: Date
+title: 'Date'
 tags:
   - javascript
   - global

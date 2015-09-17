@@ -1,5 +1,5 @@
 ---
-title: Topic Hierarchy
+title: 'Topic Hierarchy'
 uri: 'Meta:Editors Guide/Topic Hierarchy'
 
 ---

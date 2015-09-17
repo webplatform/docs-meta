@@ -1,5 +1,5 @@
 ---
-title: Editor's Guide
+title: 'Editor\'s Guide'
 uri: 'Meta:Editors Guide'
 
 ---
