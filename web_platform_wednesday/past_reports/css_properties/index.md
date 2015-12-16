@@ -33,7 +33,7 @@ If you don't have time this week, check back next week... there's plenty of work
 
 Watch this 12 minute tutorial to get started with editing CSS properties. It covers some of the fine points as well as do's and don't's.
 
-[![WPW CSS Properties.png](/Meta/assets/thumb/b/b0/WPW_CSS_Properties.png/500px-WPW_CSS_Properties.png)](http://www.youtube.com/watch?feature=player_embedded&v=T-rOtfAsHNw)
+[![WPW CSS Properties.png](//static.webplatform.org/thumb/b/b0/WPW_CSS_Properties.png/500px-WPW_CSS_Properties.png)](http://www.youtube.com/watch?feature=player_embedded&v=T-rOtfAsHNw)
 [](/File:WPW_CSS_Properties.png)
 
 ### CSS properties editing guide

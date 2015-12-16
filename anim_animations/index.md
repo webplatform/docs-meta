@@ -50,7 +50,7 @@ These key points serve as reference:
 
 To understand how animations work, start with an example of a pulsing icon, which may be used in a mobile interface to indicate what part of an application is selected. The animation continuously shrinks and grows one of the icons as it dims and brightens it. This simple example will illustrate several other features below:
 
-![anim pulse.png](/Meta/assets/public/6/64/anim_pulse.png)
+![anim pulse.png](//static.webplatform.org/6/64/anim_pulse.png)
 
 The [**animation**](/css/properties/animation) CSS property specifies the *name* of an animation you will supply, **pulse** in this case, and its overall *duration* of 1 second. Both are required:
 
@@ -179,7 +179,7 @@ Whenever two time measurements are specified in a shorthand property value, the 
 
 This more elaborate example shows a delayed animation within a mobile interface. After an initial pause, content shifts down to make room for a series of banner advertisements, which then continuously cycle horizontally and rewind to display the first:
 
-![anim cycle.png](/Meta/assets/public/9/9b/anim_cycle.png)
+![anim cycle.png](//static.webplatform.org/9/9b/anim_cycle.png)
 
 To achieve this effect, the [**animation-delay**](/css/properties/animation-delay) property makes content shift down after 4 seconds. Here is the relevant CSS:
 
@@ -259,7 +259,7 @@ The same set of timing functions that apply to transitions also apply to animati
 
 By default, the **ease** value starts each keyframe slowly, builds speed, then slows at the end, which is not always appropriate behavior. In this example, a series of items, skewed to appear fast-moving, slide in haphazardly from the right edge of the screen, then hit a wall at the left edge and wobble to a stop:
 
-![animDelay.png](/Meta/assets/public/6/62/animDelay.png)
+![animDelay.png](//static.webplatform.org/6/62/animDelay.png)
 
 Setting the timing function to **linear** makes the shift from a moving to a stopped state as abrupt as possible. This occurs at the 70% keyframe:
 

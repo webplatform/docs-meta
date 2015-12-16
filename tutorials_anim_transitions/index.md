@@ -51,7 +51,7 @@ These key points serve as reference:
 
 For transitions to work, there need to be two sets of style sheets that might apply to any element as users interact with the page. In this case, tapping a small **nav** element expands it out to a wider navigation panel:
 
-![transit parent.png](/Meta/assets/public/f/f1/transit_parent.png)
+![transit parent.png](//static.webplatform.org/f/f1/transit_parent.png)
 
 To achieve this effect, a default style sheet defines most of how it appears. A second style sheet changes how it appears when it is assigned the *expanded* class.
 
@@ -132,7 +132,7 @@ We want the panel to display a set of nested navigation icons, in this case a se
 
 The [**opacity**](/css/properties/opacity) property fades the icons, and [**transform**](/css/properties/transform) grows or shrinks them down to a point. (See the [tutorial on CSS transforms](/tutorials/css_transforms) for details.) Combined, the two sets of transitions execute simultaneously:
 
-![transit simple.png](/Meta/assets/thumb/a/a3/transit_simple.png/280px-transit_simple.png)
+![transit simple.png](//static.webplatform.org/thumb/a/a3/transit_simple.png/280px-transit_simple.png)
 
 For an element to be transitioned, it must specify a numeric value or percentage, such as a measurement or set of coordinates, or values that translate to numeric values, such as colors. Many keyword values work as well, such as the color **red** or **center** when used as a coordinate. But you cannot transition properties whose values specify a different kind of behavior. For example, you cannot transition between the [**display**](/css/properties/display) property's **block** and **none** values, or use [**text-align**](/css/properties/text-align) to switch between **left** and **right** justification.
 
@@ -142,7 +142,7 @@ For an element to be transitioned, it must specify a numeric value or percentage
 
 You are not limited to a single set of transitions to get from one set of style sheets to another. The panel in this example first grows to its full width, then lengthens. The sequence is then reversed when collapsing the panel back down to icon size:
 
-![transit sequence.png](/Meta/assets/thumb/b/bf/transit_sequence.png/900px-transit_sequence.png)
+![transit sequence.png](//static.webplatform.org/thumb/b/bf/transit_sequence.png/900px-transit_sequence.png)
 
 Here is the relevant CSS:
 
@@ -207,7 +207,7 @@ Note that with no delay specified, you can use more than one transition to anima
 
 The overall movement is staggered like this:
 
-![transit delay.png](/Meta/assets/public/5/51/transit_delay.png)
+![transit delay.png](//static.webplatform.org/5/51/transit_delay.png)
 
 <span id="timing"></span>
 
@@ -215,24 +215,24 @@ The overall movement is staggered like this:
 
 You may notice in the example above that the cards are not evenly spaced. That's because transitions by default start out slowly, gather speed, then slow down again at the end. The [**transition-timing-function**](/css/properties/transition-timing-function) property specifies this behavior. By default it uses an **ease** value. If it were **linear**, they would all start and stop abruptly and move at the same speed:
 
-![transit linear.png](/Meta/assets/public/9/95/transit_linear.png)
+![transit linear.png](//static.webplatform.org/9/95/transit_linear.png)
 
 Browsers represent these keywords as bezier curves, which makes their response easier to visualize. Here is the basic set of keyword values along with their alternate **cubic-bezier()** functions. The animation's elapsed time and progress correspond to *x* and *y* axes, so the more the line curves vertically along the way, the faster the animation proceeds:
 
 **linear**
-**cubic-bezier(0.0, 0.0, 1.0, 1.0)** ![transitF linear.png](/Meta/assets/public/8/8e/transitF_linear.png)
+**cubic-bezier(0.0, 0.0, 1.0, 1.0)** ![transitF linear.png](//static.webplatform.org/8/8e/transitF_linear.png)
 
 **ease**
-**cubic-bezier(0.25, 0.1, 0.25, 1.0)** ![transitF ease.png](/Meta/assets/public/7/73/transitF_ease.png)
+**cubic-bezier(0.25, 0.1, 0.25, 1.0)** ![transitF ease.png](//static.webplatform.org/7/73/transitF_ease.png)
 
 **ease-in-out**
-**cubic-bezier(0.42, 0, 0.58, 1.0)** ![transitF easeinout.png](/Meta/assets/public/6/67/transitF_easeinout.png)
+**cubic-bezier(0.42, 0, 0.58, 1.0)** ![transitF easeinout.png](//static.webplatform.org/6/67/transitF_easeinout.png)
 
 **ease-in**
-**cubic-bezier(0.42, 0, 1.0, 1.0)** ![transitF easein.png](/Meta/assets/public/6/64/transitF_easein.png)
+**cubic-bezier(0.42, 0, 1.0, 1.0)** ![transitF easein.png](//static.webplatform.org/6/64/transitF_easein.png)
 
 **ease-out**
-**cubic-bezier(0, 0, 0.58, 1.0)** ![transitF easeout.png](/Meta/assets/public/0/00/transitF_easeout.png)
+**cubic-bezier(0, 0, 0.58, 1.0)** ![transitF easeout.png](//static.webplatform.org/0/00/transitF_easeout.png)
 
 This useful [cubic bezier function utility](http://cssglue.com/cubic) allows you to create your own custom curve and the see the result applied to various animations.
 
@@ -251,7 +251,7 @@ The **transitionend** event allows an application to respond after a transition 
 
 In this example, applying a *display* class makes an information panel appear:
 
-![transit end.png](/Meta/assets/public/1/13/transit_end.png)
+![transit end.png](//static.webplatform.org/1/13/transit_end.png)
 
 The [**opacity**](/css/properties/opacity) property makes the element fade in, and is the only noticable change to its appearance. A second transition executes over a longer span of time, and makes an imperceptible change to the background color. Here is the relevant CSS:
 
@@ -294,7 +294,7 @@ Transitions between two [**background-image**](/css/properties/background-image)
     div[data-img="4"] { background-image : url("Image04.jpg"); }
     div[data-img="5"] { background-image : url("Image05.jpg"); }
 
-![fade.png](/Meta/assets/public/1/1e/fade.png)
+![fade.png](//static.webplatform.org/1/1e/fade.png)
 
 See the [cross-fade()](/css/functions/cross-fade) function for a way to mix images statically.
 
@@ -311,7 +311,7 @@ The [**filter**](/css/properties/filter) property allows you to apply sequences 
       -webkit-transform: translate(100px, 50px) rotateX(45deg) rotateY(-30deg) rotateZ(10deg);
     }
 
-![videofade.png](/Meta/assets/public/3/3d/videofade.png)
+![videofade.png](//static.webplatform.org/3/3d/videofade.png)
 
 Unlike [**transform**](/css/properties/transform) functions, [**filter**](/css/properties/filter) functions must be explictly declared in each style sheet in the exact same order if they are to transition.
 
